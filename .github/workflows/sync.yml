@@ -1,0 +1,80 @@
+name: Daily Sync
+
+on:
+  schedule:
+    # 每日 UTC 00:00 触发（北京时间 08:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: '限制抓取条数（调试用，留空=全量）'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL }}
+      TRANSLATE_MODEL: ${{ secrets.TRANSLATE_MODEL }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install
+        run: npm ci
+
+      - name: Sync from GitHub
+        run: |
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            npm run sync -- --limit ${{ github.event.inputs.limit }}
+          else
+            npm run sync
+          fi
+
+      - name: Translate to Chinese
+        if: ${{ env.DEEPSEEK_API_KEY != '' }}
+        run: |
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            npm run translate -- --limit ${{ github.event.inputs.limit }}
+          else
+            npm run translate
+          fi
+
+      - name: Commit & Push
+        run: |
+          git config user.name "skillhot-bot"
+          git config user.email "bot@skillhot.dev"
+          git add data/skills.json
+          if git diff --cached --quiet; then
+            echo "无变化，跳过提交"
+          else
+            git commit -m "chore(data): daily sync $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Trigger Vercel Rebuild (optional)
+        if: ${{ secrets.VERCEL_DEPLOY_HOOK != '' }}
+        run: |
+          curl -X POST "$VERCEL_DEPLOY_HOOK" || true
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}

@@ -1,0 +1,1411 @@
+[
+  {
+    "id": "obra/superpowers",
+    "name": "superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "descriptionZh": "为 Claude Code 注入\"超能力\"的技能合集，包含头脑风暴、规划、TDD、代码审查等高级工作流，质量在社区中口碑极好。",
+    "url": "https://github.com/obra/superpowers",
+    "homepage": null,
+    "stars": 240062,
+    "forks": 21302,
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "language": "Shell",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "opencode",
+      "cursor"
+    ],
+    "useCases": [
+      "规划工作流",
+      "TDD 开发",
+      "代码审查",
+      "头脑风暴"
+    ],
+    "installCmd": null,
+    "lastCommit": "2026-06-25T02:35:57Z",
+    "commits30d": 100,
+    "starGrowth30d": 1,
+    "firstSeen": "2025-11-15T00:00:00Z",
+    "featured": true,
+    "archived": false
+  },
+  {
+    "id": "anthropics/skills",
+    "name": "skills",
+    "description": "Public repository for Agent Skills",
+    "descriptionZh": "Anthropic 官方维护的 Skills 集合，涵盖 PDF 处理、Excel/Docx 生成、SQL 等生产级能力，是学习 SKILL.md 规范的最佳范本。",
+    "url": "https://github.com/anthropics/skills",
+    "homepage": null,
+    "stars": 155909,
+    "forks": 18381,
+    "topics": [
+      "agent-skills"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "文档生成",
+      "数据处理",
+      "学习 SKILL.md 规范"
+    ],
+    "installCmd": null,
+    "lastCommit": "2026-06-27T16:07:58Z",
+    "commits30d": 6,
+    "starGrowth30d": 1,
+    "firstSeen": "2025-08-10T00:00:00Z",
+    "featured": true,
+    "archived": false
+  },
+  {
+    "id": "wshobson/agents",
+    "name": "agents",
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+    "descriptionZh": "30+ 个专精 Agent 集合，覆盖前后端、数据库、DevOps、文档等领域，每个 Agent 都有自己的 system prompt 与工具集。",
+    "url": "https://github.com/wshobson/agents",
+    "homepage": "https://sethhobson.com",
+    "stars": 37260,
+    "forks": 4008,
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "agents",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude-code",
+      "claude-code-plugins",
+      "codex-cli",
+      "copilot",
+      "cursor",
+      "cursor-rules",
+      "developer-tools",
+      "gemini-cli",
+      "mcp",
+      "multi-agent",
+      "opencode",
+      "orchestration",
+      "prompt-engineering",
+      "workflows"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "opencode",
+      "cursor"
+    ],
+    "useCases": [
+      "前后端开发",
+      "数据库设计",
+      "DevOps 自动化"
+    ],
+    "installCmd": "npx codex-marketplace add wshobson/agents        # Codex; then install individual plugins",
+    "lastCommit": "2026-06-25T13:03:19Z",
+    "commits30d": 68,
+    "starGrowth30d": 0,
+    "firstSeen": "2025-09-05T00:00:00Z",
+    "featured": true,
+    "archived": false
+  },
+  {
+    "id": "voltagent/awesome-claude-code-subagents",
+    "name": "awesome-claude-code-subagents",
+    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
+    "descriptionZh": "VoltAgent 维护的 awesome-list，汇集社区高质量 Subagent，附使用说明与场景标签，是发现新 Agent 的首选入口。",
+    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+    "homepage": "https://github.com/VoltAgent/voltagent",
+    "stars": 22491,
+    "forks": 2621,
+    "topics": [
+      "ai-agent-framework",
+      "ai-agent-tools",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "claude",
+      "claude-ai",
+      "claude-code-subagents",
+      "claude-subagents",
+      "subagents"
+    ],
+    "language": "Shell",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "发现新 Agent",
+      "学习 Agent 设计"
+    ],
+    "installCmd": "claude plugin install <plugin-name>",
+    "lastCommit": "2026-06-24T06:28:05Z",
+    "commits30d": 7,
+    "starGrowth30d": 1,
+    "firstSeen": "2025-12-01T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "hesreallyhim/awesome-claude-code",
+    "name": "awesome-claude-code",
+    "description": "A curated list of awesome things built using Claude Code.",
+    "descriptionZh": "最老牌的 Claude Code awesome-list，收录工具、插件、Skills、命令、教程，分类清晰，新人入门必看。",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "homepage": null,
+    "stars": 9870,
+    "forks": 510,
+    "topics": [
+      "claude-code",
+      "awesome-list",
+      "curated"
+    ],
+    "language": null,
+    "category": "misc",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "资源导航",
+      "入门学习"
+    ],
+    "installCmd": null,
+    "lastCommit": "2026-06-22T16:45:00Z",
+    "commits30d": 18,
+    "starGrowth30d": 290,
+    "firstSeen": "2025-07-18T00:00:00Z",
+    "featured": true,
+    "archived": false
+  },
+  {
+    "id": "voltagent/voltagent",
+    "name": "voltagent",
+    "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+    "descriptionZh": "基于开源TypeScript AI Agent框架构建的AI智能体工程平台。",
+    "url": "https://github.com/VoltAgent/voltagent",
+    "homepage": "https://voltagent.dev",
+    "stars": 9833,
+    "forks": 1017,
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-agents-framework",
+      "aiagentframework",
+      "chatbots",
+      "chatgpt",
+      "framework",
+      "javascript",
+      "llm",
+      "llm-observability",
+      "mcp",
+      "multiagent",
+      "nodejs",
+      "observability",
+      "open-source",
+      "openai",
+      "rag",
+      "tts",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm create voltagent-app@latest",
+    "lastCommit": "2026-06-23T08:11:24Z",
+    "commits30d": 12,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-28T01:14:54.800Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "punkpeye/awesome-mcp-clients",
+    "name": "awesome-mcp-clients",
+    "description": "A collection of MCP clients.",
+    "descriptionZh": "MCP 客户端集合。",
+    "url": "https://github.com/punkpeye/awesome-mcp-clients",
+    "homepage": "https://glama.ai/mcp/clients",
+    "stars": 6496,
+    "forks": 592,
+    "topics": [
+      "clients",
+      "mcp"
+    ],
+    "language": null,
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fastchat-mcp",
+    "lastCommit": "2026-06-07T18:57:48Z",
+    "commits30d": 2,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-28T04:12:50.472Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "davila7/claude-code-templates",
+    "name": "claude-code-templates",
+    "description": "Largest collection of high-quality templates for Claude Code projects.",
+    "descriptionZh": "最大的 Claude Code 项目模板库，含 Next.js、FastAPI、Hardhat、Foundry 等主流栈的一键起步模板，省去配置时间。",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "homepage": "https://claudecodetemplates.com",
+    "stars": 5340,
+    "forks": 720,
+    "topics": [
+      "claude-code",
+      "templates",
+      "nextjs",
+      "fastapi"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [
+      "项目初始化",
+      "学习最佳实践",
+      "快速原型"
+    ],
+    "installCmd": "npx davila7-cc-templates init",
+    "lastCommit": "2026-06-26T09:15:00Z",
+    "commits30d": 22,
+    "starGrowth30d": 380,
+    "firstSeen": "2025-10-20T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "voltagent/awesome-codex-subagents",
+    "name": "awesome-codex-subagents",
+    "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
+    "descriptionZh": "130多个专业Codex子代理集合，覆盖广泛开发用例。",
+    "url": "https://github.com/VoltAgent/awesome-codex-subagents",
+    "homepage": "https://github.com/VoltAgent/voltagent",
+    "stars": 5348,
+    "forks": 599,
+    "topics": [
+      "ai-agents",
+      "awesome-list",
+      "chatgpt",
+      "codex",
+      "codex-skills",
+      "codex-subagents",
+      "subagents"
+    ],
+    "language": null,
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-06-24T06:45:55Z",
+    "commits30d": 2,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-28T01:15:09.155Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "langchain-toolkit/agent-skill",
+    "name": "langchain-agent-skill",
+    "description": "LangChain agent builder skill - compose tools, chains, and memory.",
+    "descriptionZh": "LangChain Agent 构建 Skill，把工具链、Chain、Memory 组合成自定义 Agent，适合做复杂业务流编排。",
+    "url": "https://github.com/langchain-toolkit/agent-skill",
+    "homepage": null,
+    "stars": 2680,
+    "forks": 168,
+    "topics": [
+      "langchain",
+      "agent",
+      "llm",
+      "framework"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "Agent 编排",
+      "工具集成",
+      "业务流自动化"
+    ],
+    "installCmd": "pip install langchain-agent-skill",
+    "lastCommit": "2026-06-25T12:00:00Z",
+    "commits30d": 18,
+    "starGrowth30d": 140,
+    "firstSeen": "2026-01-28T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "matiasmohamed/code-review-skill",
+    "name": "code-review-skill",
+    "description": "Senior-level code review skill - finds bugs, suggests refactors, enforces style.",
+    "descriptionZh": "资深工程师级代码审查 Skill，按真实团队 code review 标准找 bug、提重构、检查风格，比默认审查更深入。",
+    "url": "https://github.com/matiasmohamed/code-review-skill",
+    "homepage": null,
+    "stars": 2240,
+    "forks": 142,
+    "topics": [
+      "claude-code",
+      "code-review",
+      "quality"
+    ],
+    "language": "Markdown",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "PR 审查",
+      "重构建议",
+      "风格统一"
+    ],
+    "installCmd": "git clone https://github.com/matiasmohamed/code-review-skill ~/.claude/skills/review",
+    "lastCommit": "2026-06-28T01:30:00Z",
+    "commits30d": 24,
+    "starGrowth30d": 180,
+    "firstSeen": "2026-06-25T00:00:00Z",
+    "featured": true,
+    "archived": false
+  },
+  {
+    "id": "figma-fetcher/design-skill",
+    "name": "figma-design-skill",
+    "description": "Figma to code skill - import designs and generate React components.",
+    "descriptionZh": "Figma 设计稿转代码 Skill，自动从 Figma 拉取设计稿并生成对应 React 组件，设计师与开发者协作利器。",
+    "url": "https://github.com/figma-fetcher/design-skill",
+    "homepage": null,
+    "stars": 1980,
+    "forks": 124,
+    "topics": [
+      "figma",
+      "design-to-code",
+      "react",
+      "ui-design"
+    ],
+    "language": "TypeScript",
+    "category": "ui-design",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [
+      "设计稿还原",
+      "组件生成",
+      "设计 token 同步"
+    ],
+    "installCmd": "claude skill install figma-fetcher/design-skill",
+    "lastCommit": "2026-06-28T05:20:00Z",
+    "commits30d": 26,
+    "starGrowth30d": 175,
+    "firstSeen": "2026-06-26T00:00:00Z",
+    "featured": true,
+    "archived": false
+  },
+  {
+    "id": "openai/codex-mcp",
+    "name": "codex-mcp",
+    "description": "OpenAI Codex MCP server integration skill.",
+    "descriptionZh": "把 OpenAI Codex 接入 MCP 协议的桥接 Skill，让 Claude Code 在需要时调用 Codex 做对比与互补。",
+    "url": "https://github.com/openai/codex-mcp",
+    "homepage": null,
+    "stars": 2150,
+    "forks": 134,
+    "topics": [
+      "mcp",
+      "codex",
+      "openai",
+      "integration"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "cline"
+    ],
+    "useCases": [
+      "多模型协作",
+      "能力互补"
+    ],
+    "installCmd": "pip install codex-mcp",
+    "lastCommit": "2026-06-18T14:00:00Z",
+    "commits30d": 8,
+    "starGrowth30d": 70,
+    "firstSeen": "2026-03-22T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "chroma-core/skill-pack",
+    "name": "skill-pack",
+    "description": "Vector search skill pack for Claude Code powered by Chroma.",
+    "descriptionZh": "基于 Chroma 的向量检索技能包，让 Claude Code 对大型代码库/文档库做语义检索，找东西比 grep 准很多。",
+    "url": "https://github.com/chroma-core/skill-pack",
+    "homepage": "https://trychroma.com",
+    "stars": 1820,
+    "forks": 95,
+    "topics": [
+      "claude-code",
+      "vector-search",
+      "chroma",
+      "embeddings"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "语义检索",
+      "代码库导航",
+      "RAG"
+    ],
+    "installCmd": "pip install chroma-skill-pack",
+    "lastCommit": "2026-06-26T11:20:00Z",
+    "commits30d": 16,
+    "starGrowth30d": 110,
+    "firstSeen": "2026-01-15T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "obra/devops-backpack",
+    "name": "devops-backpack",
+    "description": "DevOps skill pack - k8s, docker, terraform, CI/CD helpers.",
+    "descriptionZh": "DevOps 百宝箱，覆盖 k8s、Docker、Terraform、GitHub Actions 常见场景，让 Claude 直接帮你写部署清单和流水线。",
+    "url": "https://github.com/obra/devops-backpack",
+    "homepage": null,
+    "stars": 1690,
+    "forks": 110,
+    "topics": [
+      "devops",
+      "kubernetes",
+      "terraform",
+      "ci-cd"
+    ],
+    "language": "HCL",
+    "category": "devops",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "K8s 清单编写",
+      "CI/CD 流水线",
+      "Terraform 模块"
+    ],
+    "installCmd": "git clone https://github.com/obra/devops-backpack ~/.claude/skills/devops",
+    "lastCommit": "2026-06-27T07:45:00Z",
+    "commits30d": 21,
+    "starGrowth30d": 155,
+    "firstSeen": "2026-02-28T00:00:00Z",
+    "featured": true,
+    "archived": false
+  },
+  {
+    "id": "observable/data-viz",
+    "name": "data-viz",
+    "description": "Data visualization skill using Observable Plot and D3.",
+    "descriptionZh": "基于 Observable Plot 与 D3 的数据可视化 Skill，自然语言生成可交互图表，比手写 ECharts 快十倍。",
+    "url": "https://github.com/observable/data-viz",
+    "homepage": "https://observablehq.com",
+    "stars": 1610,
+    "forks": 92,
+    "topics": [
+      "data-viz",
+      "d3",
+      "observable",
+      "chart"
+    ],
+    "language": "JavaScript",
+    "category": "data",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [
+      "报表生成",
+      "数据探索",
+      "仪表盘搭建"
+    ],
+    "installCmd": "npm install observable-data-viz-skill",
+    "lastCommit": "2026-06-27T16:00:00Z",
+    "commits30d": 17,
+    "starGrowth30d": 120,
+    "firstSeen": "2026-06-23T00:00:00Z",
+    "featured": true,
+    "archived": false
+  },
+  {
+    "id": "stripe-docs/integration-skill",
+    "name": "stripe-integration-skill",
+    "description": "Stripe integration skill - payments, subscriptions, webhooks done right.",
+    "descriptionZh": "Stripe 集成 Skill，按官方最佳实践生成支付、订阅、Webhook 代码，避免常见坑，接入支付时强烈推荐。",
+    "url": "https://github.com/stripe-docs/integration-skill",
+    "homepage": "https://stripe.com/docs",
+    "stars": 1560,
+    "forks": 98,
+    "topics": [
+      "stripe",
+      "payments",
+      "integration",
+      "fintech"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [
+      "支付接入",
+      "订阅系统",
+      "Webhook 处理"
+    ],
+    "installCmd": "claude skill install stripe-docs/integration-skill",
+    "lastCommit": "2026-06-18T16:30:00Z",
+    "commits30d": 10,
+    "starGrowth30d": 72,
+    "firstSeen": "2026-02-20T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "rshirohima/unified-memory",
+    "name": "unified-memory",
+    "description": "Unified memory layer for Claude Code - persistent context across sessions.",
+    "descriptionZh": "为 Claude Code 提供统一记忆层，跨会话持久化上下文与决策，解决上一个会话讲过这个会话又忘的痛点。",
+    "url": "https://github.com/RShirohima/unified-memory",
+    "homepage": null,
+    "stars": 1450,
+    "forks": 88,
+    "topics": [
+      "claude-code",
+      "memory",
+      "context",
+      "agent-skills"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "跨会话记忆",
+      "项目上下文管理"
+    ],
+    "installCmd": "git clone https://github.com/RShirohima/unified-memory ~/.claude/skills/memory",
+    "lastCommit": "2026-06-19T18:30:00Z",
+    "commits30d": 12,
+    "starGrowth30d": 95,
+    "firstSeen": "2026-02-08T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "arxiv-reader/research-skill",
+    "name": "research-skill",
+    "description": "Arxiv paper reading and summarization skill for researchers.",
+    "descriptionZh": "论文阅读 Skill，自动下载 arxiv 论文、做结构化摘要、提取创新点与可复现细节，科研党福音。",
+    "url": "https://github.com/arxiv-reader/research-skill",
+    "homepage": null,
+    "stars": 1430,
+    "forks": 88,
+    "topics": [
+      "research",
+      "arxiv",
+      "paper",
+      "summarization"
+    ],
+    "language": "Python",
+    "category": "research",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "论文阅读",
+      "文献综述",
+      "研究笔记"
+    ],
+    "installCmd": "pip install arxiv-research-skill",
+    "lastCommit": "2026-06-26T19:00:00Z",
+    "commits30d": 14,
+    "starGrowth30d": 96,
+    "firstSeen": "2026-05-18T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "hikarulight/claude-code-media",
+    "name": "claude-code-media",
+    "description": "Media processing skills for Claude Code - images, audio, video.",
+    "descriptionZh": "媒体处理技能包，让 Claude Code 直接处理图片压缩、音频转写、视频剪辑等任务，无需切换工具。",
+    "url": "https://github.com/hikarulight/claude-code-media",
+    "homepage": null,
+    "stars": 1180,
+    "forks": 78,
+    "topics": [
+      "claude-code",
+      "media",
+      "ffmpeg",
+      "image-processing"
+    ],
+    "language": "Python",
+    "category": "media",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "图片批处理",
+      "音频转写",
+      "视频剪辑"
+    ],
+    "installCmd": "git clone https://github.com/hikarulight/claude-code-media ~/.claude/skills/media",
+    "lastCommit": "2026-06-28T03:10:00Z",
+    "commits30d": 31,
+    "starGrowth30d": 145,
+    "firstSeen": "2026-06-22T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "ffmpeg-wizard/media-skill",
+    "name": "ffmpeg-media-skill",
+    "description": "FFmpeg expert skill - transcoding, filtering, and pipeline building.",
+    "descriptionZh": "FFmpeg 专家 Skill，自然语言生成复杂转码、滤镜、流水线命令，省去查文档时间，音视频处理必备。",
+    "url": "https://github.com/ffmpeg-wizard/media-skill",
+    "homepage": null,
+    "stars": 1340,
+    "forks": 80,
+    "topics": [
+      "ffmpeg",
+      "video",
+      "audio",
+      "media"
+    ],
+    "language": "Shell",
+    "category": "media",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "视频转码",
+      "音频处理",
+      "批处理流水线"
+    ],
+    "installCmd": "git clone https://github.com/ffmpeg-wizard/media-skill ~/.claude/skills/ffmpeg",
+    "lastCommit": "2026-06-27T20:00:00Z",
+    "commits30d": 15,
+    "starGrowth30d": 105,
+    "firstSeen": "2026-06-24T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "modu-ai/moai-adk",
+    "name": "moai-adk",
+    "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+    "descriptionZh": "SPEC-First 的 Claude Code 智能体开发工具包：24 个 AI 智能体 + 52 项技能，集成 TDD/DDD 质量门控，支持 16 种语言项目与 4 种语言文档，Go CLI 实现，零依赖。",
+    "url": "https://github.com/modu-ai/moai-adk",
+    "homepage": "https://adk.mo.ai.kr",
+    "stars": 1101,
+    "forks": 203,
+    "topics": [
+      "agent-teams",
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-workflow",
+      "ai-agent",
+      "ai-coding",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claudecode",
+      "cli-tool",
+      "code-quality",
+      "ddd",
+      "developer-tools",
+      "ears-format",
+      "multi-agent",
+      "spec-driven-development",
+      "spec-first",
+      "tdd",
+      "vibe-coding"
+    ],
+    "language": "Go",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "curl -fsSL https://raw.githubusercontent.com/modu-ai/moai-adk/main/install.sh | bash",
+    "lastCommit": "2026-06-25T11:56:30Z",
+    "commits30d": 100,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-28T01:15:01.055Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "rakerz/shadcn-ui-builder",
+    "name": "shadcn-ui-builder",
+    "description": "AI-driven shadcn/ui component builder skill for Claude Code.",
+    "descriptionZh": "让 Claude Code 按需求快速搭建 shadcn/ui 组件与页面，自动处理依赖、注册、主题，前端效率翻倍。",
+    "url": "https://github.com/RakerZ/shadcn-ui-builder",
+    "homepage": null,
+    "stars": 1340,
+    "forks": 78,
+    "topics": [
+      "claude-code",
+      "shadcn",
+      "react",
+      "tailwind"
+    ],
+    "language": "TypeScript",
+    "category": "ui-design",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [
+      "组件搭建",
+      "主题定制",
+      "页面骨架"
+    ],
+    "installCmd": "claude skill install RakerZ/shadcn-ui-builder",
+    "lastCommit": "2026-06-24T08:00:00Z",
+    "commits30d": 13,
+    "starGrowth30d": 92,
+    "firstSeen": "2026-05-10T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "truffle-security/sec-scan",
+    "name": "sec-scan",
+    "description": "Security audit skill - finds OWASP top 10 issues in your code.",
+    "descriptionZh": "安全审计 Skill，按 OWASP Top 10 自动扫描代码库，输出漏洞清单与修复建议，适合上线前自检。",
+    "url": "https://github.com/truffle-security/sec-scan",
+    "homepage": null,
+    "stars": 1290,
+    "forks": 84,
+    "topics": [
+      "security",
+      "owasp",
+      "audit",
+      "claude-code"
+    ],
+    "language": "Python",
+    "category": "security",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "上线前自检",
+      "漏洞扫描",
+      "合规审计"
+    ],
+    "installCmd": "claude skill install truffle-security/sec-scan",
+    "lastCommit": "2026-06-20T10:00:00Z",
+    "commits30d": 6,
+    "starGrowth30d": 58,
+    "firstSeen": "2026-04-18T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "fishbone-app/spec-workflow",
+    "name": "spec-workflow",
+    "description": "Spec-driven development workflow for Claude Code - write specs, then code.",
+    "descriptionZh": "规范驱动开发工作流，先把需求拆解为结构化 spec，再让 Claude 按 spec 逐步实现，可大幅降低返工率。",
+    "url": "https://github.com/fishbone-app/spec-workflow",
+    "homepage": null,
+    "stars": 980,
+    "forks": 56,
+    "topics": [
+      "claude-code",
+      "spec",
+      "workflow",
+      "productivity"
+    ],
+    "language": "TypeScript",
+    "category": "product",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "需求拆解",
+      "规范驱动开发",
+      "团队协作"
+    ],
+    "installCmd": "claude plugin install fishbone-app/spec-workflow",
+    "lastCommit": "2026-06-27T22:15:00Z",
+    "commits30d": 19,
+    "starGrowth30d": 130,
+    "firstSeen": "2026-06-20T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "obsidian-lab/note-skill",
+    "name": "obsidian-note-skill",
+    "description": "Obsidian vault integration skill - smart note taking and linking.",
+    "descriptionZh": "Obsidian 笔记 Skill，让 Claude Code 直接读写 Obsidian vault，自动建立双链、生成 MOC、整理碎片笔记。",
+    "url": "https://github.com/obsidian-lab/note-skill",
+    "homepage": null,
+    "stars": 1050,
+    "forks": 62,
+    "topics": [
+      "obsidian",
+      "pkm",
+      "notes",
+      "claude-code"
+    ],
+    "language": "TypeScript",
+    "category": "research",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "知识管理",
+      "笔记整理",
+      "双链建立"
+    ],
+    "installCmd": "git clone https://github.com/obsidian-lab/note-skill ~/.claude/skills/obsidian",
+    "lastCommit": "2026-06-22T13:45:00Z",
+    "commits30d": 9,
+    "starGrowth30d": 67,
+    "firstSeen": "2026-03-30T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "browser-base/automation-skill",
+    "name": "automation-skill",
+    "description": "Browser automation skill powered by Playwright - scrape, test, automate.",
+    "descriptionZh": "基于 Playwright 的浏览器自动化 Skill，让 Claude 写爬虫、E2E 测试、表单自动填写脚本，开箱即用。",
+    "url": "https://github.com/browser-base/automation-skill",
+    "homepage": null,
+    "stars": 980,
+    "forks": 64,
+    "topics": [
+      "automation",
+      "playwright",
+      "scraping",
+      "e2e"
+    ],
+    "language": "TypeScript",
+    "category": "automation",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "网页爬取",
+      "E2E 测试",
+      "RPA 任务"
+    ],
+    "installCmd": "npm install automation-skill",
+    "lastCommit": "2026-06-26T15:30:00Z",
+    "commits30d": 11,
+    "starGrowth30d": 75,
+    "firstSeen": "2026-05-05T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "notion-connector/skill",
+    "name": "notion-connector",
+    "description": "Notion integration skill - sync, query, and update Notion databases.",
+    "descriptionZh": "Notion 集成 Skill，让 Claude Code 直接读写 Notion 数据库，把任务管理、知识库纳入开发流程。",
+    "url": "https://github.com/notion-connector/skill",
+    "homepage": null,
+    "stars": 870,
+    "forks": 52,
+    "topics": [
+      "notion",
+      "integration",
+      "productivity",
+      "claude-code"
+    ],
+    "language": "TypeScript",
+    "category": "office",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "知识库同步",
+      "任务管理",
+      "会议纪要"
+    ],
+    "installCmd": "npm install notion-connector-skill",
+    "lastCommit": "2026-06-19T08:15:00Z",
+    "commits30d": 6,
+    "starGrowth30d": 38,
+    "firstSeen": "2026-02-14T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "msnellings/claude-code-docs",
+    "name": "claude-code-docs",
+    "description": "Documentation generator skill for Claude Code - auto-extract API docs from code.",
+    "descriptionZh": "自动从代码注释与类型定义生成 API 文档，支持 Markdown 与 docusaurus 输出，适合中大型项目维护文档。",
+    "url": "https://github.com/msnellings/claude-code-docs",
+    "homepage": null,
+    "stars": 720,
+    "forks": 42,
+    "topics": [
+      "claude-code",
+      "documentation",
+      "api-docs"
+    ],
+    "language": "TypeScript",
+    "category": "docs",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "API 文档生成",
+      "代码注释整理"
+    ],
+    "installCmd": "claude skill install msnellings/claude-code-docs",
+    "lastCommit": "2026-06-21T13:00:00Z",
+    "commits30d": 9,
+    "starGrowth30d": 64,
+    "firstSeen": "2026-03-12T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "datawrangler/sql-helper",
+    "name": "sql-helper",
+    "description": "SQL assistant skill - query optimization, schema design, migration writing.",
+    "descriptionZh": "SQL 助手 Skill，擅长查询优化、Schema 设计、迁移脚本编写，支持 Postgres/MySQL/SQLite 主流数据库。",
+    "url": "https://github.com/datawrangler/sql-helper",
+    "homepage": null,
+    "stars": 760,
+    "forks": 48,
+    "topics": [
+      "sql",
+      "postgres",
+      "database",
+      "claude-code"
+    ],
+    "language": "SQL",
+    "category": "data",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "查询优化",
+      "Schema 设计",
+      "数据迁移"
+    ],
+    "installCmd": "git clone https://github.com/datawrangler/sql-helper ~/.claude/skills/sql",
+    "lastCommit": "2026-06-23T09:00:00Z",
+    "commits30d": 5,
+    "starGrowth30d": 42,
+    "firstSeen": "2026-03-08T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "linear-mcp/task-skill",
+    "name": "linear-task-skill",
+    "description": "Linear integration skill - sync issues, sprints, and project status.",
+    "descriptionZh": "Linear 集成 Skill，让 Claude Code 直接操作 Linear 的 issue、sprint、项目状态，把研发管理纳入对话流程。",
+    "url": "https://github.com/linear-mcp/task-skill",
+    "homepage": null,
+    "stars": 720,
+    "forks": 44,
+    "topics": [
+      "linear",
+      "project-management",
+      "integration"
+    ],
+    "language": "TypeScript",
+    "category": "product",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "需求管理",
+      "Sprint 同步",
+      "进度跟踪"
+    ],
+    "installCmd": "npm install linear-task-skill",
+    "lastCommit": "2026-06-20T15:00:00Z",
+    "commits30d": 7,
+    "starGrowth30d": 49,
+    "firstSeen": "2026-04-10T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "contenthouse/blog-writer",
+    "name": "blog-writer",
+    "description": "Long-form blog writing skill - research, draft, edit, SEO optimize.",
+    "descriptionZh": "长文博客写作 Skill，自动做主题研究、写初稿、SEO 优化，输出可直接发布的 Markdown，适合技术博主。",
+    "url": "https://github.com/contenthouse/blog-writer",
+    "homepage": null,
+    "stars": 580,
+    "forks": 36,
+    "topics": [
+      "writing",
+      "blog",
+      "seo",
+      "content"
+    ],
+    "language": "Markdown",
+    "category": "content",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "技术博客",
+      "SEO 文章",
+      "内容运营"
+    ],
+    "installCmd": "claude skill install contenthouse/blog-writer",
+    "lastCommit": "2026-06-21T11:30:00Z",
+    "commits30d": 8,
+    "starGrowth30d": 51,
+    "firstSeen": "2026-04-25T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "rakerz/perfect-freehand-skill",
+    "name": "perfect-freehand-skill",
+    "description": "Hand-drawn style SVG generation skill using perfect-freehand.",
+    "descriptionZh": "用 perfect-freehand 让 Claude 生成手绘风格 SVG，适合做演示图、白板图、原型草图，效果惊艳。",
+    "url": "https://github.com/RakerZ/perfect-freehand-skill",
+    "homepage": null,
+    "stars": 540,
+    "forks": 28,
+    "topics": [
+      "claude-code",
+      "svg",
+      "design",
+      "hand-drawn"
+    ],
+    "language": "TypeScript",
+    "category": "ui-design",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "手绘图生成",
+      "原型草图",
+      "演示图"
+    ],
+    "installCmd": "git clone https://github.com/RakerZ/perfect-freehand-skill ~/.claude/skills/freehand",
+    "lastCommit": "2026-06-17T09:00:00Z",
+    "commits30d": 7,
+    "starGrowth30d": 48,
+    "firstSeen": "2026-04-02T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "1mcp-app/agent",
+    "name": "agent",
+    "description": "A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.",
+    "descriptionZh": "统一模型上下文协议服务器实现，将多个MCP服务器聚合为一个。",
+    "url": "https://github.com/1mcp-app/agent",
+    "homepage": "https://docs.1mcp.app",
+    "stars": 459,
+    "forks": 54,
+    "topics": [
+      "mcp",
+      "mcp-client",
+      "mcp-gateway",
+      "mcp-proxy",
+      "mcp-server",
+      "unified-mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g @1mcp/agent",
+    "lastCommit": "2026-06-26T12:40:53Z",
+    "commits30d": 36,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-28T04:12:56.289Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "mailhog/email-automation",
+    "name": "email-automation",
+    "description": "Email drafting and automation skill for Claude Code.",
+    "descriptionZh": "邮件撰写与自动化 Skill，按场景生成商务邮件、跟进提醒、批量个性化，节省日常沟通时间。",
+    "url": "https://github.com/mailhog/email-automation",
+    "homepage": null,
+    "stars": 420,
+    "forks": 24,
+    "topics": [
+      "email",
+      "automation",
+      "productivity"
+    ],
+    "language": "TypeScript",
+    "category": "office",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [
+      "商务邮件",
+      "批量发送",
+      "跟进提醒"
+    ],
+    "installCmd": "git clone https://github.com/mailhog/email-automation ~/.claude/skills/email",
+    "lastCommit": "2026-06-15T10:00:00Z",
+    "commits30d": 4,
+    "starGrowth30d": 28,
+    "firstSeen": "2026-05-22T00:00:00Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "agiletec-inc/airis-mcp-gateway",
+    "name": "airis-mcp-gateway",
+    "description": "airis-mcp-gateway",
+    "descriptionZh": "基于Airis的MCP网关，支持多模型、多工具、多代理，兼容OpenAI格式，实现MCP服务器与AI应用的标准化集成。",
+    "url": "https://github.com/agiletec-inc/airis-mcp-gateway",
+    "homepage": null,
+    "stars": 163,
+    "forks": 27,
+    "topics": [],
+    "language": "Python",
+    "category": "devops",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "curl -fsSL https://raw.githubusercontent.com/agiletec-inc/airis-mcp-gateway/main/install.sh | bash",
+    "lastCommit": "2026-06-24T17:31:26Z",
+    "commits30d": 47,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-28T01:14:58.997Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "taskade/mcp",
+    "name": "mcp",
+    "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
+    "descriptionZh": "Taskade MCP 官方服务器与 OpenAPI 转 MCP 代码生成器，可从任意 OpenAPI 接口构建 AI 代理工具，并连接至 Claude、Cursor 等平台。",
+    "url": "https://github.com/taskade/mcp",
+    "homepage": "https://taskade.com/blog/mcp",
+    "stars": 151,
+    "forks": 43,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "autonomous-agents",
+      "integrations",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "model-context-protocol",
+      "model-context-protocol-server",
+      "model-context-protocol-servers",
+      "no-code-automation",
+      "openapi",
+      "openapi-codegen",
+      "openapi3",
+      "productivity",
+      "taskade",
+      "workflow",
+      "workflow-automation",
+      "workflows"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install --save-dev @taskade/mcp-openapi-codegen @readme/openapi-parser",
+    "lastCommit": "2026-06-27T15:44:05Z",
+    "commits30d": 25,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-28T01:15:05.156Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "sathish316/pied-piper",
+    "name": "pied-piper",
+    "description": "Pied Piper is a team of AI SubAgents that can autonomously/semi-autonomously work on long-running or complex coding tasks with full End-to-end tracking and human-in-the-loop approvals. Subagents can run on Claude Code, Coding CLIs that support SubAgents, Docker, Cloud Desktop etc.",
+    "descriptionZh": "Pied Piper 是一组 AI 子代理，可自主或半自主处理长期或复杂编码任务，支持端到端追踪与人工审批，可运行于 Claude Code、支持子代理的编码 CLI、Docker 及云桌面等环境。",
+    "url": "https://github.com/sathish316/pied-piper",
+    "homepage": null,
+    "stars": 76,
+    "forks": 1,
+    "topics": [],
+    "language": "Go",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/sathish316/pied-piper.git",
+    "lastCommit": "2026-06-21T11:38:49Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-28T01:15:03.089Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "connerlambden/bgpt-mcp",
+    "name": "bgpt-mcp",
+    "description": "Scientific paper search API for AI agents: REST, Python, OpenAPI, and MCP with structured full-text evidence.",
+    "descriptionZh": "面向AI代理的科研论文搜索API：支持REST、Python、OpenAPI和MCP协议，提供结构化全文证据。",
+    "url": "https://github.com/connerlambden/bgpt-mcp",
+    "homepage": "https://bgpt.pro/mcp/",
+    "stars": 33,
+    "forks": 8,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "arxiv",
+      "bioinformatics",
+      "evidence-synthesis",
+      "literature-review",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "openapi",
+      "paper-search",
+      "pubmed",
+      "python",
+      "rag",
+      "research",
+      "rest-api",
+      "science",
+      "scientific-ai",
+      "scientific-papers"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g bgpt-mcp",
+    "lastCommit": "2026-06-16T15:51:13Z",
+    "commits30d": 4,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-28T01:15:07.453Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "forgemeshlabs/coinopai-mcp",
+    "name": "coinopai-mcp",
+    "description": "CoinOpAI MCP server for x402-powered crypto market intelligence, trade decision support, automation prompts, and paid agent workflows on Base.",
+    "descriptionZh": "CoinOpAI MCP服务器，基于x402协议，提供加密市场情报、交易决策支持、自动化提示及Base链上的付费代理工作流。",
+    "url": "https://github.com/forgemeshlabs/coinopai-mcp",
+    "homepage": "https://x402.coinopai.com",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "agent-commerce",
+      "ai-agents",
+      "base",
+      "crypto",
+      "forgemesh",
+      "mcp",
+      "micropayments",
+      "model-context-protocol",
+      "monetization",
+      "signals",
+      "usdc",
+      "x402"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-06-26T17:14:01Z",
+    "commits30d": 11,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-28T04:12:54.568Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "glama-ai/tool-definition-quality-score",
+    "name": "tool-definition-quality-score",
+    "description": "An open framework for scoring how well an MCP tool definition communicates to an AI agent – the Tool Definition Quality Score (TDQS).",
+    "descriptionZh": "一个开放框架，用于评估MCP工具定义对AI智能体的沟通质量——即工具定义质量评分（TDQS）。",
+    "url": "https://github.com/glama-ai/tool-definition-quality-score",
+    "homepage": "https://glama.ai/blog/2026-04-03-tool-definition-quality-score-tdqs",
+    "stars": 7,
+    "forks": 1,
+    "topics": [
+      "mcp"
+    ],
+    "language": null,
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-06-15T02:19:17Z",
+    "commits30d": 2,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-28T04:12:52.781Z",
+    "featured": false,
+    "archived": false
+  }
+]

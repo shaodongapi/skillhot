@@ -1,0 +1,27 @@
+{
+  "_comment": "抓取源配置。awesomeLists 会被解析提取所有 owner/repo 引用；repos 字段是单独追加的 repo。enabled=false 的项会被跳过。",
+  "awesomeLists": [
+    { "owner": "hesreallyhim", "repo": "awesome-claude-code", "enabled": true },
+    { "owner": "VoltAgent", "repo": "awesome-claude-code-subagents", "enabled": true },
+    { "owner": "hikarulight", "repo": "awesome-claude-skills", "enabled": true },
+    { "owner": "korbinzhao", "repo": "awesome-claude-skills", "enabled": true },
+    { "owner": "wong2", "repo": "awesome-claude-code", "enabled": true },
+
+    { "owner": "punkpeye", "repo": "awesome-mcp-servers", "enabled": true },
+    { "owner": "wong2", "repo": "awesome-mcp-servers", "enabled": true },
+    { "owner": "modelcontextprotocol", "repo": "servers", "enabled": true },
+    { "owner": "appcypher", "repo": "awesome-mcp-servers", "enabled": true },
+
+    { "owner": "PontusEros", "repo": "awesome-cursor", "enabled": true },
+    { "owner": "piritoni", "repo": "awesome-cursor", "enabled": false },
+
+    { "owner": "disler", "repo": "awesome-claude-code-plugins", "enabled": true },
+    { "owner": "hmenke", "repo": "awesome-llms-coding", "enabled": false }
+  ],
+  "repos": [
+    { "owner": "anthropics", "repo": "skills" },
+    { "owner": "obra", "repo": "superpowers" },
+    { "owner": "wshobson", "repo": "agents" },
+    { "owner": "davila7", "repo": "claude-code-templates" }
+  ]
+}
