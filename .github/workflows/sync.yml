@@ -73,7 +73,7 @@ jobs:
           fi
 
       - name: Trigger Vercel Rebuild (optional)
-        if: ${{ secrets.VERCEL_DEPLOY_HOOK != '' }}
+        if: ${{ env.VERCEL_DEPLOY_HOOK != '' }}
         run: |
           curl -X POST "$VERCEL_DEPLOY_HOOK" || true
         env:
