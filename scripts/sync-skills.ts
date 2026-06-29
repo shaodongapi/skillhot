@@ -137,7 +137,7 @@ async function main() {
     );
 
     fetchedMap.set(skill.id, skill);
-    await sleep(400); // 节流：每 repo 之间 400ms，配合 throttling 插件避免触发次级限制
+    await sleep(150); // 节流：每 repo 之间 150ms，配合 throttling 插件兜底重试
   }
 
   // 关键：保留本次未抓取的已收录项目（防止 awesome-list 收缩导致数据丢失）
