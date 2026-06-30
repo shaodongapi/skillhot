@@ -11,3 +11,6 @@ build
 next-env.d.ts
 tsconfig.tsbuildinfo
 .claude/
+SkillHot-开发方案.md
+DEPLOYMENT.md
+CLAUDE.md

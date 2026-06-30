@@ -12,12 +12,12 @@ export const octokit = new ThrottledOctokit({
     onRateLimit: (retryAfter, options, octokitInstance, retries) => {
       const remaining = (options as any)?.request?.retryCount ?? 0;
       console.warn(`\n  ⚠️  主速率限制，${retryAfter}s 后重试 (第 ${remaining + 1} 次)`);
-      return retries < 3;
+      return retries < 2;
     },
     onSecondaryRateLimit: (retryAfter, options, octokitInstance, retries) => {
       const remaining = (options as any)?.request?.retryCount ?? 0;
-      console.warn(`\n  ⚠️  次级速率限制，${retryAfter}s 后重试 (第 ${remaining + 1} 次)`);
-      return retries < 6;
+      console.warn(`\n  ⚠️  次级速率限制（不重试，跳过）：${remaining + 1}`);
+      return false;
     },
   },
 });

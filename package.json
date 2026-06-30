@@ -12,6 +12,7 @@
     "export-seeds": "tsx scripts/export-seeds.ts"
   },
   "dependencies": {
+    "@octokit/graphql": "^9.0.3",
     "@octokit/plugin-throttling": "^11.0.3",
     "@octokit/rest": "^22.0.1",
     "@radix-ui/react-dialog": "^1.1.4",
@@ -22,6 +23,7 @@
     "lucide-react": "^0.469.0",
     "next": "14.2.20",
     "openai": "^6.45.0",
+    "p-limit": "^7.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwind-merge": "^2.6.0",
