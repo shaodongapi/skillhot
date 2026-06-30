@@ -18,6 +18,7 @@ import dotenv from 'dotenv';
 dotenv.config({ path: '.env.local' });
 dotenv.config({ path: '.env' });
 import { resolve } from 'node:path';
+import pLimit from 'p-limit';
 import type { Skill } from '../lib/types';
 import { translateToZh } from '../lib/sync/translate';
 
@@ -29,10 +30,8 @@ const LIMIT = args.has('--limit')
   : undefined;
 
 const DATA_PATH = resolve(process.cwd(), 'data/skills.json');
-
-function sleep(ms: number) {
-  return new Promise((r) => setTimeout(r, ms));
-}
+const CONCURRENCY = 8;
+const CHECKPOINT_EVERY = 50; // 每 50 条写盘一次，超时也能保住进度
 
 async function main() {
   console.log(`\n=== SkillHot 翻译脚本 ${DRY_RUN ? '(dry-run)' : ''} ===\n`);
@@ -47,7 +46,8 @@ async function main() {
   const target = LIMIT ? pending.slice(0, LIMIT) : pending;
 
   console.log(`总条目：${skills.length}`);
-  console.log(`待翻译：${pending.length}${LIMIT ? `（限 ${LIMIT}）` : ''}\n`);
+  console.log(`待翻译：${pending.length}${LIMIT ? `（限 ${LIMIT}）` : ''}`);
+  console.log(`并发：${CONCURRENCY}\n`);
 
   if (DRY_RUN) {
     target.slice(0, 10).forEach((s) => {
@@ -58,27 +58,54 @@ async function main() {
     return;
   }
 
-  let idx = 0;
-  for (const s of target) {
-    idx += 1;
-    process.stdout.write(`[${idx}/${target.length}] ${s.id} ... `);
-    try {
-      const zh = await translateToZh(s.description);
-      if (zh) {
-        s.descriptionZh = zh;
-        console.log('OK');
-      } else {
-        console.log('EMPTY');
-      }
-    } catch (e: any) {
-      console.log(`FAIL: ${e?.message || e}`);
-      break;
-    }
-    await sleep(500); // 友善对待 API
-  }
+  const limit = pLimit(CONCURRENCY);
+  let done = 0;
+  let ok = 0;
+  let failed = 0;
+  const failedIds: string[] = [];
+  const startTime = Date.now();
 
+  await Promise.all(
+    target.map((s) =>
+      limit(async () => {
+        try {
+          const zh = await translateToZh(s.description);
+          if (zh) {
+            s.descriptionZh = zh;
+            ok += 1;
+          } else {
+            failed += 1;
+            failedIds.push(s.id);
+          }
+        } catch (e: any) {
+          failed += 1;
+          failedIds.push(s.id);
+        }
+        done += 1;
+        if (done % 10 === 0 || done === target.length) {
+          const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+          const rate = (done / ((Date.now() - startTime) / 1000)).toFixed(1);
+          process.stdout.write(
+            `\r[${done}/${target.length}] OK=${ok} FAIL=${failed} · ${rate}/s · ${elapsed}s   `
+          );
+        }
+        // 检查点：每 50 条写盘一次
+        if (done % CHECKPOINT_EVERY === 0) {
+          writeFileSync(DATA_PATH, JSON.stringify(skills, null, 2) + '\n', 'utf8');
+        }
+      })
+    )
+  );
+
+  // 最终写盘
   writeFileSync(DATA_PATH, JSON.stringify(skills, null, 2) + '\n', 'utf8');
-  console.log(`\n✓ 已写回 ${DATA_PATH}`);
+
+  console.log('\n');
+  console.log(`✓ 完成：成功 ${ok} / 失败 ${failed} / 总计 ${target.length}`);
+  if (failedIds.length > 0 && failedIds.length <= 20) {
+    console.log(`失败列表：${failedIds.join(', ')}`);
+  }
+  console.log(`✓ 已写回 ${DATA_PATH}`);
 }
 
 main().catch((e) => {
