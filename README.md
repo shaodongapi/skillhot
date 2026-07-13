@@ -4,7 +4,7 @@
 
 SkillHot 把散落在各个 awesome-list 里的 Agent Skills 聚合起来，做中文翻译、分类、热度评分，帮你 3 秒判断一个项目要不要深入。
 
-🔗 线上：<替换为你的部署地址>
+🔗 线上：<https://skillhot.vercel.app/>
 
 ## 核心特性
 
