@@ -15,6 +15,7 @@ import { Separator } from '@/components/ui/separator';
 import { categoryMap, platformMap } from '@/data/categories';
 import { getSkillById, getRelatedSkills, popularityScore } from '@/lib/data';
 import { cn, formatNumber, formatDate } from '@/lib/utils';
+import { CategoryIcon } from '@/lib/category-icons';
 import { FavoriteButton, CopyInstallButton, OpenGithubButton } from './FavoriteButton';
 import { useSkillDetail } from './SkillDetailProvider';
 
@@ -37,8 +38,8 @@ export function SkillDetailDrawer({ skillId, onClose }: Props) {
           <div className="flex flex-col h-full">
             <SheetHeader className="p-6 pb-3 border-b bg-gradient-to-br from-accent/50 to-transparent">
               <div className="flex items-center gap-2 mb-1">
-                <span className="text-xl leading-none">{categoryMap[skill.category]?.icon}</span>
-                <Badge variant="outline" className="text-xs">
+                <CategoryIcon id={skill.category} className="h-4 w-4 text-muted-foreground" />
+                <Badge variant="outline" className={cn('text-xs', categoryMap[skill.category]?.colorClass)}>
                   {categoryMap[skill.category]?.name}
                 </Badge>
                 <span className="text-xs text-muted-foreground">{skill.id}</span>

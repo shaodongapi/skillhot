@@ -8,7 +8,8 @@ import { Separator } from '@/components/ui/separator';
 import { categoryMap, platformMap } from '@/data/categories';
 import { skills, skillMap } from '@/data/skills';
 import { getRelatedSkills, popularityScore } from '@/lib/data';
-import { formatNumber, formatDate } from '@/lib/utils';
+import { CategoryIcon } from '@/lib/category-icons';
+import { cn, formatNumber, formatDate } from '@/lib/utils';
 import {
   FavoriteButton,
   CopyInstallButton,
@@ -95,7 +96,9 @@ export default function SkillDetailPage({ params }: { params: { id: string[] } }
 
       <header className="mb-6">
         <div className="flex items-center gap-2 mb-2">
-          <span className="text-2xl">{category?.icon}</span>
+          <span className={cn('inline-flex h-9 w-9 items-center justify-center rounded-md bg-gradient-to-br text-white shadow-sm', category?.gradientClass)}>
+            <CategoryIcon id={skill.category} className="h-5 w-5" />
+          </span>
           <Badge variant="outline">{category?.name}</Badge>
           <span className="text-xs text-muted-foreground font-mono">{skill.id}</span>
         </div>

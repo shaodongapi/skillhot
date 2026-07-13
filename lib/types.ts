@@ -26,7 +26,10 @@ export interface Category {
   name: string;        // 中文显示名
   slug: string;
   description: string; // 一句话介绍
-  icon: string;        // emoji 占位
+  icon: string;        // emoji 占位（fallback，不再渲染）
+  colorClass: string;  // Tailwind 类字符串（bg/text/border，含 dark variant）
+  accentClass: string; // 单色 Tailwind bg 类，用于卡片左侧色条
+  gradientClass: string; // 双色渐变 Tailwind 类（from-X to-Y），用于分类卡片主视觉
 }
 
 export interface Platform {

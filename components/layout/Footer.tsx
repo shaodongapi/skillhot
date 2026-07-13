@@ -9,7 +9,7 @@ export function Footer() {
           <span className="flex h-6 w-6 items-center justify-center rounded bg-primary text-primary-foreground">
             <Flame className="h-3 w-3" />
           </span>
-          <span>SkillHot — 发现适合你的 Agent Skills</span>
+          <span>SkillHot — 发现 Agent Skills</span>
         </div>
         <div className="flex items-center gap-4">
           <Link href="/about" className="hover:text-foreground">关于</Link>

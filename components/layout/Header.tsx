@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Flame, Search, Heart } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { HeaderSearch } from './HeaderSearch';
 
 const nav = [
   { href: '/', label: '发现', icon: Flame },
@@ -20,11 +21,11 @@ export function Header() {
     <header className="sticky top-0 z-40 w-full border-b bg-background/80 backdrop-blur-md">
       <div className="container flex h-14 items-center justify-between gap-4">
         <Link href="/" className="flex items-center gap-2 font-bold">
-          <span className="flex h-7 w-7 items-center justify-center rounded-md bg-primary text-primary-foreground">
+          <span className="flex h-7 w-7 items-center justify-center rounded-md bg-gradient-to-br from-orange-500 to-pink-500 text-white shadow-sm">
             <Flame className="h-4 w-4" />
           </span>
           <span className="text-base">
-            Skill<span className="text-primary">Hot</span>
+            Skill<span className="bg-gradient-to-r from-orange-500 to-pink-500 bg-clip-text text-transparent">Hot</span>
           </span>
         </Link>
 
@@ -49,10 +50,14 @@ export function Header() {
           })}
         </nav>
 
+        <div className="hidden md:flex flex-1 max-w-xs">
+          <HeaderSearch />
+        </div>
+
         <div className="flex items-center gap-1">
           <Link
             href="/search"
-            className="inline-flex h-9 w-9 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
+            className="inline-flex md:hidden h-9 w-9 items-center justify-center rounded-md text-muted-foreground hover:bg-accent hover:text-foreground"
             aria-label="搜索"
           >
             <Search className="h-4 w-4" />

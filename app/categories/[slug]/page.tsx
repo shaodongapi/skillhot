@@ -4,6 +4,8 @@ import { ChevronRight } from 'lucide-react';
 import { categories, categoryMap } from '@/data/categories';
 import { getSkillsByCategory, sortBy } from '@/lib/data';
 import { SkillCard } from '@/components/skill/SkillCard';
+import { CategoryIcon } from '@/lib/category-icons';
+import { cn } from '@/lib/utils';
 import { CategorySkillsClient } from './CategorySkillsClient';
 
 export const dynamicParams = false;
@@ -36,7 +38,9 @@ export default function CategoryDetailPage({ params }: { params: { slug: string 
 
       <header className="mb-6">
         <div className="flex items-center gap-3 mb-2">
-          <span className="text-3xl">{category.icon}</span>
+          <span className={cn('inline-flex h-12 w-12 items-center justify-center rounded-lg bg-gradient-to-br text-white shadow-md', category.gradientClass)}>
+            <CategoryIcon id={category.id} className="h-6 w-6" />
+          </span>
           <h1 className="text-2xl font-bold">{category.name}</h1>
           <span className="text-sm text-muted-foreground">({skills.length} 个项目)</span>
         </div>

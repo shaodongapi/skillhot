@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { ChevronRight, Hash } from 'lucide-react';
 import { getAllTopics, getSkillsByTopic, sortBy } from '@/lib/data';
 import { SkillCard } from '@/components/skill/SkillCard';
+import { topicGradientStyle } from '@/lib/topic-color';
 
 export const dynamicParams = false;
 
@@ -31,8 +32,13 @@ export default function TopicDetailPage({ params }: { params: { slug: string } }
       </nav>
 
       <header className="mb-6">
-        <h1 className="text-2xl font-bold mb-1 flex items-center gap-2">
-          <Hash className="h-5 w-5 text-primary" />
+        <h1 className="text-2xl font-bold mb-1 flex items-center gap-3">
+          <span
+            className="inline-flex h-12 w-12 items-center justify-center rounded-lg text-white shadow-md"
+            style={topicGradientStyle(topic.id)}
+          >
+            <Hash className="h-6 w-6" />
+          </span>
           {topic.displayName}
         </h1>
         <p className="text-sm text-muted-foreground">

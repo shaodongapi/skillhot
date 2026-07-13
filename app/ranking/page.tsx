@@ -1,6 +1,7 @@
 import { categories } from '@/data/categories';
 import { skills as allSkills } from '@/data/skills';
 import { RankingClient } from './RankingClient';
+import { RandomSkillButton } from '@/components/skill/RandomSkillButton';
 import type { SortKey } from '@/lib/types';
 
 export const metadata = {
@@ -21,11 +22,14 @@ export default function RankingPage({
 
   return (
     <div className="container py-8">
-      <header className="mb-6">
-        <h1 className="text-2xl font-bold mb-1">榜单</h1>
-        <p className="text-sm text-muted-foreground">
-          三种排序维度，挖出当下真正值得关注的项目。
-        </p>
+      <header className="mb-6 flex items-end justify-between gap-4">
+        <div>
+          <h1 className="text-2xl font-bold mb-1">榜单</h1>
+          <p className="text-sm text-muted-foreground">
+            三种排序维度，挖出当下真正值得关注的项目。
+          </p>
+        </div>
+        <RandomSkillButton />
       </header>
       <RankingClient
         allSkills={allSkills}
