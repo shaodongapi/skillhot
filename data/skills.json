@@ -124310,40 +124310,6 @@
     "archived": false
   },
   {
-    "id": "debtstack-ai/debtstack-python",
-    "name": "debtstack-python",
-    "description": "Corporate credit data for AI agents — Python SDK, LangChain tools, and MCP server",
-    "descriptionZh": "企业信用数据AI代理工具：Python SDK、LangChain工具及MCP服务器",
-    "url": "https://github.com/debtstack-ai/debtstack-python",
-    "homepage": "https://debtstack.ai",
-    "stars": 2,
-    "forks": 3,
-    "topics": [
-      "ai-agents",
-      "api",
-      "bonds",
-      "credit",
-      "finance",
-      "langchain",
-      "mcp",
-      "mcp-server",
-      "python"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install debtstack-ai",
-    "lastCommit": "2026-02-24T21:34:10Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:10.851Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "trade-it-inc/trade-it-mcp",
     "name": "trade-it-mcp",
     "description": "Guide to connect to Trade It's MCP server and trade stocks, crypto, and options",
@@ -154946,6 +154912,40 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "debtstack-ai/debtstack-python",
+    "name": "debtstack-python",
+    "description": "Corporate credit data for AI agents — Python SDK, LangChain tools, and MCP server",
+    "descriptionZh": "企业信用数据AI代理工具：Python SDK、LangChain工具及MCP服务器",
+    "url": "https://github.com/debtstack-ai/debtstack-python",
+    "homepage": "https://debtstack.ai",
+    "stars": 2,
+    "forks": 3,
+    "topics": [
+      "ai-agents",
+      "api",
+      "bonds",
+      "credit",
+      "finance",
+      "langchain",
+      "mcp",
+      "mcp-server",
+      "python"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install debtstack-ai",
+    "lastCommit": "2026-02-24T21:34:10Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:10.851Z",
     "featured": false,
     "archived": false
   },
