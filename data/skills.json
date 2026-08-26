@@ -117150,39 +117150,6 @@
     "archived": false
   },
   {
-    "id": "rupinder2/mcp-orchestrator",
-    "name": "mcp-orchestrator",
-    "description": " MCP Orchestration Gateway – aggregates tools from multiple MCP servers with BM25 search and deferred loading for Claude Desktop",
-    "descriptionZh": "MCP 编排网关——聚合多个 MCP 服务器的工具，支持 BM25 搜索与延迟加载，适配 Claude Desktop。",
-    "url": "https://github.com/rupinder2/mcp-orchestrator",
-    "homepage": null,
-    "stars": 5,
-    "forks": 3,
-    "topics": [
-      "claude",
-      "claude-desktop",
-      "fastmcp",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "tool-aggregation",
-      "tool-search-tool"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "pip install mcp-orchestrator",
-    "lastCommit": "2026-02-26T01:47:08Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-29T14:29:00.470Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "codex-curator/studiomcphub",
     "name": "studiomcphub",
     "description": "Creative AI MCP server — 32 tools (18 free): image generation, upscaling, bg removal, mockups, CMYK, print-ready PDF, vectorization, watermarking, enrichment, provenance. Pay per call via x402/Stripe/GCX.",
@@ -129644,41 +129611,6 @@
     "archived": false
   },
   {
-    "id": "bubilife1202/crossfin",
-    "name": "crossfin",
-    "description": "The only way AI agents access Asian crypto markets. Routing engine + x402 payments across 9 exchanges.",
-    "descriptionZh": "AI代理接入亚洲加密市场的唯一通道。路由引擎+x402支付，覆盖9家交易所。",
-    "url": "https://github.com/bubilife1202/crossfin",
-    "homepage": "https://crossfin.dev",
-    "stars": 1,
-    "forks": 2,
-    "topics": [
-      "ai-agents",
-      "cloudflare-workers",
-      "cryptocurrency",
-      "defi",
-      "kimchi-premium",
-      "korea",
-      "mcp",
-      "typescript",
-      "x402",
-      "crypto-routing"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm --prefix apps/api run verify:release",
-    "lastCommit": "2026-02-26T22:32:39Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:07.719Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "chrisbusbin-pixel/propfirmdealfinder-mcp-server",
     "name": "propfirmdealfinder-mcp-server",
     "description": "MCP server for Prop Firm Deal Finder - lets AI assistants query live prop firm discount codes, compare firms, and find the cheapest challenges across 20+ proprietary trading firms.",
@@ -140898,31 +140830,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:14:48.743Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "rchanllc/joltsms-mcp-server",
-    "name": "joltsms-mcp-server",
-    "description": "MCP server for JoltSMS — provision real-SIM US phone numbers and receive SMS/OTP codes",
-    "descriptionZh": "为 JoltSMS 提供 MCP 服务器，支持获取真实美国手机号并接收短信/验证码。",
-    "url": "https://github.com/rchanllc/joltsms-mcp-server",
-    "homepage": null,
-    "stars": 1,
-    "forks": 1,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-02-26T06:19:36Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:15:04.874Z",
     "featured": false,
     "archived": false
   },
@@ -153348,6 +153255,39 @@
     "archived": false
   },
   {
+    "id": "rupinder2/mcp-orchestrator",
+    "name": "mcp-orchestrator",
+    "description": " MCP Orchestration Gateway – aggregates tools from multiple MCP servers with BM25 search and deferred loading for Claude Desktop",
+    "descriptionZh": "MCP 编排网关——聚合多个 MCP 服务器的工具，支持 BM25 搜索与延迟加载，适配 Claude Desktop。",
+    "url": "https://github.com/rupinder2/mcp-orchestrator",
+    "homepage": null,
+    "stars": 5,
+    "forks": 3,
+    "topics": [
+      "claude",
+      "claude-desktop",
+      "fastmcp",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "tool-aggregation",
+      "tool-search-tool"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "pip install mcp-orchestrator",
+    "lastCommit": "2026-02-26T01:47:08Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-29T14:29:00.470Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "ofershap/cursor-usage",
     "name": "cursor-usage",
     "description": "Ask your AI agent about your team's Cursor spending. MCP server + Cursor plugin + Claude Code plugin wrapping the full Cursor Enterprise API.",
@@ -156283,6 +156223,41 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "bubilife1202/crossfin",
+    "name": "crossfin",
+    "description": "The only way AI agents access Asian crypto markets. Routing engine + x402 payments across 9 exchanges.",
+    "descriptionZh": "AI代理接入亚洲加密市场的唯一通道。路由引擎+x402支付，覆盖9家交易所。",
+    "url": "https://github.com/bubilife1202/crossfin",
+    "homepage": "https://crossfin.dev",
+    "stars": 1,
+    "forks": 2,
+    "topics": [
+      "ai-agents",
+      "cloudflare-workers",
+      "cryptocurrency",
+      "defi",
+      "kimchi-premium",
+      "korea",
+      "mcp",
+      "typescript",
+      "x402",
+      "crypto-routing"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm --prefix apps/api run verify:release",
+    "lastCommit": "2026-02-26T22:32:39Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:07.719Z",
     "featured": false,
     "archived": false
   },
@@ -162613,6 +162588,31 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:52.418Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "rchanllc/joltsms-mcp-server",
+    "name": "joltsms-mcp-server",
+    "description": "MCP server for JoltSMS — provision real-SIM US phone numbers and receive SMS/OTP codes",
+    "descriptionZh": "为 JoltSMS 提供 MCP 服务器，支持获取真实美国手机号并接收短信/验证码。",
+    "url": "https://github.com/rchanllc/joltsms-mcp-server",
+    "homepage": null,
+    "stars": 1,
+    "forks": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-02-26T06:19:36Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:15:04.874Z",
     "featured": false,
     "archived": false
   },
