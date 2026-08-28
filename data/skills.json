@@ -86188,34 +86188,6 @@
     "archived": false
   },
   {
-    "id": "iiatlas/hledger-mcp",
-    "name": "hledger-mcp",
-    "description": "A local MCP server for interacting with the HLedger cli",
-    "descriptionZh": "本地MCP服务器，用于与HLedger命令行工具交互。",
-    "url": "https://github.com/iiAtlas/hledger-mcp",
-    "homepage": "https://www.npmjs.com/package/@iiatlas/hledger-mcp",
-    "stars": 59,
-    "forks": 5,
-    "topics": [
-      "hledger",
-      "mcp",
-      "plaintext-accounting"
-    ],
-    "language": "TypeScript",
-    "category": "content",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx @iiatlas/hledger-mcp /path/to/your/master.journal",
-    "lastCommit": "2026-02-28T18:51:46Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:00.386Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "atomno-mcp/mcp-fns-check",
     "name": "mcp-fns-check",
     "description": "MCP server for checking RU counterparties via FNS open data (EGRUL/EGRIP, EFRSB, KAD, FSSP)",
@@ -103772,31 +103744,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:02.458Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "adawalli/nexus",
-    "name": "nexus",
-    "description": "MCP Server to make searching openrouter easy",
-    "descriptionZh": "为 OpenRouter 搜索提供 MCP 服务器支持，简化模型查询与调用流程。",
-    "url": "https://github.com/adawalli/nexus",
-    "homepage": null,
-    "stars": 23,
-    "forks": 9,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx nexus-mcp",
-    "lastCommit": "2026-02-28T23:36:15Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:19.891Z",
     "featured": false,
     "archived": false
   },
@@ -142940,6 +142887,34 @@
     "archived": false
   },
   {
+    "id": "iiatlas/hledger-mcp",
+    "name": "hledger-mcp",
+    "description": "A local MCP server for interacting with the HLedger cli",
+    "descriptionZh": "本地MCP服务器，用于与HLedger命令行工具交互。",
+    "url": "https://github.com/iiAtlas/hledger-mcp",
+    "homepage": "https://www.npmjs.com/package/@iiatlas/hledger-mcp",
+    "stars": 59,
+    "forks": 5,
+    "topics": [
+      "hledger",
+      "mcp",
+      "plaintext-accounting"
+    ],
+    "language": "TypeScript",
+    "category": "content",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx @iiatlas/hledger-mcp /path/to/your/master.journal",
+    "lastCommit": "2026-02-28T18:51:46Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:00.386Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "azer/react-analyzer-mcp",
     "name": "react-analyzer-mcp",
     "description": "MCP server for analyzing & generating docs for React code locally",
@@ -147471,6 +147446,31 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:26.190Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "adawalli/nexus",
+    "name": "nexus",
+    "description": "MCP Server to make searching openrouter easy",
+    "descriptionZh": "为 OpenRouter 搜索提供 MCP 服务器支持，简化模型查询与调用流程。",
+    "url": "https://github.com/adawalli/nexus",
+    "homepage": null,
+    "stars": 23,
+    "forks": 9,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx nexus-mcp",
+    "lastCommit": "2026-02-28T23:36:15Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:19.891Z",
     "featured": false,
     "archived": false
   },
