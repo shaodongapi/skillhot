@@ -29643,36 +29643,6 @@
     "archived": false
   },
   {
-    "id": "isaacphi/mcp-language-server",
-    "name": "mcp-language-server",
-    "description": "mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.",
-    "descriptionZh": "为MCP客户端提供语义工具，支持获取定义、引用、重命名和诊断功能。",
-    "url": "https://github.com/isaacphi/mcp-language-server",
-    "homepage": null,
-    "stars": 1571,
-    "forks": 138,
-    "topics": [
-      "ai",
-      "language-server-protocol",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol"
-    ],
-    "language": "Go",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/isaacphi/mcp-language-server.git",
-    "lastCommit": "2026-03-01T23:27:09Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:03.677Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "kenryu42/cc-safety-net",
     "name": "cc-safety-net",
     "description": "A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI, Copilot CLI, Kimi Code and Pi.",
@@ -31084,6 +31054,36 @@
     "commits30d": 275,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-25T02:14:44.625Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "isaacphi/mcp-language-server",
+    "name": "mcp-language-server",
+    "description": "mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.",
+    "descriptionZh": "为MCP客户端提供语义工具，支持获取定义、引用、重命名和诊断功能。",
+    "url": "https://github.com/isaacphi/mcp-language-server",
+    "homepage": null,
+    "stars": 1571,
+    "forks": 138,
+    "topics": [
+      "ai",
+      "language-server-protocol",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol"
+    ],
+    "language": "Go",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/isaacphi/mcp-language-server.git",
+    "lastCommit": "2026-03-01T23:27:09Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:03.677Z",
     "featured": false,
     "archived": false
   },
@@ -109867,41 +109867,6 @@
     "archived": false
   },
   {
-    "id": "spyrae/claude-concilium",
-    "name": "claude-concilium",
-    "description": "Multi-agent AI consultation framework for Claude Code via MCP — get second opinions from OpenAI, Gemini, Qwen, DeepSeek",
-    "descriptionZh": "基于MCP的多智能体AI咨询框架，为Claude Code提供来自OpenAI、Gemini、Qwen、DeepSeek的第二意见。",
-    "url": "https://github.com/spyrae/claude-concilium",
-    "homepage": null,
-    "stars": 13,
-    "forks": 4,
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "code-review",
-      "developer-tools",
-      "gemini",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "multi-agent",
-      "openai"
-    ],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/spyrae/claude-concilium.git",
-    "lastCommit": "2026-03-02T03:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:49.131Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "khan2a/telephony-mcp-server",
     "name": "telephony-mcp-server",
     "description": "A very simple no-fuss minimalist MCP Server with telephony tools like voice call and sms. This MCP Server can be integrated with LLM applications. Vonage API is used for calls, SMS, Speech-to-Text and Speech Recognition.",
@@ -132772,30 +132737,6 @@
     "archived": false
   },
   {
-    "id": "wyattjoh/imessage-mcp",
-    "name": "imessage-mcp",
-    "description": "A Model Context Protocol server for reading iMessage data from macOS.",
-    "descriptionZh": "为 macOS 上的 iMessage 数据读取提供模型上下文协议（MCP）服务器支持。",
-    "url": "https://github.com/wyattjoh/imessage-mcp",
-    "homepage": null,
-    "stars": 29,
-    "forks": 8,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "data",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-02T04:20:11Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:12.301Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "singhpratech/crimson-crab-mcp-template",
     "name": "crimson-crab-mcp-template",
     "description": "A ready-to-clone Rust MCP server that calls Claude via crimson-crab",
@@ -133791,37 +133732,6 @@
     "commits30d": 1,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:24.632Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "mindscapehq/mcp-server-raygun",
-    "name": "mcp-server-raygun",
-    "description": "Give your AI coding assistants access to Raygun so they can investigate, explain, and help resolve errors for you.",
-    "descriptionZh": "让AI编码助手接入Raygun，助你调查、解释并解决错误。",
-    "url": "https://github.com/MindscapeHQ/mcp-server-raygun",
-    "homepage": "https://raygun.com/",
-    "stars": 21,
-    "forks": 13,
-    "topics": [
-      "error-reporting",
-      "llm-agents",
-      "mcp",
-      "real-user-monitoring"
-    ],
-    "language": null,
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-02T01:57:41Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:54.050Z",
     "featured": false,
     "archived": false
   },
@@ -149576,6 +149486,41 @@
     "archived": false
   },
   {
+    "id": "spyrae/claude-concilium",
+    "name": "claude-concilium",
+    "description": "Multi-agent AI consultation framework for Claude Code via MCP — get second opinions from OpenAI, Gemini, Qwen, DeepSeek",
+    "descriptionZh": "基于MCP的多智能体AI咨询框架，为Claude Code提供来自OpenAI、Gemini、Qwen、DeepSeek的第二意见。",
+    "url": "https://github.com/spyrae/claude-concilium",
+    "homepage": null,
+    "stars": 13,
+    "forks": 4,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "code-review",
+      "developer-tools",
+      "gemini",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "multi-agent",
+      "openai"
+    ],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/spyrae/claude-concilium.git",
+    "lastCommit": "2026-03-02T03:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:49.131Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "misiektoja/kill-process-mcp",
     "name": "kill-process-mcp",
     "description": "AI-powered cross-platform MCP server exposing LLM-accessible tools to list and terminate OS processes via natural language queries",
@@ -158724,6 +158669,30 @@
     "archived": false
   },
   {
+    "id": "wyattjoh/imessage-mcp",
+    "name": "imessage-mcp",
+    "description": "A Model Context Protocol server for reading iMessage data from macOS.",
+    "descriptionZh": "为 macOS 上的 iMessage 数据读取提供模型上下文协议（MCP）服务器支持。",
+    "url": "https://github.com/wyattjoh/imessage-mcp",
+    "homepage": null,
+    "stars": 29,
+    "forks": 8,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "data",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-02T04:20:11Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:12.301Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "wenhuwang/mcp-k8s-eye",
     "name": "mcp-k8s-eye",
     "description": "MCP Server for kubernetes management and diagnose your cluster and applications",
@@ -159778,6 +159747,37 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:00.470Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "mindscapehq/mcp-server-raygun",
+    "name": "mcp-server-raygun",
+    "description": "Give your AI coding assistants access to Raygun so they can investigate, explain, and help resolve errors for you.",
+    "descriptionZh": "让AI编码助手接入Raygun，助你调查、解释并解决错误。",
+    "url": "https://github.com/MindscapeHQ/mcp-server-raygun",
+    "homepage": "https://raygun.com/",
+    "stars": 21,
+    "forks": 13,
+    "topics": [
+      "error-reporting",
+      "llm-agents",
+      "mcp",
+      "real-user-monitoring"
+    ],
+    "language": null,
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-02T01:57:41Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:54.050Z",
     "featured": false,
     "archived": false
   },
