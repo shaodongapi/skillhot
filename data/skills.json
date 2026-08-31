@@ -64580,30 +64580,6 @@
     "archived": false
   },
   {
-    "id": "yangkyeongmo/mcp-server-apache-airflow",
-    "name": "mcp-server-apache-airflow",
-    "description": "mcp-server-apache-airflow",
-    "descriptionZh": "基于 MCP 协议，为 Apache Airflow 提供服务器端集成，支持 DAG 管理、任务监控与工作流操作。",
-    "url": "https://github.com/yangkyeongmo/mcp-server-apache-airflow",
-    "homepage": "https://pypi.org/project/mcp-server-apache-airflow/",
-    "stars": 172,
-    "forks": 46,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx -y @smithery/cli install @yangkyeongmo/mcp-server-apache-airflow --client claude",
-    "lastCommit": "2026-03-03T13:24:59Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:34.101Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mordavid/bloodhound-mcp-ai",
     "name": "BloodHound-MCP-AI",
     "description": "BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.",
@@ -95831,38 +95807,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:38.488Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "kocakli/trello-desktop-mcp",
-    "name": "Trello-Desktop-MCP",
-    "description": "Trello integration for Claude Desktop via Model Context Protocol (MCP) - 19 tools for comprehensive board, card, and list management",
-    "descriptionZh": "通过模型上下文协议为Claude Desktop集成Trello，提供19个工具，全面管理看板、卡片和列表。",
-    "url": "https://github.com/kocakli/Trello-Desktop-MCP",
-    "homepage": "https://trello.mcplab.tr/",
-    "stars": 36,
-    "forks": 19,
-    "topics": [
-      "antrophic",
-      "claude",
-      "mcp",
-      "mcp-server",
-      "openai",
-      "trello",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-03T07:50:52Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:28.466Z",
     "featured": false,
     "archived": false
   },
@@ -132980,6 +132924,30 @@
     "archived": false
   },
   {
+    "id": "yangkyeongmo/mcp-server-apache-airflow",
+    "name": "mcp-server-apache-airflow",
+    "description": "mcp-server-apache-airflow",
+    "descriptionZh": "基于 MCP 协议，为 Apache Airflow 提供服务器端集成，支持 DAG 管理、任务监控与工作流操作。",
+    "url": "https://github.com/yangkyeongmo/mcp-server-apache-airflow",
+    "homepage": "https://pypi.org/project/mcp-server-apache-airflow/",
+    "stars": 172,
+    "forks": 46,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx -y @smithery/cli install @yangkyeongmo/mcp-server-apache-airflow --client claude",
+    "lastCommit": "2026-03-03T13:24:59Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:34.101Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "growthbook/growthbook-mcp",
     "name": "growthbook-mcp",
     "description": "Official GrowthBook MCP server for creating flags, getting experiments, and more.",
@@ -144752,6 +144720,38 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:31.490Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "kocakli/trello-desktop-mcp",
+    "name": "Trello-Desktop-MCP",
+    "description": "Trello integration for Claude Desktop via Model Context Protocol (MCP) - 19 tools for comprehensive board, card, and list management",
+    "descriptionZh": "通过模型上下文协议为Claude Desktop集成Trello，提供19个工具，全面管理看板、卡片和列表。",
+    "url": "https://github.com/kocakli/Trello-Desktop-MCP",
+    "homepage": "https://trello.mcplab.tr/",
+    "stars": 36,
+    "forks": 19,
+    "topics": [
+      "antrophic",
+      "claude",
+      "mcp",
+      "mcp-server",
+      "openai",
+      "trello",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-03T07:50:52Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:28.466Z",
     "featured": false,
     "archived": false
   },
