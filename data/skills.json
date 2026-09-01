@@ -95096,60 +95096,6 @@
     "archived": false
   },
   {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "为 Membrane 提供 MCP 服务器支持，实现 AI 代理与 Membrane 框架的无缝集成与交互。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-03T02:26:56.716Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，支持通过自然语言与 Membrane 环境交互，执行资源管理、进程控制等操作。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:46.881Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "dashi96/chromium-bridge",
     "name": "chromium-bridge",
     "description": "MCP bridge between Chromium browsers and Claude Code — browser automation tools + Claude chat panel for browsers where the official Claude in Chrome extension doesn't work (Arc, Vivaldi, …)",
@@ -95598,87 +95544,6 @@
     "archived": false
   },
   {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供安全、轻量的 API 网关，用于连接 AI 代理与外部工具和数据源。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 37,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-02T02:51:35.493Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "MCP Server for Membrane 的服务器端实现，提供高性能、可扩展的膜计算服务接口。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 37,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-01T02:59:00.875Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "为 Membrane 框架提供 MCP 协议支持的服务器，实现标准化工具调用与资源访问接口。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-28T02:07:56.380Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "iurykrieger/claude-bedrock",
     "name": "claude-bedrock",
     "description": "Second Brain automation for Obsidian vaults — entity management, ingestion, compression, and sync via Claude Code skills",
@@ -95811,141 +95676,6 @@
     "archived": false
   },
   {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "MCP 服务器，用于连接 Membrane 平台，支持通过自然语言调用工具、查询数据和自动化工作流。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-27T02:24:05.454Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "为Membrane框架提供MCP服务器集成，支持通过标准协议连接AI代理与Membrane应用，实现工具调用与数据交互。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-26T02:18:24.913Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "为 Membrane 提供 MCP 服务器支持，实现与 AI 代理的集成与交互。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-25T02:15:14.823Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "为 Membrane 框架提供 MCP 服务器支持，实现 AI 代理与外部工具的无缝集成与交互。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-24T02:13:57.417Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "为 Membrane 提供 MCP 服务器支持，实现模型上下文协议集成。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-23T02:19:38.320Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "decodo/mcp-server",
     "name": "mcp-server",
     "description": "The Decodo MCP server which enables MCP clients to interface with services.",
@@ -95980,33 +95710,6 @@
     "commits30d": 1,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-22T02:11:26.319Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供可扩展的 API 网关，支持无服务器函数、数据库集成和实时通信。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-22T02:11:28.124Z",
     "featured": false,
     "archived": false
   },
@@ -96049,33 +95752,6 @@
     "archived": false
   },
   {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "MCP 服务器，用于连接 Membrane 框架，支持 AI 代理与去中心化应用交互。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-21T02:12:17.635Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "decodo/mcp-server",
     "name": "mcp-server",
     "description": "The Decodo MCP server which enables MCP clients to interface with services.",
@@ -96114,222 +95790,6 @@
     "archived": false
   },
   {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据存储与查询功能。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-20T02:33:41.758Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供统一 API 管理、认证、速率限制和日志记录，支持多协议集成与插件扩展。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-19T02:12:37.896Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化 API 接口，支持通过自然语言调用外部服务与数据源。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-18T02:00:01.810Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，支持通过自然语言查询和操作商业数据，连接 Salesforce、HubSpot 等系统。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-17T02:15:09.145Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据接口，支持查询、过滤与实时同步，简化 AI 与业务数据集成。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-16T02:08:43.260Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据 API，支持查询、过滤与实时同步，简化数据集成。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-15T02:00:46.350Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据提取、网页内容抓取及 AI 驱动的数据转换功能。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-14T02:04:02.293Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供可组合的 API 网关，支持无服务器函数、数据库、认证、速率限制及可观察性。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-13T02:18:38.733Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "juanmidev1/synapse-code-mcp",
     "name": "synapse-code-mcp",
     "description": "Model Context Protocol server for code intelligence. Lets AI assistants explore your codebase on demand — semantic context with dependency graphs, compressed symbol indexes for TypeScript/JavaScript, plus git diffs and ripgrep-powered search across any language.",
@@ -96350,249 +95810,6 @@
     "commits30d": 7,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:39.792Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化 API 接口，支持工具调用与资源访问，简化 AI 应用与外部系统集成。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-12T02:16:44.849Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "为 Membrane 构建的 MCP 服务器，支持通过自然语言与 Membrane 交互，执行查询、操作和自动化任务。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-11T02:13:58.747Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "MCP Server for Membrane 的服务器端实现，提供膜计算相关接口与协议支持。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-10T02:25:51.414Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供安全、可扩展的 API 代理，支持实时数据流与 AI 模型集成。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-09T02:25:05.406Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "MCP Server for Membrane 的 MCP 服务端，用于连接和管理 Membrane 平台。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-08T02:14:18.140Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "为 Membrane 提供 MCP 服务器，支持通过自然语言查询和管理膜计算资源。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-07T02:38:26.890Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化 API 接口以连接并管理 Membrane 平台资源。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-06T02:42:31.712Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据提取、网页抓取、文件处理及 AI 驱动的数据管道功能。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-05T02:40:21.753Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "membranehq/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for Membrane",
-    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据存储、实时同步与跨平台访问功能。",
-    "url": "https://github.com/membranehq/mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 11,
-    "topics": [
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-04T19:32:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-04T02:23:30.098Z",
     "featured": false,
     "archived": false
   },
@@ -108919,30 +108136,6 @@
     "commits30d": 2,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:18:09.548Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "drdroidlab/signoz-mcp-server",
-    "name": "signoz-mcp-server",
-    "description": "Connect your Signoz Instance with Cursor, Claude Desktop or any other MCP Compatible Client",
-    "descriptionZh": "将 Signoz 实例与 Cursor、Claude Desktop 或其他 MCP 兼容客户端连接。",
-    "url": "https://github.com/DrDroidLab/signoz-mcp-server",
-    "homepage": null,
-    "stars": 14,
-    "forks": 6,
-    "topics": [],
-    "language": "Python",
-    "category": "devops",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "uv venv .venv",
-    "lastCommit": "2026-03-04T19:02:43Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:39.213Z",
     "featured": false,
     "archived": false
   },
@@ -144461,6 +143654,60 @@
     "archived": false
   },
   {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "为 Membrane 提供 MCP 服务器支持，实现 AI 代理与 Membrane 框架的无缝集成与交互。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-03T02:26:56.716Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，支持通过自然语言与 Membrane 环境交互，执行资源管理、进程控制等操作。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:46.881Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "qiniu/qiniu-mcp-server",
     "name": "qiniu-mcp-server",
     "description": "qiniu-mcp-server",
@@ -144700,6 +143947,60 @@
     "archived": false
   },
   {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供安全、轻量的 API 网关，用于连接 AI 代理与外部工具和数据源。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 37,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-02T02:51:35.493Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "MCP Server for Membrane 的服务器端实现，提供高性能、可扩展的膜计算服务接口。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 37,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-01T02:59:00.875Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "kukapay/uniswap-trader-mcp",
     "name": "uniswap-trader-mcp",
     "description": "An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.",
@@ -144720,6 +144021,681 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:31.490Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "为 Membrane 框架提供 MCP 协议支持的服务器，实现标准化工具调用与资源访问接口。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-28T02:07:56.380Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "MCP 服务器，用于连接 Membrane 平台，支持通过自然语言调用工具、查询数据和自动化工作流。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-27T02:24:05.454Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "为Membrane框架提供MCP服务器集成，支持通过标准协议连接AI代理与Membrane应用，实现工具调用与数据交互。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-26T02:18:24.913Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "为 Membrane 提供 MCP 服务器支持，实现与 AI 代理的集成与交互。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-25T02:15:14.823Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "为 Membrane 框架提供 MCP 服务器支持，实现 AI 代理与外部工具的无缝集成与交互。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-24T02:13:57.417Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "为 Membrane 提供 MCP 服务器支持，实现模型上下文协议集成。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-23T02:19:38.320Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供可扩展的 API 网关，支持无服务器函数、数据库集成和实时通信。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-22T02:11:28.124Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "MCP 服务器，用于连接 Membrane 框架，支持 AI 代理与去中心化应用交互。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-21T02:12:17.635Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据存储与查询功能。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-20T02:33:41.758Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供统一 API 管理、认证、速率限制和日志记录，支持多协议集成与插件扩展。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-19T02:12:37.896Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化 API 接口，支持通过自然语言调用外部服务与数据源。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-18T02:00:01.810Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，支持通过自然语言查询和操作商业数据，连接 Salesforce、HubSpot 等系统。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-17T02:15:09.145Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据接口，支持查询、过滤与实时同步，简化 AI 与业务数据集成。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-16T02:08:43.260Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据 API，支持查询、过滤与实时同步，简化数据集成。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-15T02:00:46.350Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据提取、网页内容抓取及 AI 驱动的数据转换功能。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-14T02:04:02.293Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供可组合的 API 网关，支持无服务器函数、数据库、认证、速率限制及可观察性。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-13T02:18:38.733Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化 API 接口，支持工具调用与资源访问，简化 AI 应用与外部系统集成。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-12T02:16:44.849Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "为 Membrane 构建的 MCP 服务器，支持通过自然语言与 Membrane 交互，执行查询、操作和自动化任务。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-11T02:13:58.747Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "MCP Server for Membrane 的服务器端实现，提供膜计算相关接口与协议支持。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-10T02:25:51.414Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供安全、可扩展的 API 代理，支持实时数据流与 AI 模型集成。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-09T02:25:05.406Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "MCP Server for Membrane 的 MCP 服务端，用于连接和管理 Membrane 平台。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-08T02:14:18.140Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "为 Membrane 提供 MCP 服务器，支持通过自然语言查询和管理膜计算资源。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-07T02:38:26.890Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化 API 接口以连接并管理 Membrane 平台资源。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-06T02:42:31.712Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据提取、网页抓取、文件处理及 AI 驱动的数据管道功能。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-05T02:40:21.753Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "membranehq/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for Membrane",
+    "descriptionZh": "Membrane 的 MCP 服务器，提供结构化数据存储、实时同步与跨平台访问功能。",
+    "url": "https://github.com/membranehq/mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 11,
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-04T19:32:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-04T02:23:30.098Z",
     "featured": false,
     "archived": false
   },
@@ -149315,6 +149291,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:27.442Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "drdroidlab/signoz-mcp-server",
+    "name": "signoz-mcp-server",
+    "description": "Connect your Signoz Instance with Cursor, Claude Desktop or any other MCP Compatible Client",
+    "descriptionZh": "将 Signoz 实例与 Cursor、Claude Desktop 或其他 MCP 兼容客户端连接。",
+    "url": "https://github.com/DrDroidLab/signoz-mcp-server",
+    "homepage": null,
+    "stars": 14,
+    "forks": 6,
+    "topics": [],
+    "language": "Python",
+    "category": "devops",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "uv venv .venv",
+    "lastCommit": "2026-03-04T19:02:43Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:39.213Z",
     "featured": false,
     "archived": false
   },
