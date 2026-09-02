@@ -137581,32 +137581,6 @@
     "archived": false
   },
   {
-    "id": "shellsage-ai/mcp-server-boilerplate",
-    "name": "mcp-server-boilerplate",
-    "description": "Production-ready MCP server templates in TypeScript and Python. Quickstart boilerplate for building Model Context Protocol servers.",
-    "descriptionZh": "生产级 MCP 服务器模板，支持 TypeScript 和 Python，快速搭建模型上下文协议服务器的入门脚手架。",
-    "url": "https://github.com/shellsage-ai/mcp-server-boilerplate",
-    "homepage": "https://shellsage-ai.github.io/",
-    "stars": 2,
-    "forks": 1,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-06T00:28:58Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:25.236Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "the402ai/mcp-server",
     "name": "mcp-server",
     "description": "MCP server for the402.ai — AI agent service marketplace. Browse services, purchase via x402 micropayments, manage threads, list services as a provider.",
@@ -161765,6 +161739,32 @@
     "firstSeen": "2026-07-01T02:59:01.593Z",
     "featured": false,
     "archived": true
+  },
+  {
+    "id": "shellsage-ai/mcp-server-boilerplate",
+    "name": "mcp-server-boilerplate",
+    "description": "Production-ready MCP server templates in TypeScript and Python. Quickstart boilerplate for building Model Context Protocol servers.",
+    "descriptionZh": "生产级 MCP 服务器模板，支持 TypeScript 和 Python，快速搭建模型上下文协议服务器的入门脚手架。",
+    "url": "https://github.com/shellsage-ai/mcp-server-boilerplate",
+    "homepage": "https://shellsage-ai.github.io/",
+    "stars": 2,
+    "forks": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-06T00:28:58Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:25.236Z",
+    "featured": false,
+    "archived": false
   },
   {
     "id": "peek-travel/mcp-intro",
