@@ -105841,30 +105841,6 @@
     "archived": false
   },
   {
-    "id": "ckanthony/chisel",
-    "name": "Chisel",
-    "description": "🪛 Rust powered precision file tools for AI agents thats minimize context use: patch-based edits, kernel-enforced path confinement.  Dramatically fewer tokens than naive read/write.  MCP Server or embeddable, bring your own MCP (Rust, Python, Nodejs).  Come with Skills.md (npx skills add ckanthony/Chisel)",
-    "descriptionZh": "Rust 驱动的 AI 代理精准文件工具，最小化上下文使用：基于补丁的编辑、内核强制路径限制。比简单读写节省大量 token。支持 MCP 服务器或嵌入，自带 MCP（Rust、Python、Nodejs）。附带 Skills.md。",
-    "url": "https://github.com/ckanthony/Chisel",
-    "homepage": null,
-    "stars": 17,
-    "forks": 3,
-    "topics": [],
-    "language": "Rust",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "brew install caddy",
-    "lastCommit": "2026-03-07T18:31:54Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:54.031Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "pkolawa/krs-poland-mcp-server",
     "name": "krs-poland-mcp-server",
     "description": "The MCP server for KRS Poland public API.",
@@ -112766,30 +112742,6 @@
     "archived": false
   },
   {
-    "id": "fantomaskarus1/telegram-bot-mcp",
-    "name": "telegram-bot-mcp",
-    "description": "Full-featured Telegram Bot API MCP server with 174 tools for Claude Code and AI agents",
-    "descriptionZh": "全功能Telegram Bot API MCP服务器，提供174个工具，支持Claude Code和AI代理。",
-    "url": "https://github.com/FantomaSkaRus1/telegram-bot-mcp",
-    "homepage": null,
-    "stars": 6,
-    "forks": 1,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-07T14:04:33Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:02.231Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "andywang1688/sql-query-mcp",
     "name": "sql-query-mcp",
     "description": "A general-purpose MCP server that lets AI work with multiple databases within clear boundaries.",
@@ -114374,30 +114326,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:14:20.325Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "aparajithn/agent-scraper-mcp",
-    "name": "agent-scraper-mcp",
-    "description": "Web scraping MCP server for AI agents — screenshots, content extraction, structured scraping",
-    "descriptionZh": "为AI代理设计的网页抓取MCP服务器，支持截图、内容提取与结构化抓取。",
-    "url": "https://github.com/aparajithn/agent-scraper-mcp",
-    "homepage": null,
-    "stars": 5,
-    "forks": 1,
-    "topics": [],
-    "language": "Python",
-    "category": "content",
-    "platforms": [
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": "pip install -e \".[dev]\"",
-    "lastCommit": "2026-03-07T07:13:57Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:21.472Z",
     "featured": false,
     "archived": false
   },
@@ -117758,30 +117686,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:14:24.260Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "aparajithn/agent-deploy-dashboard-mcp",
-    "name": "agent-deploy-dashboard-mcp",
-    "description": "Unified deployment management MCP server for Vercel, Render, Railway, and Fly.io",
-    "descriptionZh": "统一部署管理 MCP 服务器，支持 Vercel、Render、Railway 和 Fly.io。",
-    "url": "https://github.com/aparajithn/agent-deploy-dashboard-mcp",
-    "homepage": null,
-    "stars": 3,
-    "forks": 1,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": "pip install -e \".[dev]\"",
-    "lastCommit": "2026-03-07T13:20:39Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:31.853Z",
     "featured": false,
     "archived": false
   },
@@ -136565,31 +136469,6 @@
     "archived": false
   },
   {
-    "id": "aparajithn/agent-utils-mcp",
-    "name": "agent-utils-mcp",
-    "description": "agent-utils-mcp",
-    "descriptionZh": "为 AI 智能体提供工具调用与 MCP 协议支持的轻量级工具集，简化智能体与外部工具交互。",
-    "url": "https://github.com/aparajithn/agent-utils-mcp",
-    "homepage": null,
-    "stars": 5,
-    "forks": 1,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-07T07:13:56Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:44.839Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "pyroprompts/any-chat-completions-mcp",
     "name": "any-chat-completions-mcp",
     "description": "MCP Server for using any LLM as a Tool",
@@ -148145,6 +148024,30 @@
     "archived": false
   },
   {
+    "id": "ckanthony/chisel",
+    "name": "Chisel",
+    "description": "🪛 Rust powered precision file tools for AI agents thats minimize context use: patch-based edits, kernel-enforced path confinement.  Dramatically fewer tokens than naive read/write.  MCP Server or embeddable, bring your own MCP (Rust, Python, Nodejs).  Come with Skills.md (npx skills add ckanthony/Chisel)",
+    "descriptionZh": "Rust 驱动的 AI 代理精准文件工具，最小化上下文使用：基于补丁的编辑、内核强制路径限制。比简单读写节省大量 token。支持 MCP 服务器或嵌入，自带 MCP（Rust、Python、Nodejs）。附带 Skills.md。",
+    "url": "https://github.com/ckanthony/Chisel",
+    "homepage": null,
+    "stars": 17,
+    "forks": 3,
+    "topics": [],
+    "language": "Rust",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "brew install caddy",
+    "lastCommit": "2026-03-07T18:31:54Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:54.031Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "promptexecution/rust-cargo-docs-rag-mcp",
     "name": "rust-cargo-docs-rag-mcp",
     "description": "MCP tools for Rust Context Engineering (rustdocs, rust analyzer)",
@@ -152809,6 +152712,30 @@
     "archived": false
   },
   {
+    "id": "fantomaskarus1/telegram-bot-mcp",
+    "name": "telegram-bot-mcp",
+    "description": "Full-featured Telegram Bot API MCP server with 174 tools for Claude Code and AI agents",
+    "descriptionZh": "全功能Telegram Bot API MCP服务器，提供174个工具，支持Claude Code和AI代理。",
+    "url": "https://github.com/FantomaSkaRus1/telegram-bot-mcp",
+    "homepage": null,
+    "stars": 6,
+    "forks": 1,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-07T14:04:33Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:02.231Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "albertnahas/icogenie-mcp",
     "name": "icogenie-mcp",
     "description": "MCP server for IcoGenie - Enable AI agents to generate SVG icons programmatically",
@@ -153135,6 +153062,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.679Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "aparajithn/agent-scraper-mcp",
+    "name": "agent-scraper-mcp",
+    "description": "Web scraping MCP server for AI agents — screenshots, content extraction, structured scraping",
+    "descriptionZh": "为AI代理设计的网页抓取MCP服务器，支持截图、内容提取与结构化抓取。",
+    "url": "https://github.com/aparajithn/agent-scraper-mcp",
+    "homepage": null,
+    "stars": 5,
+    "forks": 1,
+    "topics": [],
+    "language": "Python",
+    "category": "content",
+    "platforms": [
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": "pip install -e \".[dev]\"",
+    "lastCommit": "2026-03-07T07:13:57Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:21.472Z",
     "featured": false,
     "archived": false
   },
@@ -153922,6 +153873,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.620Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "aparajithn/agent-deploy-dashboard-mcp",
+    "name": "agent-deploy-dashboard-mcp",
+    "description": "Unified deployment management MCP server for Vercel, Render, Railway, and Fly.io",
+    "descriptionZh": "统一部署管理 MCP 服务器，支持 Vercel、Render、Railway 和 Fly.io。",
+    "url": "https://github.com/aparajithn/agent-deploy-dashboard-mcp",
+    "homepage": null,
+    "stars": 3,
+    "forks": 1,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": "pip install -e \".[dev]\"",
+    "lastCommit": "2026-03-07T13:20:39Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:31.853Z",
     "featured": false,
     "archived": false
   },
@@ -161493,6 +161468,31 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:30.645Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "aparajithn/agent-utils-mcp",
+    "name": "agent-utils-mcp",
+    "description": "agent-utils-mcp",
+    "descriptionZh": "为 AI 智能体提供工具调用与 MCP 协议支持的轻量级工具集，简化智能体与外部工具交互。",
+    "url": "https://github.com/aparajithn/agent-utils-mcp",
+    "homepage": null,
+    "stars": 5,
+    "forks": 1,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-07T07:13:56Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:44.839Z",
     "featured": false,
     "archived": false
   },
