@@ -98438,30 +98438,6 @@
     "archived": false
   },
   {
-    "id": "zillow/auto-mobile",
-    "name": "auto-mobile",
-    "description": "Mobile automation suite of tools including an MCP and libraries for test authoring & execution",
-    "descriptionZh": "移动自动化工具套件，包含MCP及测试编写与执行库。",
-    "url": "https://github.com/zillow/auto-mobile",
-    "homepage": null,
-    "stars": 79,
-    "forks": 8,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ui-design",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-10T00:38:11Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:36.574Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "justadityaraj/amazon-in-mcp",
     "name": "amazon-in-mcp",
     "description": "MCP server for amazon.in — cheapest in-stock, best-value picks, and price history links. No paid APIs.",
@@ -145471,6 +145447,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:39.998Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "zillow/auto-mobile",
+    "name": "auto-mobile",
+    "description": "Mobile automation suite of tools including an MCP and libraries for test authoring & execution",
+    "descriptionZh": "移动自动化工具套件，包含MCP及测试编写与执行库。",
+    "url": "https://github.com/zillow/auto-mobile",
+    "homepage": null,
+    "stars": 79,
+    "forks": 8,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ui-design",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-10T00:38:11Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:36.574Z",
     "featured": false,
     "archived": false
   },
