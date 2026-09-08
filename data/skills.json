@@ -42790,30 +42790,6 @@
     "archived": false
   },
   {
-    "id": "varunneal/spotify-mcp",
-    "name": "spotify-mcp",
-    "description": "MCP to connect your LLM with Spotify.",
-    "descriptionZh": "MCP 连接 LLM 与 Spotify，实现音乐播放控制、查询和推荐。",
-    "url": "https://github.com/varunneal/spotify-mcp",
-    "homepage": null,
-    "stars": 609,
-    "forks": 133,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx @modelcontextprotocol/inspector uv --directory /path/to/spotify-mcp run spotify-mcp",
-    "lastCommit": "2026-03-11T14:15:06Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:42.322Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "keboola/mcp-server",
     "name": "mcp-server",
     "description": "Model Context Protocol (MCP) Server for the Keboola Platform",
@@ -48447,6 +48423,30 @@
     "commits30d": 31,
     "starGrowth30d": 1,
     "firstSeen": "2026-07-03T02:26:20.174Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "varunneal/spotify-mcp",
+    "name": "spotify-mcp",
+    "description": "MCP to connect your LLM with Spotify.",
+    "descriptionZh": "MCP 连接 LLM 与 Spotify，实现音乐播放控制、查询和推荐。",
+    "url": "https://github.com/varunneal/spotify-mcp",
+    "homepage": null,
+    "stars": 609,
+    "forks": 133,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx @modelcontextprotocol/inspector uv --directory /path/to/spotify-mcp run spotify-mcp",
+    "lastCommit": "2026-03-11T14:15:06Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:42.322Z",
     "featured": false,
     "archived": false
   },
@@ -62866,36 +62866,6 @@
     "commits30d": 25,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:48.108Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "sxhxliang/mcp-access-point",
-    "name": "mcp-access-point",
-    "description": "Turn a web server into an MCP server in one click without making any code changes.",
-    "descriptionZh": "一键将Web服务器转为MCP服务器，无需修改任何代码。",
-    "url": "https://github.com/sxhxliang/mcp-access-point",
-    "homepage": "https://deepwiki.com/sxhxliang/mcp-access-point",
-    "stars": 182,
-    "forks": 30,
-    "topics": [
-      "gateway",
-      "mcp",
-      "mcp-servers",
-      "proxy"
-    ],
-    "language": "Rust",
-    "category": "coding",
-    "platforms": [
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx @modelcontextprotocol/inspector node build/index.js",
-    "lastCommit": "2026-03-11T03:03:01Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-29T14:29:09.887Z",
     "featured": false,
     "archived": false
   },
@@ -112304,30 +112274,6 @@
     "archived": false
   },
   {
-    "id": "jettyio/mlcbakery",
-    "name": "mlcbakery",
-    "description": "mlcbakery",
-    "descriptionZh": "MLCBakery：一个用于机器学习竞赛的自动化特征工程与模型调优工具，支持多数据集与多任务场景。",
-    "url": "https://github.com/jettyio/mlcbakery",
-    "homepage": null,
-    "stars": 7,
-    "forks": 2,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install poetry uvicorn",
-    "lastCommit": "2026-03-11T17:52:38Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:47.662Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "shopsavvy/shopsavvy-mcp-server",
     "name": "shopsavvy-mcp-server",
     "description": "Model Context Protocol (MCP) server for ShopSavvy Data API - provides product lookup, pricing, and historical data tools for AI assistants.",
@@ -115535,46 +115481,6 @@
     "archived": false
   },
   {
-    "id": "rplryan/x402-discovery-mcp",
-    "name": "x402-discovery-mcp",
-    "description": "MCP server for x402 Service Discovery — continuously growing catalog of services, real-time quality signals, facilitator-compat checks. For Claude, Cursor, Windsurf.",
-    "descriptionZh": "MCP 服务器用于 x402 服务发现——持续增长的服务目录、实时质量信号、兼容性检查。适用于 Claude、Cursor、Windsurf。",
-    "url": "https://github.com/rplryan/x402-discovery-mcp",
-    "homepage": "https://x402scout.com/",
-    "stars": 4,
-    "forks": 1,
-    "topics": [
-      "ai-agents",
-      "base-network",
-      "coinbase",
-      "mcp",
-      "model-context-protocol",
-      "service-discovery",
-      "x402",
-      "mcp-server",
-      "base-chain",
-      "claude",
-      "cursor",
-      "llm-tools",
-      "micropayments",
-      "usdc"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g x402scout",
-    "lastCommit": "2026-03-11T12:16:12Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-29T14:29:23.602Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "ejwhite7/brandkit-mcp",
     "name": "brandkit-mcp",
     "description": "Open-source MCP server that gives AI tools native access to your company's design system — drop in your brand files, connect to Claude or any LLM tool",
@@ -117782,32 +117688,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:48.586Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "fantasieleven-code/callout",
-    "name": "callout",
-    "description": "callout",
-    "descriptionZh": "一个用于创建美观可定制标注的 React 组件库，支持多种样式和动画效果。",
-    "url": "https://github.com/fantasieleven-code/callout",
-    "homepage": null,
-    "stars": 3,
-    "forks": 2,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx callout-dev setup",
-    "lastCommit": "2026-03-11T06:31:16Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:57.973Z",
     "featured": false,
     "archived": false
   },
@@ -120538,32 +120418,6 @@
     "archived": false
   },
   {
-    "id": "dan1d/mercadopago-tool",
-    "name": "mercadopago-tool",
-    "description": "Mercado Pago tool connector for AI agents, Telegram, WhatsApp and automation platforms",
-    "descriptionZh": "Mercado Pago 工具连接器，支持 AI 代理、Telegram、WhatsApp 及自动化平台。",
-    "url": "https://github.com/dan1d/mercadopago-tool",
-    "homepage": null,
-    "stars": 2,
-    "forks": 1,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx cobroya-telegram",
-    "lastCommit": "2026-03-11T13:11:33Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:10.406Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "trade-it-inc/trade-it-mcp",
     "name": "trade-it-mcp",
     "description": "Guide to connect to Trade It's MCP server and trade stocks, crypto, and options",
@@ -122449,36 +122303,6 @@
     "archived": false
   },
   {
-    "id": "lincolnburrows2017/filesystem-mcp",
-    "name": "filesystem-mcp",
-    "description": "Model Context Protocol server for file system operations",
-    "descriptionZh": "为文件系统操作提供模型上下文协议服务器",
-    "url": "https://github.com/LincolnBurrows2017/filesystem-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 1,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "filesystem",
-      "mcp",
-      "python"
-    ],
-    "language": "Python",
-    "category": "content",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "pip install filesystem-mcp",
-    "lastCommit": "2026-03-11T06:15:28Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:16:56.461Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "asicojp/claudecodenavi-mcp",
     "name": "claudecodenavi-mcp",
     "description": "ClaudeCodeNavi MCP Server - Claude Code knowledge platform & marketplace",
@@ -123774,35 +123598,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:14:40.255Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "trackerfitness729-jpg/sitelauncher-mcp-server",
-    "name": "sitelauncher-mcp-server",
-    "description": "MCP server for deploying live HTTPS websites via SiteLauncher. Instant subdomains or custom .xyz domains, paid with USDC on Base chain.",
-    "descriptionZh": "SiteLauncher 的 MCP 服务器，用于部署实时 HTTPS 网站。支持即时子域名或自定义 .xyz 域名，通过 Base 链用 USDC 支付。",
-    "url": "https://github.com/trackerfitness729-jpg/sitelauncher-mcp-server",
-    "homepage": null,
-    "stars": 1,
-    "forks": 1,
-    "topics": [
-      "ai-agent",
-      "mcp",
-      "mcp-server",
-      "website-deploy"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx sitelauncher-mcp-server",
-    "lastCommit": "2026-03-11T22:18:26Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:40.948Z",
     "featured": false,
     "archived": false
   },
@@ -130012,6 +129807,36 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:27.459Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "sxhxliang/mcp-access-point",
+    "name": "mcp-access-point",
+    "description": "Turn a web server into an MCP server in one click without making any code changes.",
+    "descriptionZh": "一键将Web服务器转为MCP服务器，无需修改任何代码。",
+    "url": "https://github.com/sxhxliang/mcp-access-point",
+    "homepage": "https://deepwiki.com/sxhxliang/mcp-access-point",
+    "stars": 182,
+    "forks": 30,
+    "topics": [
+      "gateway",
+      "mcp",
+      "mcp-servers",
+      "proxy"
+    ],
+    "language": "Rust",
+    "category": "coding",
+    "platforms": [
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx @modelcontextprotocol/inspector node build/index.js",
+    "lastCommit": "2026-03-11T03:03:01Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-29T14:29:09.887Z",
     "featured": false,
     "archived": false
   },
@@ -136505,30 +136330,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:22.123Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "getmystadmin/urdb-mcp",
-    "name": "urdb-mcp",
-    "description": "urdb-mcp",
-    "descriptionZh": "urdb-mcp: 为 MCP 客户端提供电影、电视剧、综艺等影视数据的查询服务，支持按标题、类型、年份等条件搜索。",
-    "url": "https://github.com/GetMystAdmin/urdb-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 1,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "office",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-11T03:42:52Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:32.173Z",
     "featured": false,
     "archived": false
   },
@@ -151227,6 +151028,30 @@
     "archived": false
   },
   {
+    "id": "jettyio/mlcbakery",
+    "name": "mlcbakery",
+    "description": "mlcbakery",
+    "descriptionZh": "MLCBakery：一个用于机器学习竞赛的自动化特征工程与模型调优工具，支持多数据集与多任务场景。",
+    "url": "https://github.com/jettyio/mlcbakery",
+    "homepage": null,
+    "stars": 7,
+    "forks": 2,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install poetry uvicorn",
+    "lastCommit": "2026-03-11T17:52:38Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:47.662Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "ahnopologetic/canvas-lms-mcp",
     "name": "canvas-lms-mcp",
     "description": "canvas-lms-mcp",
@@ -152976,6 +152801,46 @@
     "archived": false
   },
   {
+    "id": "rplryan/x402-discovery-mcp",
+    "name": "x402-discovery-mcp",
+    "description": "MCP server for x402 Service Discovery — continuously growing catalog of services, real-time quality signals, facilitator-compat checks. For Claude, Cursor, Windsurf.",
+    "descriptionZh": "MCP 服务器用于 x402 服务发现——持续增长的服务目录、实时质量信号、兼容性检查。适用于 Claude、Cursor、Windsurf。",
+    "url": "https://github.com/rplryan/x402-discovery-mcp",
+    "homepage": "https://x402scout.com/",
+    "stars": 4,
+    "forks": 1,
+    "topics": [
+      "ai-agents",
+      "base-network",
+      "coinbase",
+      "mcp",
+      "model-context-protocol",
+      "service-discovery",
+      "x402",
+      "mcp-server",
+      "base-chain",
+      "claude",
+      "cursor",
+      "llm-tools",
+      "micropayments",
+      "usdc"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g x402scout",
+    "lastCommit": "2026-03-11T12:16:12Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-29T14:29:23.602Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "ofershap/mcp-server-cloudflare",
     "name": "mcp-server-cloudflare",
     "description": "MCP server to manage Cloudflare Workers, KV, R2, DNS, and cache from your IDE",
@@ -153582,6 +153447,32 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.620Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "fantasieleven-code/callout",
+    "name": "callout",
+    "description": "callout",
+    "descriptionZh": "一个用于创建美观可定制标注的 React 组件库，支持多种样式和动画效果。",
+    "url": "https://github.com/fantasieleven-code/callout",
+    "homepage": null,
+    "stars": 3,
+    "forks": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx callout-dev setup",
+    "lastCommit": "2026-03-11T06:31:16Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:57.973Z",
     "featured": false,
     "archived": false
   },
@@ -154527,6 +154418,32 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "dan1d/mercadopago-tool",
+    "name": "mercadopago-tool",
+    "description": "Mercado Pago tool connector for AI agents, Telegram, WhatsApp and automation platforms",
+    "descriptionZh": "Mercado Pago 工具连接器，支持 AI 代理、Telegram、WhatsApp 及自动化平台。",
+    "url": "https://github.com/dan1d/mercadopago-tool",
+    "homepage": null,
+    "stars": 2,
+    "forks": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx cobroya-telegram",
+    "lastCommit": "2026-03-11T13:11:33Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:10.406Z",
     "featured": false,
     "archived": false
   },
@@ -155822,6 +155739,36 @@
     "archived": false
   },
   {
+    "id": "lincolnburrows2017/filesystem-mcp",
+    "name": "filesystem-mcp",
+    "description": "Model Context Protocol server for file system operations",
+    "descriptionZh": "为文件系统操作提供模型上下文协议服务器",
+    "url": "https://github.com/LincolnBurrows2017/filesystem-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 1,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "filesystem",
+      "mcp",
+      "python"
+    ],
+    "language": "Python",
+    "category": "content",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "pip install filesystem-mcp",
+    "lastCommit": "2026-03-11T06:15:28Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:16:56.461Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "dan1d/mercadolibre-mcp",
     "name": "mercadolibre-mcp",
     "description": "MercadoLibre MCP server for AI agents. Search products, browse categories, track trends across Latin America.",
@@ -155992,6 +155939,35 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "trackerfitness729-jpg/sitelauncher-mcp-server",
+    "name": "sitelauncher-mcp-server",
+    "description": "MCP server for deploying live HTTPS websites via SiteLauncher. Instant subdomains or custom .xyz domains, paid with USDC on Base chain.",
+    "descriptionZh": "SiteLauncher 的 MCP 服务器，用于部署实时 HTTPS 网站。支持即时子域名或自定义 .xyz 域名，通过 Base 链用 USDC 支付。",
+    "url": "https://github.com/trackerfitness729-jpg/sitelauncher-mcp-server",
+    "homepage": null,
+    "stars": 1,
+    "forks": 1,
+    "topics": [
+      "ai-agent",
+      "mcp",
+      "mcp-server",
+      "website-deploy"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx sitelauncher-mcp-server",
+    "lastCommit": "2026-03-11T22:18:26Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:40.948Z",
     "featured": false,
     "archived": false
   },
@@ -161713,6 +161689,30 @@
     "firstSeen": "2026-07-01T02:59:01.593Z",
     "featured": false,
     "archived": true
+  },
+  {
+    "id": "getmystadmin/urdb-mcp",
+    "name": "urdb-mcp",
+    "description": "urdb-mcp",
+    "descriptionZh": "urdb-mcp: 为 MCP 客户端提供电影、电视剧、综艺等影视数据的查询服务，支持按标题、类型、年份等条件搜索。",
+    "url": "https://github.com/GetMystAdmin/urdb-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 1,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "office",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-11T03:42:52Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:32.173Z",
+    "featured": false,
+    "archived": false
   },
   {
     "id": "doctorm333/promptpilot-mcp-server",
