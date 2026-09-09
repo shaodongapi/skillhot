@@ -40227,30 +40227,6 @@
     "archived": false
   },
   {
-    "id": "zcaceres/fetch-mcp",
-    "name": "fetch-mcp",
-    "description": "A flexible HTTP fetching Model Context Protocol server.",
-    "descriptionZh": "灵活HTTP抓取模型上下文协议服务器。",
-    "url": "https://github.com/zcaceres/fetch-mcp",
-    "homepage": null,
-    "stars": 804,
-    "forks": 119,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "content",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx mcp-fetch <command> <url> [flags]",
-    "lastCommit": "2026-03-12T17:17:24Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:35.956Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "keboola/mcp-server",
     "name": "mcp-server",
     "description": "Model Context Protocol (MCP) Server for the Keboola Platform",
@@ -42923,6 +42899,30 @@
     "commits30d": 88,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-05T02:39:48.113Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "zcaceres/fetch-mcp",
+    "name": "fetch-mcp",
+    "description": "A flexible HTTP fetching Model Context Protocol server.",
+    "descriptionZh": "灵活HTTP抓取模型上下文协议服务器。",
+    "url": "https://github.com/zcaceres/fetch-mcp",
+    "homepage": null,
+    "stars": 804,
+    "forks": 119,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "content",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx mcp-fetch <command> <url> [flags]",
+    "lastCommit": "2026-03-12T17:17:24Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:35.956Z",
     "featured": false,
     "archived": false
   },
@@ -71990,41 +71990,6 @@
     "archived": false
   },
   {
-    "id": "augmnt/augments-mcp-server",
-    "name": "augments-mcp-server",
-    "description": "Comprehensive MCP server providing real-time framework documentation access for Claude Code with intelligent caching, multi-source integration, and context-aware assistance.",
-    "descriptionZh": "为Claude Code提供实时框架文档的MCP服务器，支持智能缓存、多源集成与上下文感知辅助。",
-    "url": "https://github.com/augmnt/augments-mcp-server",
-    "homepage": "https://augments.dev",
-    "stars": 126,
-    "forks": 20,
-    "topics": [
-      "ai-tools",
-      "async",
-      "caching",
-      "claude-code",
-      "developer-tools",
-      "framework",
-      "mcp",
-      "model-context-protocol",
-      "python"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-13T00:35:42Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:49.844Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "juanmidev1/synapse-code-mcp",
     "name": "synapse-code-mcp",
     "description": "Model Context Protocol server for code intelligence. Lets AI assistants explore your codebase on demand — semantic context with dependency graphs, compressed symbol indexes for TypeScript/JavaScript, plus git diffs and ripgrep-powered search across any language.",
@@ -99457,31 +99422,6 @@
     "archived": false
   },
   {
-    "id": "bruno-portfolio/agrobr-mcp",
-    "name": "agrobr-mcp",
-    "description": "MCP server for Brazilian agricultural data — connect LLMs to 10 public data sources via agrobr",
-    "descriptionZh": "为巴西农业数据提供MCP服务器，通过agrobr连接LLM与10个公共数据源。",
-    "url": "https://github.com/bruno-portfolio/agrobr-mcp",
-    "homepage": null,
-    "stars": 26,
-    "forks": 8,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "pip install agrobr-mcp",
-    "lastCommit": "2026-03-12T22:28:58Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:36.046Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "codelogicincengineering/codelogic-mcp-server",
     "name": "codelogic-mcp-server",
     "description": "An MCP Server to utilize Codelogic's rich software dependency data in your AI programming assistant.",
@@ -113801,41 +113741,6 @@
     "archived": false
   },
   {
-    "id": "carlosahumada89/govrider-mcp-server",
-    "name": "govrider-mcp-server",
-    "description": "GovRider MCP Server - Match your tech product or consulting service to thousands of live government tenders, RFPs, grants, and frameworks from 25+ official sources worldwide",
-    "descriptionZh": "GovRider MCP 服务器：将您的技术产品或咨询服务与全球 25 多个官方来源的数千个实时政府招标、RFP、拨款和框架进行匹配。",
-    "url": "https://github.com/carlosahumada89/govrider-mcp-server",
-    "homepage": "https://www.govrider.ai",
-    "stars": 5,
-    "forks": 1,
-    "topics": [
-      "ai-agents",
-      "government",
-      "govtech",
-      "grants",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "procurement",
-      "tenders"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-12T22:59:03Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-29T14:28:21.879Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "khalidsaidi/ragmap",
     "name": "ragmap",
     "description": "RAG MCP Registry Finder (RAGMap): subregistry API + MCP server + Firestore ingestion",
@@ -117947,38 +117852,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:49.895Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "fajarmf/slite-mcp",
-    "name": "slite-mcp",
-    "description": "Model Context Protocol server for Slite integration - search and retrieve notes from your Slite workspace",
-    "descriptionZh": "为 Slite 集成提供模型上下文协议服务器，支持搜索和检索工作区笔记。",
-    "url": "https://github.com/fajarmf/slite-mcp",
-    "homepage": null,
-    "stars": 3,
-    "forks": 0,
-    "topics": [
-      "ai",
-      "knowledge-base",
-      "mcp",
-      "model-context-protocol",
-      "notes",
-      "slite",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-12T16:59:34Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:25.467Z",
     "featured": false,
     "archived": false
   },
@@ -123341,32 +123214,6 @@
     "archived": false
   },
   {
-    "id": "junipr-labs/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP server for Junipr APIs — screenshots, PDFs, and metadata extraction",
-    "descriptionZh": "MCP 服务器，用于 Junipr API，支持截图、PDF 及元数据提取。",
-    "url": "https://github.com/junipr-labs/mcp-server",
-    "homepage": "https://junipr.io",
-    "stars": 1,
-    "forks": 1,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "claude mcp add junipr -- npx -y junipr-mcp",
-    "lastCommit": "2026-03-12T06:23:44Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:26.383Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "lyosis/claudeforsafari",
     "name": "claudeForSafari",
     "description": "claudeForSafari",
@@ -126623,38 +126470,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:14.182Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "cryptobriefing/gloria-mcp",
-    "name": "gloria-mcp",
-    "description": "MCP server for Gloria AI — real-time curated crypto news with sentiment, recaps, and search for AI agents",
-    "descriptionZh": "Gloria AI 的 MCP 服务器，为 AI 代理提供实时精选加密新闻、情绪分析、摘要及搜索功能。",
-    "url": "https://github.com/cryptobriefing/gloria-mcp",
-    "homepage": "https://itsgloria.ai",
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "ai",
-      "crypto",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "news",
-      "x402"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "uv pip install -e .",
-    "lastCommit": "2026-03-12T20:00:58Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:16.978Z",
     "featured": false,
     "archived": false
   },
@@ -138670,6 +138485,41 @@
     "archived": false
   },
   {
+    "id": "augmnt/augments-mcp-server",
+    "name": "augments-mcp-server",
+    "description": "Comprehensive MCP server providing real-time framework documentation access for Claude Code with intelligent caching, multi-source integration, and context-aware assistance.",
+    "descriptionZh": "为Claude Code提供实时框架文档的MCP服务器，支持智能缓存、多源集成与上下文感知辅助。",
+    "url": "https://github.com/augmnt/augments-mcp-server",
+    "homepage": "https://augments.dev",
+    "stars": 126,
+    "forks": 20,
+    "topics": [
+      "ai-tools",
+      "async",
+      "caching",
+      "claude-code",
+      "developer-tools",
+      "framework",
+      "mcp",
+      "model-context-protocol",
+      "python"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-13T00:35:42Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:49.844Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "cameroncooke/reloaderoo",
     "name": "reloaderoo",
     "description": "Powerful MCP debugging proxy and CLI inspection tool.",
@@ -145811,6 +145661,31 @@
     "archived": false
   },
   {
+    "id": "bruno-portfolio/agrobr-mcp",
+    "name": "agrobr-mcp",
+    "description": "MCP server for Brazilian agricultural data — connect LLMs to 10 public data sources via agrobr",
+    "descriptionZh": "为巴西农业数据提供MCP服务器，通过agrobr连接LLM与10个公共数据源。",
+    "url": "https://github.com/bruno-portfolio/agrobr-mcp",
+    "homepage": null,
+    "stars": 26,
+    "forks": 8,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "pip install agrobr-mcp",
+    "lastCommit": "2026-03-12T22:28:58Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:36.046Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "kukapay/modbus-mcp",
     "name": "modbus-mcp",
     "description": "An MCP server that standardizes and contextualizes industrial Modbus data.",
@@ -152331,6 +152206,41 @@
     "archived": false
   },
   {
+    "id": "carlosahumada89/govrider-mcp-server",
+    "name": "govrider-mcp-server",
+    "description": "GovRider MCP Server - Match your tech product or consulting service to thousands of live government tenders, RFPs, grants, and frameworks from 25+ official sources worldwide",
+    "descriptionZh": "GovRider MCP 服务器：将您的技术产品或咨询服务与全球 25 多个官方来源的数千个实时政府招标、RFP、拨款和框架进行匹配。",
+    "url": "https://github.com/carlosahumada89/govrider-mcp-server",
+    "homepage": "https://www.govrider.ai",
+    "stars": 5,
+    "forks": 1,
+    "topics": [
+      "ai-agents",
+      "government",
+      "govtech",
+      "grants",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "procurement",
+      "tenders"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-12T22:59:03Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-29T14:28:21.879Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "antonio-mello-ai/mcp-pfsense",
     "name": "mcp-pfsense",
     "description": "MCP server for managing pfSense firewalls through AI assistants",
@@ -153447,6 +153357,38 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.620Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "fajarmf/slite-mcp",
+    "name": "slite-mcp",
+    "description": "Model Context Protocol server for Slite integration - search and retrieve notes from your Slite workspace",
+    "descriptionZh": "为 Slite 集成提供模型上下文协议服务器，支持搜索和检索工作区笔记。",
+    "url": "https://github.com/fajarmf/slite-mcp",
+    "homepage": null,
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "ai",
+      "knowledge-base",
+      "mcp",
+      "model-context-protocol",
+      "notes",
+      "slite",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-12T16:59:34Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:25.467Z",
     "featured": false,
     "archived": false
   },
@@ -155939,6 +155881,64 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "junipr-labs/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP server for Junipr APIs — screenshots, PDFs, and metadata extraction",
+    "descriptionZh": "MCP 服务器，用于 Junipr API，支持截图、PDF 及元数据提取。",
+    "url": "https://github.com/junipr-labs/mcp-server",
+    "homepage": "https://junipr.io",
+    "stars": 1,
+    "forks": 1,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "claude mcp add junipr -- npx -y junipr-mcp",
+    "lastCommit": "2026-03-12T06:23:44Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:26.383Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "cryptobriefing/gloria-mcp",
+    "name": "gloria-mcp",
+    "description": "MCP server for Gloria AI — real-time curated crypto news with sentiment, recaps, and search for AI agents",
+    "descriptionZh": "Gloria AI 的 MCP 服务器，为 AI 代理提供实时精选加密新闻、情绪分析、摘要及搜索功能。",
+    "url": "https://github.com/cryptobriefing/gloria-mcp",
+    "homepage": "https://itsgloria.ai",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "ai",
+      "crypto",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "news",
+      "x402"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "uv pip install -e .",
+    "lastCommit": "2026-03-12T20:00:58Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:16.978Z",
     "featured": false,
     "archived": false
   },
