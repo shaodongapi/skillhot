@@ -94256,45 +94256,6 @@
     "archived": false
   },
   {
-    "id": "micl2e2/code-to-tree",
-    "name": "code-to-tree",
-    "description": "A runtime-free MCP server that converts source code into AST🌲, regardless of language.",
-    "descriptionZh": "无需运行时的MCP服务器，可将任意语言的源代码转换为AST🌲。",
-    "url": "https://github.com/micl2e2/code-to-tree",
-    "homepage": null,
-    "stars": 88,
-    "forks": 12,
-    "topics": [
-      "abstract-syntax-tree",
-      "ast",
-      "dependency-free",
-      "mcp",
-      "mcp-server",
-      "mcp-tools",
-      "tree-sitter",
-      "no-runtime-dependencies",
-      "agentic",
-      "claude",
-      "syntax-analysis",
-      "syntax-tree",
-      "llm",
-      "runtime-free"
-    ],
-    "language": "C",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-14T02:22:44Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:52.527Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "flipt-io/mcp-server-flipt",
     "name": "mcp-server-flipt",
     "description": "mcp-server-flipt",
@@ -105598,30 +105559,6 @@
     "firstSeen": "2026-07-02T02:51:24.382Z",
     "featured": false,
     "archived": false
-  },
-  {
-    "id": "lightpanda-io/gomcp",
-    "name": "gomcp",
-    "description": "Lightpanda MCP server written in Go",
-    "descriptionZh": "基于Go的Lightpanda MCP服务器，提供无头浏览器自动化能力，支持AI驱动的网页交互与数据提取。",
-    "url": "https://github.com/lightpanda-io/gomcp",
-    "homepage": null,
-    "stars": 67,
-    "forks": 14,
-    "topics": [],
-    "language": "Go",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-13T18:05:45Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:26.561Z",
-    "featured": false,
-    "archived": true
   },
   {
     "id": "liveblocks/liveblocks-mcp-server",
@@ -142340,6 +142277,45 @@
     "archived": false
   },
   {
+    "id": "micl2e2/code-to-tree",
+    "name": "code-to-tree",
+    "description": "A runtime-free MCP server that converts source code into AST🌲, regardless of language.",
+    "descriptionZh": "无需运行时的MCP服务器，可将任意语言的源代码转换为AST🌲。",
+    "url": "https://github.com/micl2e2/code-to-tree",
+    "homepage": null,
+    "stars": 88,
+    "forks": 12,
+    "topics": [
+      "abstract-syntax-tree",
+      "ast",
+      "dependency-free",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "tree-sitter",
+      "no-runtime-dependencies",
+      "agentic",
+      "claude",
+      "syntax-analysis",
+      "syntax-tree",
+      "llm",
+      "runtime-free"
+    ],
+    "language": "C",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-14T02:22:44Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:52.527Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "membranehq/mcp-server",
     "name": "mcp-server",
     "description": "MCP Server for Membrane",
@@ -147036,6 +147012,30 @@
     "firstSeen": "2026-06-30T13:18:13.471Z",
     "featured": false,
     "archived": false
+  },
+  {
+    "id": "lightpanda-io/gomcp",
+    "name": "gomcp",
+    "description": "Lightpanda MCP server written in Go",
+    "descriptionZh": "基于Go的Lightpanda MCP服务器，提供无头浏览器自动化能力，支持AI驱动的网页交互与数据提取。",
+    "url": "https://github.com/lightpanda-io/gomcp",
+    "homepage": null,
+    "stars": 67,
+    "forks": 14,
+    "topics": [],
+    "language": "Go",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-13T18:05:45Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:26.561Z",
+    "featured": false,
+    "archived": true
   },
   {
     "id": "ckanthony/chisel",
