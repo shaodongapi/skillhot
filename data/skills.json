@@ -118993,44 +118993,6 @@
     "archived": false
   },
   {
-    "id": "realwigu/mcp-doctor",
-    "name": "mcp-doctor",
-    "description": "Diagnose, secure, and benchmark your MCP servers. Zero-config CLI for Claude Code, Cursor, VS Code, and Windsurf.",
-    "descriptionZh": "诊断、加固并基准测试你的 MCP 服务器。为 Claude Code、Cursor、VS Code 和 Windsurf 提供零配置命令行工具。",
-    "url": "https://github.com/realwigu/mcp-doctor",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [
-      "claude",
-      "cli",
-      "cursor",
-      "devtools",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "security",
-      "typescript",
-      "vscode",
-      "windsurf"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx @wigu/mcp-doctor doctor",
-    "lastCommit": "2026-03-14T21:38:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:29.351Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "user0856/snaprender-integrations",
     "name": "snaprender-integrations",
     "description": "Official integrations for SnapRender Screenshot API — MCP server, SDKs, OpenClaw, ChatGPT Actions, Postman",
@@ -127945,31 +127907,6 @@
     "firstSeen": "2026-06-30T13:15:49.582Z",
     "featured": false,
     "archived": false
-  },
-  {
-    "id": "ilyagulya/gradle-mcp-server",
-    "name": "gradle-mcp-server",
-    "description": "A Model Context Protocol (MCP) server to enable AI tools to interact with Gradle projects programmatically.",
-    "descriptionZh": "为 Gradle 项目提供模型上下文协议（MCP）服务器，支持 AI 工具以编程方式交互。",
-    "url": "https://github.com/IlyaGulya/gradle-mcp-server",
-    "homepage": null,
-    "stars": 47,
-    "forks": 8,
-    "topics": [],
-    "language": "Kotlin",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-14T04:25:14Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:02.401Z",
-    "featured": false,
-    "archived": true
   },
   {
     "id": "video-db/agent-toolkit",
@@ -154364,6 +154301,44 @@
     "archived": false
   },
   {
+    "id": "realwigu/mcp-doctor",
+    "name": "mcp-doctor",
+    "description": "Diagnose, secure, and benchmark your MCP servers. Zero-config CLI for Claude Code, Cursor, VS Code, and Windsurf.",
+    "descriptionZh": "诊断、加固并基准测试你的 MCP 服务器。为 Claude Code、Cursor、VS Code 和 Windsurf 提供零配置命令行工具。",
+    "url": "https://github.com/realwigu/mcp-doctor",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "claude",
+      "cli",
+      "cursor",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "security",
+      "typescript",
+      "vscode",
+      "windsurf"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx @wigu/mcp-doctor doctor",
+    "lastCommit": "2026-03-14T21:38:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:29.351Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "dan1d/mercadopago-tool",
     "name": "mercadopago-tool",
     "description": "Mercado Pago tool connector for AI agents, Telegram, WhatsApp and automation platforms",
@@ -156912,6 +156887,31 @@
     "firstSeen": "2026-06-30T13:17:30.192Z",
     "featured": false,
     "archived": false
+  },
+  {
+    "id": "ilyagulya/gradle-mcp-server",
+    "name": "gradle-mcp-server",
+    "description": "A Model Context Protocol (MCP) server to enable AI tools to interact with Gradle projects programmatically.",
+    "descriptionZh": "为 Gradle 项目提供模型上下文协议（MCP）服务器，支持 AI 工具以编程方式交互。",
+    "url": "https://github.com/IlyaGulya/gradle-mcp-server",
+    "homepage": null,
+    "stars": 47,
+    "forks": 8,
+    "topics": [],
+    "language": "Kotlin",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-14T04:25:14Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:02.401Z",
+    "featured": false,
+    "archived": true
   },
   {
     "id": "wong2/mcp-jina-reader",
