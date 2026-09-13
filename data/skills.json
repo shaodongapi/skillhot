@@ -72120,36 +72120,6 @@
     "archived": false
   },
   {
-    "id": "aliyun/alibaba-cloud-ops-mcp-server",
-    "name": "alibaba-cloud-ops-mcp-server",
-    "description": "AlibabaCloud CloudOps MCP Server",
-    "descriptionZh": "阿里云CloudOps MCP Server，提供云资源运维与自动化管理能力，支持多云环境下的基础设施即代码操作。",
-    "url": "https://github.com/aliyun/alibaba-cloud-ops-mcp-server",
-    "homepage": null,
-    "stars": 124,
-    "forks": 37,
-    "topics": [
-      "alibabacloud",
-      "cloudops",
-      "mcp",
-      "llm"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "cline",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "curl -LsSf https://astral.sh/uv/install.sh | sh",
-    "lastCommit": "2026-03-16T15:21:52Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:33.134Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "zw008/vmware-storage",
     "name": "VMware-Storage",
     "description": "VMware vSphere storage management: datastores, iSCSI, vSAN. Domain-focused MCP skill with 11 tools.",
@@ -76692,31 +76662,6 @@
     "commits30d": 19,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:33.247Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "thingsboard/thingsboard-mcp",
-    "name": "thingsboard-mcp",
-    "description": "thingsboard-mcp",
-    "descriptionZh": "ThingsBoard MCP 服务器，通过模型上下文协议（MCP）连接 AI 助手与 ThingsBoard 物联网平台，实现设备管理、遥测数据查询及告警处理。",
-    "url": "https://github.com/thingsboard/thingsboard-mcp",
-    "homepage": null,
-    "stars": 98,
-    "forks": 25,
-    "topics": [],
-    "language": "Java",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "claude mcp add thingsboard \\",
-    "lastCommit": "2026-03-16T13:43:46Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:58.917Z",
     "featured": false,
     "archived": false
   },
@@ -111661,30 +111606,6 @@
     "archived": false
   },
   {
-    "id": "mikan-atomoki/text-to-model",
-    "name": "text-to-model",
-    "description": "text-to-model",
-    "descriptionZh": "文本转3D模型工具，支持从文字描述直接生成可编辑的3D模型文件，适用于快速原型设计与3D打印。",
-    "url": "https://github.com/mikan-atomoki/text-to-model",
-    "homepage": null,
-    "stars": 6,
-    "forks": 1,
-    "topics": [],
-    "language": "Python",
-    "category": "ui-design",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/mikan-atomoki/text-to-model.git \"%APPDATA%\\Autodesk\\Autodesk Fusion 360\\API\\AddIns\\TextToModel\"",
-    "lastCommit": "2026-03-16T06:11:16Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:12.875Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "andywang1688/sql-query-mcp",
     "name": "sql-query-mcp",
     "description": "A general-purpose MCP server that lets AI work with multiple databases within clear boundaries.",
@@ -118430,46 +118351,6 @@
     "archived": false
   },
   {
-    "id": "wazionapps/mcp-server",
-    "name": "mcp-server",
-    "description": "WAzion MCP Server - Connect AI agents to WhatsApp via WAzion API. Smart copilot, 24/7 automation, mass marketing.",
-    "descriptionZh": "WAzion MCP服务器：通过WAzion API连接AI助手与WhatsApp，实现智能副驾、全天候自动化与批量营销。",
-    "url": "https://github.com/wazionapps/mcp-server",
-    "homepage": "https://wazion.com",
-    "stars": 2,
-    "forks": 1,
-    "topics": [
-      "ai",
-      "chatgpt",
-      "claude",
-      "cursor",
-      "mcp",
-      "model-context-protocol",
-      "whatsapp",
-      "wazion",
-      "automation",
-      "crm",
-      "mcp-server",
-      "messaging",
-      "whatsapp-business"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx -y @wazion/mcp-server",
-    "lastCommit": "2026-03-16T20:22:16Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:12.729Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "izzzzzi/iztolkmcp",
     "name": "izTolkMcp",
     "description": "MCP server for Tolk smart contract compiler — compile, check, and deploy TON blockchain smart contracts from any MCP-compatible AI assistant",
@@ -120887,38 +120768,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:01.259Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "py2755/aiogram-mcp",
-    "name": "aiogram-mcp",
-    "description": "MCP server middleware for aiogram Telegram bots — expose your bot to AI agents via the Model Context Protocol",
-    "descriptionZh": "为 aiogram Telegram 机器人提供 MCP 服务器中间件，通过模型上下文协议将机器人暴露给 AI 代理。",
-    "url": "https://github.com/Py2755/aiogram-mcp",
-    "homepage": "https://pypi.org/project/aiogram-mcp/",
-    "stars": 2,
-    "forks": 0,
-    "topics": [
-      "aiogram",
-      "bot",
-      "claude",
-      "mcp",
-      "model-context-protocol",
-      "python",
-      "telegram"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install aiogram-mcp",
-    "lastCommit": "2026-03-16T04:23:54Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:15:10.567Z",
     "featured": false,
     "archived": false
   },
@@ -124601,32 +124450,6 @@
     "archived": false
   },
   {
-    "id": "cyberweasel777/botindex-mcp-server",
-    "name": "botindex-mcp-server",
-    "description": "botindex-mcp-server",
-    "descriptionZh": "BotIndex MCP 服务器，用于索引和发现 MCP 服务器，支持搜索、分类和元数据管理。",
-    "url": "https://github.com/Cyberweasel777/botindex-mcp-server",
-    "homepage": null,
-    "stars": 1,
-    "forks": 2,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx botindex-mcp-server",
-    "lastCommit": "2026-03-16T17:38:37Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:07.196Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "chrisbusbin-pixel/propfirmdealfinder-mcp-server",
     "name": "propfirmdealfinder-mcp-server",
     "description": "MCP server for Prop Firm Deal Finder - lets AI assistants query live prop firm discount codes, compare firms, and find the cheapest challenges across 20+ proprietary trading firms.",
@@ -125620,30 +125443,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:14.182Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "gpartin/cryptoguardclient",
-    "name": "CryptoGuardClient",
-    "description": "CryptoGuardClient",
-    "descriptionZh": "CryptoGuardClient：一款用于检测加密算法误用的静态分析工具，支持多种编程语言，帮助开发者识别并修复安全漏洞。",
-    "url": "https://github.com/gpartin/CryptoGuardClient",
-    "homepage": null,
-    "stars": 1,
-    "forks": 1,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "pip install CryptoGuardClient",
-    "lastCommit": "2026-03-16T21:25:15Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:17.132Z",
     "featured": false,
     "archived": false
   },
@@ -138346,6 +138145,36 @@
     "archived": false
   },
   {
+    "id": "aliyun/alibaba-cloud-ops-mcp-server",
+    "name": "alibaba-cloud-ops-mcp-server",
+    "description": "AlibabaCloud CloudOps MCP Server",
+    "descriptionZh": "阿里云CloudOps MCP Server，提供云资源运维与自动化管理能力，支持多云环境下的基础设施即代码操作。",
+    "url": "https://github.com/aliyun/alibaba-cloud-ops-mcp-server",
+    "homepage": null,
+    "stars": 124,
+    "forks": 37,
+    "topics": [
+      "alibabacloud",
+      "cloudops",
+      "mcp",
+      "llm"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "cline",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "curl -LsSf https://astral.sh/uv/install.sh | sh",
+    "lastCommit": "2026-03-16T15:21:52Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:33.134Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "agentic-box/owlex",
     "name": "owlex",
     "description": "owlex",
@@ -138838,6 +138667,31 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:50.583Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "thingsboard/thingsboard-mcp",
+    "name": "thingsboard-mcp",
+    "description": "thingsboard-mcp",
+    "descriptionZh": "ThingsBoard MCP 服务器，通过模型上下文协议（MCP）连接 AI 助手与 ThingsBoard 物联网平台，实现设备管理、遥测数据查询及告警处理。",
+    "url": "https://github.com/thingsboard/thingsboard-mcp",
+    "homepage": null,
+    "stars": 98,
+    "forks": 25,
+    "topics": [],
+    "language": "Java",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "claude mcp add thingsboard \\",
+    "lastCommit": "2026-03-16T13:43:46Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:58.917Z",
     "featured": false,
     "archived": false
   },
@@ -151699,6 +151553,30 @@
     "archived": false
   },
   {
+    "id": "mikan-atomoki/text-to-model",
+    "name": "text-to-model",
+    "description": "text-to-model",
+    "descriptionZh": "文本转3D模型工具，支持从文字描述直接生成可编辑的3D模型文件，适用于快速原型设计与3D打印。",
+    "url": "https://github.com/mikan-atomoki/text-to-model",
+    "homepage": null,
+    "stars": 6,
+    "forks": 1,
+    "topics": [],
+    "language": "Python",
+    "category": "ui-design",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/mikan-atomoki/text-to-model.git \"%APPDATA%\\Autodesk\\Autodesk Fusion 360\\API\\AddIns\\TextToModel\"",
+    "lastCommit": "2026-03-16T06:11:16Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:12.875Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "rrmistry/tilt-mcp",
     "name": "tilt-mcp",
     "description": "MCP server for Tilt - enables LLMs to interact with your Tilt dev environment for building, deploying, and debugging Kubernetes workloads",
@@ -154301,6 +154179,46 @@
     "archived": false
   },
   {
+    "id": "wazionapps/mcp-server",
+    "name": "mcp-server",
+    "description": "WAzion MCP Server - Connect AI agents to WhatsApp via WAzion API. Smart copilot, 24/7 automation, mass marketing.",
+    "descriptionZh": "WAzion MCP服务器：通过WAzion API连接AI助手与WhatsApp，实现智能副驾、全天候自动化与批量营销。",
+    "url": "https://github.com/wazionapps/mcp-server",
+    "homepage": "https://wazion.com",
+    "stars": 2,
+    "forks": 1,
+    "topics": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "whatsapp",
+      "wazion",
+      "automation",
+      "crm",
+      "mcp-server",
+      "messaging",
+      "whatsapp-business"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx -y @wazion/mcp-server",
+    "lastCommit": "2026-03-16T20:22:16Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:12.729Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "realwigu/mcp-doctor",
     "name": "mcp-doctor",
     "description": "Diagnose, secure, and benchmark your MCP servers. Zero-config CLI for Claude Code, Cursor, VS Code, and Windsurf.",
@@ -155656,6 +155574,38 @@
     "archived": false
   },
   {
+    "id": "py2755/aiogram-mcp",
+    "name": "aiogram-mcp",
+    "description": "MCP server middleware for aiogram Telegram bots — expose your bot to AI agents via the Model Context Protocol",
+    "descriptionZh": "为 aiogram Telegram 机器人提供 MCP 服务器中间件，通过模型上下文协议将机器人暴露给 AI 代理。",
+    "url": "https://github.com/Py2755/aiogram-mcp",
+    "homepage": "https://pypi.org/project/aiogram-mcp/",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "aiogram",
+      "bot",
+      "claude",
+      "mcp",
+      "model-context-protocol",
+      "python",
+      "telegram"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install aiogram-mcp",
+    "lastCommit": "2026-03-16T04:23:54Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:15:10.567Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "lincolnburrows2017/filesystem-mcp",
     "name": "filesystem-mcp",
     "description": "Model Context Protocol server for file system operations",
@@ -155856,6 +155806,56 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "cyberweasel777/botindex-mcp-server",
+    "name": "botindex-mcp-server",
+    "description": "botindex-mcp-server",
+    "descriptionZh": "BotIndex MCP 服务器，用于索引和发现 MCP 服务器，支持搜索、分类和元数据管理。",
+    "url": "https://github.com/Cyberweasel777/botindex-mcp-server",
+    "homepage": null,
+    "stars": 1,
+    "forks": 2,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx botindex-mcp-server",
+    "lastCommit": "2026-03-16T17:38:37Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:07.196Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "gpartin/cryptoguardclient",
+    "name": "CryptoGuardClient",
+    "description": "CryptoGuardClient",
+    "descriptionZh": "CryptoGuardClient：一款用于检测加密算法误用的静态分析工具，支持多种编程语言，帮助开发者识别并修复安全漏洞。",
+    "url": "https://github.com/gpartin/CryptoGuardClient",
+    "homepage": null,
+    "stars": 1,
+    "forks": 1,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "pip install CryptoGuardClient",
+    "lastCommit": "2026-03-16T21:25:15Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:17.132Z",
     "featured": false,
     "archived": false
   },
