@@ -61303,30 +61303,6 @@
     "archived": false
   },
   {
-    "id": "tumf/mcp-text-editor",
-    "name": "mcp-text-editor",
-    "description": "mcp-text-editor",
-    "descriptionZh": "MCP 文本编辑器，支持通过 Model Context Protocol 对本地文件进行读写、编辑、搜索等操作。",
-    "url": "https://github.com/tumf/mcp-text-editor",
-    "homepage": null,
-    "stars": 198,
-    "forks": 25,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "uv pip install -e \".[dev]\"",
-    "lastCommit": "2026-03-17T22:06:05Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:29.984Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "tinyfish-io/agentql-mcp",
     "name": "agentql-mcp",
     "description": "Model Context Protocol server that integrates AgentQL's data extraction capabilities.",
@@ -97456,41 +97432,6 @@
     "archived": false
   },
   {
-    "id": "rsdouglas/janee",
-    "name": "janee",
-    "description": "Secrets management for AI agents via MCP • @janeesecure",
-    "descriptionZh": "通过MCP为AI代理提供机密管理 • @janeesecure",
-    "url": "https://github.com/rsdouglas/janee",
-    "homepage": "https://janee.io",
-    "stars": 29,
-    "forks": 7,
-    "topics": [
-      "ai-agents",
-      "api-keys",
-      "claude",
-      "cursor",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "secrets-management",
-      "security"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g @true-and-useful/janee",
-    "lastCommit": "2026-03-17T13:00:52Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:23.330Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "justadityaraj/amazon-in-mcp",
     "name": "amazon-in-mcp",
     "description": "MCP server for amazon.in — cheapest in-stock, best-value picks, and price history links. No paid APIs.",
@@ -107117,37 +107058,6 @@
     "archived": false
   },
   {
-    "id": "austenstone/myinstants-mcp",
-    "name": "myinstants-mcp",
-    "description": "MCP server that lets your ai agent press sound buttons. it's not that deep.",
-    "descriptionZh": "为AI智能体提供按下声音按钮功能的MCP服务器，就是这么简单。",
-    "url": "https://github.com/austenstone/myinstants-mcp",
-    "homepage": "https://myinstants.com",
-    "stars": 13,
-    "forks": 6,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "mcp",
-      "mcp-server",
-      "soundboard",
-      "memes"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx myinstants-mcp",
-    "lastCommit": "2026-03-17T03:55:03Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:08.536Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "khan2a/telephony-mcp-server",
     "name": "telephony-mcp-server",
     "description": "A very simple no-fuss minimalist MCP Server with telephony tools like voice call and sms. This MCP Server can be integrated with LLM applications. Vonage API is used for calls, SMS, Speech-to-Text and Speech Recognition.",
@@ -116555,30 +116465,6 @@
     "archived": false
   },
   {
-    "id": "wooxogh/adr-mcp-setup",
-    "name": "adr-mcp-setup",
-    "description": "adr-mcp-setup",
-    "descriptionZh": "ADR MCP设置：一个用于自动生成架构决策记录的MCP服务器，支持多种存储后端（文件、GitHub、GitLab），可集成至开发工作流。",
-    "url": "https://github.com/wooxogh/adr-mcp-setup",
-    "homepage": null,
-    "stars": 3,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-17T10:50:40Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:46.652Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "agent-hanju/char-index-mcp",
     "name": "char-index-mcp",
     "description": "A Model Context Protocol server for character-level index-based string manipulation",
@@ -118225,40 +118111,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:14:44.626Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "bababoi-bibilabu/agent-mq",
-    "name": "agent-mq",
-    "description": "Message queue for AI coding assistants. Let your AI agents talk to each other.",
-    "descriptionZh": "AI编码助手的消息队列，让AI智能体相互通信。",
-    "url": "https://github.com/bababoi-bibilabu/agent-mq",
-    "homepage": "https://agent-mq.com",
-    "stars": 2,
-    "forks": 0,
-    "topics": [
-      "agent-communication",
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "mcp",
-      "multi-agent",
-      "cursor",
-      "message-queue"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "claude plugin install agent-mq",
-    "lastCommit": "2026-03-17T03:11:49Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:59.427Z",
     "featured": false,
     "archived": false
   },
@@ -123009,39 +122861,6 @@
     "archived": false
   },
   {
-    "id": "darktw/chatpipe-mcp",
-    "name": "chatpipe-mcp",
-    "description": "Publish live web pages from your AI coding agent — instant shareable URLs from your terminal.",
-    "descriptionZh": "从AI编程代理发布实时网页——终端生成即时可分享的URL。",
-    "url": "https://github.com/darktw/chatpipe-mcp",
-    "homepage": "https://chatpipe.net",
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "ai-tools",
-      "developer-tools",
-      "live-pages",
-      "mcp",
-      "mcp-server",
-      "shareable-links",
-      "chatpipe",
-      "html-publishing"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "claude mcp add chatpipe --transport url https://api.chatpipe.net/mcp --header \"Authorization: Bearer YOUR_API_KEY\"",
-    "lastCommit": "2026-03-17T17:03:59Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:15:55.118Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "jambozx/onlinecybertools-mcp-server",
     "name": "onlinecybertools-mcp-server",
     "description": "MCP stdio server for onlinecybertools.com API",
@@ -126257,6 +126076,30 @@
     "archived": false
   },
   {
+    "id": "tumf/mcp-text-editor",
+    "name": "mcp-text-editor",
+    "description": "mcp-text-editor",
+    "descriptionZh": "MCP 文本编辑器，支持通过 Model Context Protocol 对本地文件进行读写、编辑、搜索等操作。",
+    "url": "https://github.com/tumf/mcp-text-editor",
+    "homepage": null,
+    "stars": 198,
+    "forks": 25,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "uv pip install -e \".[dev]\"",
+    "lastCommit": "2026-03-17T22:06:05Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:29.984Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "forgemeshlabs/anomaly-mcp",
     "name": "anomaly-mcp",
     "description": "Blockchain event sequence anomaly detection MCP server. Scores event streams using NASA-derived SequenceMiner via x402 micropayments.",
@@ -127035,41 +126878,6 @@
     "commits30d": 1,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-04T02:23:25.194Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "yepcode/mcp-server-js",
-    "name": "mcp-server-js",
-    "description": "MCP server that exposes YepCode processes as callable tools for AI platforms. Securely connect AI assistants to your YepCode workflows, APIs, and automations.",
-    "descriptionZh": "为AI平台提供YepCode进程作为可调用工具的MCP服务器，安全连接AI助手与YepCode工作流、API和自动化。",
-    "url": "https://github.com/yepcode/mcp-server-js",
-    "homepage": "https://yepcode.io/mcp-server",
-    "stars": 46,
-    "forks": 21,
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "mcp-server",
-      "yepcode",
-      "mcp",
-      "mcp-tool",
-      "mcp-tools"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-17T09:19:23Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:47.645Z",
     "featured": false,
     "archived": false
   },
@@ -135021,30 +134829,6 @@
     "commits30d": 1,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:39.516Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "gpu-bridge/mcp-server",
-    "name": "mcp-server",
-    "description": "GPU-Bridge MCP Server — 30 AI services as Model Context Protocol tools. LLMs, image gen, video, audio, embeddings, reranking, PDF parsing & more. x402 native for autonomous agents.",
-    "descriptionZh": "GPU-Bridge MCP服务器：将30种AI服务封装为模型上下文协议工具，支持大语言模型、图像生成、视频、音频、嵌入、重排序、PDF解析等，原生支持x402自主代理。",
-    "url": "https://github.com/gpu-bridge/mcp-server",
-    "homepage": "https://gpubridge.io",
-    "stars": 2,
-    "forks": 2,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-17T11:16:23Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-29T14:28:21.022Z",
     "featured": false,
     "archived": false
   },
@@ -144390,6 +144174,41 @@
     "archived": false
   },
   {
+    "id": "rsdouglas/janee",
+    "name": "janee",
+    "description": "Secrets management for AI agents via MCP • @janeesecure",
+    "descriptionZh": "通过MCP为AI代理提供机密管理 • @janeesecure",
+    "url": "https://github.com/rsdouglas/janee",
+    "homepage": "https://janee.io",
+    "stars": 29,
+    "forks": 7,
+    "topics": [
+      "ai-agents",
+      "api-keys",
+      "claude",
+      "cursor",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "secrets-management",
+      "security"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g @true-and-useful/janee",
+    "lastCommit": "2026-03-17T13:00:52Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:23.330Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "zillow/auto-mobile",
     "name": "auto-mobile",
     "description": "Mobile automation suite of tools including an MCP and libraries for test authoring & execution",
@@ -148033,6 +147852,37 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:15.493Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "austenstone/myinstants-mcp",
+    "name": "myinstants-mcp",
+    "description": "MCP server that lets your ai agent press sound buttons. it's not that deep.",
+    "descriptionZh": "为AI智能体提供按下声音按钮功能的MCP服务器，就是这么简单。",
+    "url": "https://github.com/austenstone/myinstants-mcp",
+    "homepage": "https://myinstants.com",
+    "stars": 13,
+    "forks": 6,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "mcp",
+      "mcp-server",
+      "soundboard",
+      "memes"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx myinstants-mcp",
+    "lastCommit": "2026-03-17T03:55:03Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:08.536Z",
     "featured": false,
     "archived": false
   },
@@ -153176,6 +153026,30 @@
     "archived": false
   },
   {
+    "id": "wooxogh/adr-mcp-setup",
+    "name": "adr-mcp-setup",
+    "description": "adr-mcp-setup",
+    "descriptionZh": "ADR MCP设置：一个用于自动生成架构决策记录的MCP服务器，支持多种存储后端（文件、GitHub、GitLab），可集成至开发工作流。",
+    "url": "https://github.com/wooxogh/adr-mcp-setup",
+    "homepage": null,
+    "stars": 3,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-17T10:50:40Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:46.652Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "fajarmf/slite-mcp",
     "name": "slite-mcp",
     "description": "Model Context Protocol server for Slite integration - search and retrieve notes from your Slite workspace",
@@ -154175,6 +154049,40 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "bababoi-bibilabu/agent-mq",
+    "name": "agent-mq",
+    "description": "Message queue for AI coding assistants. Let your AI agents talk to each other.",
+    "descriptionZh": "AI编码助手的消息队列，让AI智能体相互通信。",
+    "url": "https://github.com/bababoi-bibilabu/agent-mq",
+    "homepage": "https://agent-mq.com",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "agent-communication",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "mcp",
+      "multi-agent",
+      "cursor",
+      "message-queue"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "claude plugin install agent-mq",
+    "lastCommit": "2026-03-17T03:11:49Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:59.427Z",
     "featured": false,
     "archived": false
   },
@@ -155810,6 +155718,39 @@
     "archived": false
   },
   {
+    "id": "darktw/chatpipe-mcp",
+    "name": "chatpipe-mcp",
+    "description": "Publish live web pages from your AI coding agent — instant shareable URLs from your terminal.",
+    "descriptionZh": "从AI编程代理发布实时网页——终端生成即时可分享的URL。",
+    "url": "https://github.com/darktw/chatpipe-mcp",
+    "homepage": "https://chatpipe.net",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "ai-tools",
+      "developer-tools",
+      "live-pages",
+      "mcp",
+      "mcp-server",
+      "shareable-links",
+      "chatpipe",
+      "html-publishing"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "claude mcp add chatpipe --transport url https://api.chatpipe.net/mcp --header \"Authorization: Bearer YOUR_API_KEY\"",
+    "lastCommit": "2026-03-17T17:03:59Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:15:55.118Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "cyberweasel777/botindex-mcp-server",
     "name": "botindex-mcp-server",
     "description": "botindex-mcp-server",
@@ -156934,6 +156875,41 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:14.884Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "yepcode/mcp-server-js",
+    "name": "mcp-server-js",
+    "description": "MCP server that exposes YepCode processes as callable tools for AI platforms. Securely connect AI assistants to your YepCode workflows, APIs, and automations.",
+    "descriptionZh": "为AI平台提供YepCode进程作为可调用工具的MCP服务器，安全连接AI助手与YepCode工作流、API和自动化。",
+    "url": "https://github.com/yepcode/mcp-server-js",
+    "homepage": "https://yepcode.io/mcp-server",
+    "stars": 46,
+    "forks": 21,
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "mcp-server",
+      "yepcode",
+      "mcp",
+      "mcp-tool",
+      "mcp-tools"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-17T09:19:23Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:47.645Z",
     "featured": false,
     "archived": false
   },
@@ -161689,6 +161665,30 @@
     "firstSeen": "2026-07-01T02:59:01.593Z",
     "featured": false,
     "archived": true
+  },
+  {
+    "id": "gpu-bridge/mcp-server",
+    "name": "mcp-server",
+    "description": "GPU-Bridge MCP Server — 30 AI services as Model Context Protocol tools. LLMs, image gen, video, audio, embeddings, reranking, PDF parsing & more. x402 native for autonomous agents.",
+    "descriptionZh": "GPU-Bridge MCP服务器：将30种AI服务封装为模型上下文协议工具，支持大语言模型、图像生成、视频、音频、嵌入、重排序、PDF解析等，原生支持x402自主代理。",
+    "url": "https://github.com/gpu-bridge/mcp-server",
+    "homepage": "https://gpubridge.io",
+    "stars": 2,
+    "forks": 2,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-17T11:16:23Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-29T14:28:21.022Z",
+    "featured": false,
+    "archived": false
   },
   {
     "id": "getmystadmin/urdb-mcp",
