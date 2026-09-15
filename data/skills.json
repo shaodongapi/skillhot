@@ -58453,31 +58453,6 @@
     "archived": false
   },
   {
-    "id": "evalsone/mcp-connect",
-    "name": "MCP-connect",
-    "description": "Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests",
-    "descriptionZh": "通过HTTP请求，让云端AI服务访问本地基于Stdio的MCP服务器。",
-    "url": "https://github.com/EvalsOne/MCP-connect",
-    "homepage": null,
-    "stars": 238,
-    "forks": 37,
-    "topics": [],
-    "language": "Python",
-    "category": "devops",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-18T20:50:34Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:34.132Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "cfpramod/open-museum-mcp",
     "name": "open-museum-mcp",
     "description": "One MCP search across open-access museum collections (The Met, Rijksmuseum, Smithsonian, Cleveland, AIC, SMK, Walters, Wellcome, Wikimedia Commons, Europeana, and growing) with strict per-museum rights verification and ready-to-use citations.",
@@ -86086,32 +86061,6 @@
     "archived": false
   },
   {
-    "id": "martingeidobler/android-mcp-server",
-    "name": "android-mcp-server",
-    "description": "MCP server for controlling Android emulators via ADB — screenshots, UI interaction, logcat, and bug documentation for Claude Code",
-    "descriptionZh": "MCP 服务器，通过 ADB 控制 Android 模拟器，支持截图、UI 交互、日志和错误文档，适用于 Claude Code。",
-    "url": "https://github.com/martingeidobler/android-mcp-server",
-    "homepage": null,
-    "stars": 54,
-    "forks": 9,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-18T21:52:29Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:11.854Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "sdglbl/mcp-claude-code",
     "name": "mcp-claude-code",
     "description": "MCP implementation of Claude Code capabilities and more",
@@ -93345,6 +93294,31 @@
     "commits30d": 2,
     "starGrowth30d": 1,
     "firstSeen": "2026-07-01T02:58:59.640Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "evalsone/mcp-connect",
+    "name": "MCP-connect",
+    "description": "Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests",
+    "descriptionZh": "通过HTTP请求，让云端AI服务访问本地基于Stdio的MCP服务器。",
+    "url": "https://github.com/EvalsOne/MCP-connect",
+    "homepage": null,
+    "stars": 238,
+    "forks": 37,
+    "topics": [],
+    "language": "Python",
+    "category": "devops",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-18T20:50:34Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:34.132Z",
     "featured": false,
     "archived": false
   },
@@ -120600,30 +120574,6 @@
     "archived": false
   },
   {
-    "id": "cseguinlz/doubletick-cli",
-    "name": "doubletick-cli",
-    "description": "CLI and MCP server for DoubleTick email read tracking",
-    "descriptionZh": "DoubleTick 邮件的 CLI 和 MCP 服务器，用于追踪邮件阅读状态。",
-    "url": "https://github.com/cseguinlz/doubletick-cli",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g doubletick-cli",
-    "lastCommit": "2026-03-18T17:55:54Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:15:01.259Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "trycourier/courier-mcp",
     "name": "courier-mcp",
     "description": "courier-mcp",
@@ -122029,38 +121979,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:14:20.026Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "markmircea/selenix-mcp-server",
-    "name": "Selenix-MCP-Server",
-    "description": "MCP server that bridges Claude Desktop (or any other local app supporting MCP)  with Selenix for browser automation and testing. Enables creating, running, debugging, and managing browser automation tests through natural language.",
-    "descriptionZh": "MCP 服务器，连接 Claude Desktop 等本地应用与 Selenix，实现浏览器自动化测试。支持通过自然语言创建、运行、调试和管理测试。",
-    "url": "https://github.com/markmircea/Selenix-MCP-Server",
-    "homepage": "https://selenix.io",
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "automation",
-      "browser",
-      "mcp",
-      "mcp-server",
-      "selenium",
-      "selenium-webdriver",
-      "selenix"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g @selenix/mcp-server",
-    "lastCommit": "2026-03-18T13:16:02Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:25.669Z",
     "featured": false,
     "archived": false
   },
@@ -135324,46 +135242,6 @@
     "archived": false
   },
   {
-    "id": "carrierone/verilexdata-mcp",
-    "name": "verilexdata-mcp",
-    "description": "MCP server for Verilex Data — query NPI, SEC, PACER, Weather, and OTC datasets from AI agents",
-    "descriptionZh": "为 Verilex Data 提供 MCP 服务器，支持 AI 代理查询 NPI、SEC、PACER、天气及 OTC 数据集。",
-    "url": "https://github.com/carrierone/verilexdata-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "ai-agents",
-      "crypto",
-      "data-api",
-      "defi",
-      "government-data",
-      "healthcare",
-      "mcp",
-      "model-context-protocol",
-      "npi",
-      "polymarket",
-      "prediction-markets",
-      "sanctions",
-      "sec-edgar",
-      "usdc",
-      "x402"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-18T09:25:02Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:15:35.015Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mambalabsdev/mcp-domain-deliverability-checker",
     "name": "mcp-domain-deliverability-checker",
     "description": "MCP server for the Mamba Labs Domain Deliverability Checker actor: SPF, DKIM, DMARC, MX, blacklist, catch-all, domain age. Clay-ready.",
@@ -139569,6 +139447,32 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:14:59.885Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "martingeidobler/android-mcp-server",
+    "name": "android-mcp-server",
+    "description": "MCP server for controlling Android emulators via ADB — screenshots, UI interaction, logcat, and bug documentation for Claude Code",
+    "descriptionZh": "MCP 服务器，通过 ADB 控制 Android 模拟器，支持截图、UI 交互、日志和错误文档，适用于 Claude Code。",
+    "url": "https://github.com/martingeidobler/android-mcp-server",
+    "homepage": null,
+    "stars": 54,
+    "forks": 9,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-18T21:52:29Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:11.854Z",
     "featured": false,
     "archived": false
   },
@@ -155482,6 +155386,30 @@
     "archived": false
   },
   {
+    "id": "cseguinlz/doubletick-cli",
+    "name": "doubletick-cli",
+    "description": "CLI and MCP server for DoubleTick email read tracking",
+    "descriptionZh": "DoubleTick 邮件的 CLI 和 MCP 服务器，用于追踪邮件阅读状态。",
+    "url": "https://github.com/cseguinlz/doubletick-cli",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g doubletick-cli",
+    "lastCommit": "2026-03-18T17:55:54Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:15:01.259Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "py2755/aiogram-mcp",
     "name": "aiogram-mcp",
     "description": "MCP server middleware for aiogram Telegram bots — expose your bot to AI agents via the Model Context Protocol",
@@ -155714,6 +155642,38 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "markmircea/selenix-mcp-server",
+    "name": "Selenix-MCP-Server",
+    "description": "MCP server that bridges Claude Desktop (or any other local app supporting MCP)  with Selenix for browser automation and testing. Enables creating, running, debugging, and managing browser automation tests through natural language.",
+    "descriptionZh": "MCP 服务器，连接 Claude Desktop 等本地应用与 Selenix，实现浏览器自动化测试。支持通过自然语言创建、运行、调试和管理测试。",
+    "url": "https://github.com/markmircea/Selenix-MCP-Server",
+    "homepage": "https://selenix.io",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "automation",
+      "browser",
+      "mcp",
+      "mcp-server",
+      "selenium",
+      "selenium-webdriver",
+      "selenix"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g @selenix/mcp-server",
+    "lastCommit": "2026-03-18T13:16:02Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:25.669Z",
     "featured": false,
     "archived": false
   },
@@ -162588,6 +162548,46 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:52.418Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "carrierone/verilexdata-mcp",
+    "name": "verilexdata-mcp",
+    "description": "MCP server for Verilex Data — query NPI, SEC, PACER, Weather, and OTC datasets from AI agents",
+    "descriptionZh": "为 Verilex Data 提供 MCP 服务器，支持 AI 代理查询 NPI、SEC、PACER、天气及 OTC 数据集。",
+    "url": "https://github.com/carrierone/verilexdata-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "ai-agents",
+      "crypto",
+      "data-api",
+      "defi",
+      "government-data",
+      "healthcare",
+      "mcp",
+      "model-context-protocol",
+      "npi",
+      "polymarket",
+      "prediction-markets",
+      "sanctions",
+      "sec-edgar",
+      "usdc",
+      "x402"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-18T09:25:02Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:15:35.015Z",
     "featured": false,
     "archived": false
   },
