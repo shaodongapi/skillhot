@@ -44319,44 +44319,6 @@
     "archived": false
   },
   {
-    "id": "joinly-ai/joinly",
-    "name": "joinly",
-    "description": "Make your meetings accessible to AI Agents",
-    "descriptionZh": "让AI代理也能参与你的会议",
-    "url": "https://github.com/joinly-ai/joinly",
-    "homepage": "https://joinly.ai",
-    "stars": 534,
-    "forks": 84,
-    "topics": [
-      "mcp",
-      "python",
-      "meeting-assistant",
-      "transcription",
-      "agentic-ai",
-      "ai-agent",
-      "ai-tool",
-      "conversational-ai",
-      "llm",
-      "meeting-notes",
-      "productivity",
-      "voice-ai",
-      "meeting-agent"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-19T15:13:10Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:05.510Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "ckreiling/mcp-server-docker",
     "name": "mcp-server-docker",
     "description": "MCP server for Docker",
@@ -54552,6 +54514,44 @@
     "commits30d": 2,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-27T02:24:08.065Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "joinly-ai/joinly",
+    "name": "joinly",
+    "description": "Make your meetings accessible to AI Agents",
+    "descriptionZh": "让AI代理也能参与你的会议",
+    "url": "https://github.com/joinly-ai/joinly",
+    "homepage": "https://joinly.ai",
+    "stars": 534,
+    "forks": 84,
+    "topics": [
+      "mcp",
+      "python",
+      "meeting-assistant",
+      "transcription",
+      "agentic-ai",
+      "ai-agent",
+      "ai-tool",
+      "conversational-ai",
+      "llm",
+      "meeting-notes",
+      "productivity",
+      "voice-ai",
+      "meeting-agent"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-19T15:13:10Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:05.510Z",
     "featured": false,
     "archived": false
   },
@@ -74953,30 +74953,6 @@
     "commits30d": 21,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:08.754Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "aliyun/alibabacloud-tablestore-mcp-server",
-    "name": "alibabacloud-tablestore-mcp-server",
-    "description": "alibabacloud-tablestore-mcp-server",
-    "descriptionZh": "阿里云表格存储MCP服务器，提供结构化数据存储与实时查询能力，支持高性能表格模型及SQL访问。",
-    "url": "https://github.com/aliyun/alibabacloud-tablestore-mcp-server",
-    "homepage": null,
-    "stars": 157,
-    "forks": 42,
-    "topics": [],
-    "language": "Java",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-19T11:23:44Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:17.261Z",
     "featured": false,
     "archived": false
   },
@@ -97158,44 +97134,6 @@
     "archived": false
   },
   {
-    "id": "connectry-io/connectrylab-architect-cert-mcp",
-    "name": "connectrylab-architect-cert-mcp",
-    "description": "Free certification prep for the Claude Certified Architect exam. 390 questions. Spaced repetition. Zero sycophancy.",
-    "descriptionZh": "Claude认证架构师考试免费备考资料，含390道题，支持间隔重复，无谄媚式回答。",
-    "url": "https://github.com/Connectry-io/connectrylab-architect-cert-mcp",
-    "homepage": "https://connectry.io/labs/architect-cert/",
-    "stars": 30,
-    "forks": 10,
-    "topics": [
-      "anthropic",
-      "certification",
-      "claude",
-      "claude-code",
-      "exam-prep",
-      "mcp",
-      "mcp-server",
-      "spaced-repetition",
-      "study",
-      "architect",
-      "study-tool",
-      "productivity",
-      "productivity-tools"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g connectry-architect-mcp",
-    "lastCommit": "2026-03-19T12:33:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:49.691Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "wppoland/woocommerce-mcp",
     "name": "woocommerce-mcp",
     "description": "Read-only Model Context Protocol (MCP) server for WordPress + WooCommerce — give Claude and other AI agents access to products, orders, sales reports and posts over the REST API. By wppoland.com",
@@ -100863,41 +100801,6 @@
     "commits30d": 5,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-14T02:03:42.556Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "mikusnuz/app-publish-mcp",
-    "name": "app-publish-mcp",
-    "description": "Unified MCP server for App Store Connect & Google Play Console — 91 tools for listings, screenshots, releases, reviews & submissions",
-    "descriptionZh": "面向 App Store Connect 和 Google Play Console 的统一 MCP 服务器，提供 91 个工具，涵盖应用列表、截图、发布、评论和提交。",
-    "url": "https://github.com/mikusnuz/app-publish-mcp",
-    "homepage": null,
-    "stars": 23,
-    "forks": 5,
-    "topics": [
-      "ai-tools",
-      "android",
-      "app-publishing",
-      "app-store-connect",
-      "google-play",
-      "ios",
-      "mcp",
-      "mcp-server",
-      "mobile-app",
-      "model-context-protocol"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-19T19:48:45Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:46.205Z",
     "featured": false,
     "archived": false
   },
@@ -111778,30 +111681,6 @@
     "archived": false
   },
   {
-    "id": "any4ai/anycrawl-mcp-server",
-    "name": "anycrawl-mcp-server",
-    "description": "AnyCrawl MCP Server, with Scrape, Crawl and SERP.",
-    "descriptionZh": "AnyCrawl MCP 服务器，支持抓取、爬取和搜索引擎结果页面（SERP）。",
-    "url": "https://github.com/any4ai/anycrawl-mcp-server",
-    "homepage": null,
-    "stars": 6,
-    "forks": 2,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "devops",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g anycrawl-mcp-server",
-    "lastCommit": "2026-03-19T20:49:36Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:02.032Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "openmf/mcp-mifosx-self-service",
     "name": "mcp-mifosx-self-service",
     "description": "MCP Server for Mifos X - Self Service",
@@ -114828,32 +114707,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:53.222Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "adityaaery20/media-mcp",
-    "name": "media-mcp",
-    "description": "media-mcp",
-    "descriptionZh": "一个为媒体文件提供 MCP 服务的项目，支持视频、音频、图片等格式的元数据读取、字幕提取、截图生成和文件管理。",
-    "url": "https://github.com/Adityaaery20/media-mcp",
-    "homepage": null,
-    "stars": 4,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "category": "media",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "pip install media-mcp-server",
-    "lastCommit": "2026-03-19T03:49:49Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:03.279Z",
     "featured": false,
     "archived": false
   },
@@ -122136,40 +121989,6 @@
     "archived": false
   },
   {
-    "id": "mikusnuz/dynadot-mcp",
-    "name": "dynadot-mcp",
-    "description": "MCP server for Dynadot domain registrar API3 — 60 tools for domains, DNS, contacts, transfers & more",
-    "descriptionZh": "Dynadot域名注册商API3的MCP服务器，提供60个工具，涵盖域名、DNS、联系人、转移等操作。",
-    "url": "https://github.com/mikusnuz/dynadot-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "ai-tools",
-      "dns",
-      "domain",
-      "domain-registrar",
-      "dynadot",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "whois"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g dynadot-mcp",
-    "lastCommit": "2026-03-19T19:48:50Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:36.950Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "nikhilnt1234/tokenburnrate",
     "name": "TokenBurnRate",
     "description": "TokenBurnRate",
@@ -127439,35 +127258,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:14:22.553Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "yikakia/godoc-mcp-server",
-    "name": "godoc-mcp-server",
-    "description": "A mcp server provide infomation from pkg.go.dev. For all golang programmers",
-    "descriptionZh": "为 Go 程序员提供 pkg.go.dev 信息的 MCP 服务器。",
-    "url": "https://github.com/yikakia/godoc-mcp-server",
-    "homepage": null,
-    "stars": 38,
-    "forks": 5,
-    "topics": [
-      "go",
-      "mcp",
-      "mcp-server",
-      "modelcontextprotocol"
-    ],
-    "language": "Go",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-19T12:57:25Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:34.682Z",
     "featured": false,
     "archived": false
   },
@@ -138110,6 +137900,30 @@
     "archived": false
   },
   {
+    "id": "aliyun/alibabacloud-tablestore-mcp-server",
+    "name": "alibabacloud-tablestore-mcp-server",
+    "description": "alibabacloud-tablestore-mcp-server",
+    "descriptionZh": "阿里云表格存储MCP服务器，提供结构化数据存储与实时查询能力，支持高性能表格模型及SQL访问。",
+    "url": "https://github.com/aliyun/alibabacloud-tablestore-mcp-server",
+    "homepage": null,
+    "stars": 157,
+    "forks": 42,
+    "topics": [],
+    "language": "Java",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-19T11:23:44Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:17.261Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "hannesrudolph/sqlite-explorer-fastmcp-mcp-server",
     "name": "sqlite-explorer-fastmcp-mcp-server",
     "description": "An MCP server that provides safe, read-only access to SQLite databases through Model Context Protocol (MCP). This server is built with the FastMCP framework, which enables LLMs to explore and query SQLite databases with built-in safety features and query validation.",
@@ -143693,6 +143507,44 @@
     "archived": false
   },
   {
+    "id": "connectry-io/connectrylab-architect-cert-mcp",
+    "name": "connectrylab-architect-cert-mcp",
+    "description": "Free certification prep for the Claude Certified Architect exam. 390 questions. Spaced repetition. Zero sycophancy.",
+    "descriptionZh": "Claude认证架构师考试免费备考资料，含390道题，支持间隔重复，无谄媚式回答。",
+    "url": "https://github.com/Connectry-io/connectrylab-architect-cert-mcp",
+    "homepage": "https://connectry.io/labs/architect-cert/",
+    "stars": 30,
+    "forks": 10,
+    "topics": [
+      "anthropic",
+      "certification",
+      "claude",
+      "claude-code",
+      "exam-prep",
+      "mcp",
+      "mcp-server",
+      "spaced-repetition",
+      "study",
+      "architect",
+      "study-tool",
+      "productivity",
+      "productivity-tools"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g connectry-architect-mcp",
+    "lastCommit": "2026-03-19T12:33:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:49.691Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "laulauland/bluesky-context-server",
     "name": "bluesky-context-server",
     "description": "Bluesky MCP server",
@@ -145533,6 +145385,41 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:26.190Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "mikusnuz/app-publish-mcp",
+    "name": "app-publish-mcp",
+    "description": "Unified MCP server for App Store Connect & Google Play Console — 91 tools for listings, screenshots, releases, reviews & submissions",
+    "descriptionZh": "面向 App Store Connect 和 Google Play Console 的统一 MCP 服务器，提供 91 个工具，涵盖应用列表、截图、发布、评论和提交。",
+    "url": "https://github.com/mikusnuz/app-publish-mcp",
+    "homepage": null,
+    "stars": 23,
+    "forks": 5,
+    "topics": [
+      "ai-tools",
+      "android",
+      "app-publishing",
+      "app-store-connect",
+      "google-play",
+      "ios",
+      "mcp",
+      "mcp-server",
+      "mobile-app",
+      "model-context-protocol"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-19T19:48:45Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:46.205Z",
     "featured": false,
     "archived": false
   },
@@ -151307,6 +151194,30 @@
     "archived": false
   },
   {
+    "id": "any4ai/anycrawl-mcp-server",
+    "name": "anycrawl-mcp-server",
+    "description": "AnyCrawl MCP Server, with Scrape, Crawl and SERP.",
+    "descriptionZh": "AnyCrawl MCP 服务器，支持抓取、爬取和搜索引擎结果页面（SERP）。",
+    "url": "https://github.com/any4ai/anycrawl-mcp-server",
+    "homepage": null,
+    "stars": 6,
+    "forks": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "devops",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g anycrawl-mcp-server",
+    "lastCommit": "2026-03-19T20:49:36Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:02.032Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "mikan-atomoki/text-to-model",
     "name": "text-to-model",
     "description": "text-to-model",
@@ -152252,6 +152163,32 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:30.300Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "adityaaery20/media-mcp",
+    "name": "media-mcp",
+    "description": "media-mcp",
+    "descriptionZh": "一个为媒体文件提供 MCP 服务的项目，支持视频、音频、图片等格式的元数据读取、字幕提取、截图生成和文件管理。",
+    "url": "https://github.com/Adityaaery20/media-mcp",
+    "homepage": null,
+    "stars": 4,
+    "forks": 0,
+    "topics": [],
+    "language": "Python",
+    "category": "media",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "pip install media-mcp-server",
+    "lastCommit": "2026-03-19T03:49:49Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:03.279Z",
     "featured": false,
     "archived": false
   },
@@ -155646,6 +155583,40 @@
     "archived": false
   },
   {
+    "id": "mikusnuz/dynadot-mcp",
+    "name": "dynadot-mcp",
+    "description": "MCP server for Dynadot domain registrar API3 — 60 tools for domains, DNS, contacts, transfers & more",
+    "descriptionZh": "Dynadot域名注册商API3的MCP服务器，提供60个工具，涵盖域名、DNS、联系人、转移等操作。",
+    "url": "https://github.com/mikusnuz/dynadot-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "ai-tools",
+      "dns",
+      "domain",
+      "domain-registrar",
+      "dynadot",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "whois"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g dynadot-mcp",
+    "lastCommit": "2026-03-19T19:48:50Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:36.950Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "markmircea/selenix-mcp-server",
     "name": "Selenix-MCP-Server",
     "description": "MCP server that bridges Claude Desktop (or any other local app supporting MCP)  with Selenix for browser automation and testing. Enables creating, running, debugging, and managing browser automation tests through natural language.",
@@ -156972,6 +156943,35 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:08.906Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "yikakia/godoc-mcp-server",
+    "name": "godoc-mcp-server",
+    "description": "A mcp server provide infomation from pkg.go.dev. For all golang programmers",
+    "descriptionZh": "为 Go 程序员提供 pkg.go.dev 信息的 MCP 服务器。",
+    "url": "https://github.com/yikakia/godoc-mcp-server",
+    "homepage": null,
+    "stars": 38,
+    "forks": 5,
+    "topics": [
+      "go",
+      "mcp",
+      "mcp-server",
+      "modelcontextprotocol"
+    ],
+    "language": "Go",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-19T12:57:25Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:34.682Z",
     "featured": false,
     "archived": false
   },
