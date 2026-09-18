@@ -68713,30 +68713,6 @@
     "archived": false
   },
   {
-    "id": "ckanthony/openapi-mcp",
-    "name": "openapi-mcp",
-    "description": "Dockerized MCP Server to allow your AI agent to access any API with existing api docs",
-    "descriptionZh": "基于 Docker 的 MCP 服务器，让 AI 代理通过现有 API 文档访问任意 API。",
-    "url": "https://github.com/ckanthony/openapi-mcp",
-    "homepage": null,
-    "stars": 190,
-    "forks": 40,
-    "topics": [],
-    "language": "Go",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-21T07:49:31Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:44.822Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "victoriametrics/mcp-victoriametrics",
     "name": "mcp-victoriametrics",
     "description": "The implementation of Model Context Protocol (MCP) server for VictoriaMetrics",
@@ -123617,30 +123593,6 @@
     "archived": false
   },
   {
-    "id": "unixlamadev-spec/aiprox-mcp",
-    "name": "aiprox-mcp",
-    "description": "MCP server for AIProx — discover, hire, and pay autonomous AI agents via Bitcoin Lightning, Solana USDC, or Base x402",
-    "descriptionZh": "AIProx 的 MCP 服务器：通过比特币闪电网络、Solana USDC 或 Base x402 发现、雇佣并支付自主 AI 代理。",
-    "url": "https://github.com/unixlamadev-spec/aiprox-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx aiprox-mcp",
-    "lastCommit": "2026-03-21T23:31:47Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:02.175Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "jorkal-crypto/jorkal-nft-mcp",
     "name": "jorkal-nft-mcp",
     "description": "MCP server for Solana NFT market data — floor prices, listings, stats, wallet holdings. Powered by x402 micropayments.",
@@ -124984,41 +124936,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-12T02:16:41.054Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "joepangallo/mcp-server-agentpay",
-    "name": "mcp-server-agentpay",
-    "description": "MCP server for AgentPay — payment gateway for autonomous AI agents. Discover, provision, and pay for MCP tool APIs.",
-    "descriptionZh": "MCP 服务器用于 AgentPay，为自主 AI 智能体提供支付网关，支持发现、配置和支付 MCP 工具 API。",
-    "url": "https://github.com/joepangallo/mcp-server-agentpay",
-    "homepage": null,
-    "stars": 1,
-    "forks": 1,
-    "topics": [
-      "ai-agent",
-      "claude",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "payment-gateway",
-      "usdc",
-      "x402",
-      "tool-marketplace"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "claude mcp add agentpay -- npx mcp-server-agentpay",
-    "lastCommit": "2026-03-21T04:11:53Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:21.691Z",
     "featured": false,
     "archived": false
   },
@@ -135465,6 +135382,30 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-14T02:03:52.442Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "ckanthony/openapi-mcp",
+    "name": "openapi-mcp",
+    "description": "Dockerized MCP Server to allow your AI agent to access any API with existing api docs",
+    "descriptionZh": "基于 Docker 的 MCP 服务器，让 AI 代理通过现有 API 文档访问任意 API。",
+    "url": "https://github.com/ckanthony/openapi-mcp",
+    "homepage": null,
+    "stars": 190,
+    "forks": 40,
+    "topics": [],
+    "language": "Go",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-21T07:49:31Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:44.822Z",
     "featured": false,
     "archived": false
   },
@@ -155546,6 +155487,65 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "unixlamadev-spec/aiprox-mcp",
+    "name": "aiprox-mcp",
+    "description": "MCP server for AIProx — discover, hire, and pay autonomous AI agents via Bitcoin Lightning, Solana USDC, or Base x402",
+    "descriptionZh": "AIProx 的 MCP 服务器：通过比特币闪电网络、Solana USDC 或 Base x402 发现、雇佣并支付自主 AI 代理。",
+    "url": "https://github.com/unixlamadev-spec/aiprox-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx aiprox-mcp",
+    "lastCommit": "2026-03-21T23:31:47Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:02.175Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "joepangallo/mcp-server-agentpay",
+    "name": "mcp-server-agentpay",
+    "description": "MCP server for AgentPay — payment gateway for autonomous AI agents. Discover, provision, and pay for MCP tool APIs.",
+    "descriptionZh": "MCP 服务器用于 AgentPay，为自主 AI 智能体提供支付网关，支持发现、配置和支付 MCP 工具 API。",
+    "url": "https://github.com/joepangallo/mcp-server-agentpay",
+    "homepage": null,
+    "stars": 1,
+    "forks": 1,
+    "topics": [
+      "ai-agent",
+      "claude",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "payment-gateway",
+      "usdc",
+      "x402",
+      "tool-marketplace"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "claude mcp add agentpay -- npx mcp-server-agentpay",
+    "lastCommit": "2026-03-21T04:11:53Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:21.691Z",
     "featured": false,
     "archived": false
   },
