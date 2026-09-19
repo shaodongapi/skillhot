@@ -73594,30 +73594,6 @@
     "archived": false
   },
   {
-    "id": "huggingagi/mcp-baostock-server",
-    "name": "mcp-baostock-server",
-    "description": "mcp-baostock-server",
-    "descriptionZh": "基于百度开源 baostock 的 MCP 服务器，提供 A 股历史行情、公司信息、交易日期等数据查询服务。",
-    "url": "https://github.com/HuggingAGI/mcp-baostock-server",
-    "homepage": null,
-    "stars": 113,
-    "forks": 31,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "uv run mcp-baostock-server",
-    "lastCommit": "2026-03-22T14:06:22Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:19.344Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "smaniches/uniprot-mcp",
     "name": "uniprot-mcp",
     "description": "Auditable UniProt MCP server with per-response SHA-256 provenance, release pinning, verification, and offline replay.",
@@ -100805,30 +100781,6 @@
     "archived": false
   },
   {
-    "id": "tgeselle/bugsnag-mcp",
-    "name": "bugsnag-mcp",
-    "description": "A Model Context Protocol (MCP) server for interacting with Bugsnag. This server allows LLM tools like Cursor and Claude to investigate and resolve issues in Bugsnag.",
-    "descriptionZh": "一个用于与 Bugsnag 交互的 MCP 服务器，支持 Cursor 和 Claude 等 LLM 工具调查并解决 Bugsnag 中的问题。",
-    "url": "https://github.com/tgeselle/bugsnag-mcp",
-    "homepage": null,
-    "stars": 23,
-    "forks": 10,
-    "topics": [],
-    "language": "API Blueprint",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx bugsnag-mcp-server test-api-key your-bugsnag-api-key",
-    "lastCommit": "2026-03-22T07:20:15Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:28.632Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "chrassy/klanex-mcp",
     "name": "klanex-mcp",
     "description": "MCP server for klanex — reliable async execution for agent tool calls",
@@ -118470,30 +118422,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:41.416Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "98lukehall/renoun-mcp",
-    "name": "renoun-mcp",
-    "description": "Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence patterns across 17 channels without analyzing content. MCP server + REST API.",
-    "descriptionZh": "面向AI对话的结构可观测性工具，无需分析内容即可检测17个频道中的循环、卡顿、突破与收敛模式，支持MCP服务器与REST API。",
-    "url": "https://github.com/98lukehall/renoun-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 1,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "curl -X POST https://web-production-817e2.up.railway.app/v1/keys/provision \\",
-    "lastCommit": "2026-03-22T17:12:34Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:46.512Z",
     "featured": false,
     "archived": false
   },
@@ -137623,6 +137551,30 @@
     "archived": false
   },
   {
+    "id": "huggingagi/mcp-baostock-server",
+    "name": "mcp-baostock-server",
+    "description": "mcp-baostock-server",
+    "descriptionZh": "基于百度开源 baostock 的 MCP 服务器，提供 A 股历史行情、公司信息、交易日期等数据查询服务。",
+    "url": "https://github.com/HuggingAGI/mcp-baostock-server",
+    "homepage": null,
+    "stars": 113,
+    "forks": 31,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "uv run mcp-baostock-server",
+    "lastCommit": "2026-03-22T14:06:22Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:19.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "stass/lldb-mcp",
     "name": "lldb-mcp",
     "description": "LLDB MCP server",
@@ -145188,6 +145140,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:26.190Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "tgeselle/bugsnag-mcp",
+    "name": "bugsnag-mcp",
+    "description": "A Model Context Protocol (MCP) server for interacting with Bugsnag. This server allows LLM tools like Cursor and Claude to investigate and resolve issues in Bugsnag.",
+    "descriptionZh": "一个用于与 Bugsnag 交互的 MCP 服务器，支持 Cursor 和 Claude 等 LLM 工具调查并解决 Bugsnag 中的问题。",
+    "url": "https://github.com/tgeselle/bugsnag-mcp",
+    "homepage": null,
+    "stars": 23,
+    "forks": 10,
+    "topics": [],
+    "language": "API Blueprint",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx bugsnag-mcp-server test-api-key your-bugsnag-api-key",
+    "lastCommit": "2026-03-22T07:20:15Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:28.632Z",
     "featured": false,
     "archived": false
   },
@@ -153798,6 +153774,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "98lukehall/renoun-mcp",
+    "name": "renoun-mcp",
+    "description": "Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence patterns across 17 channels without analyzing content. MCP server + REST API.",
+    "descriptionZh": "面向AI对话的结构可观测性工具，无需分析内容即可检测17个频道中的循环、卡顿、突破与收敛模式，支持MCP服务器与REST API。",
+    "url": "https://github.com/98lukehall/renoun-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 1,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "curl -X POST https://web-production-817e2.up.railway.app/v1/keys/provision \\",
+    "lastCommit": "2026-03-22T17:12:34Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:46.512Z",
     "featured": false,
     "archived": false
   },
