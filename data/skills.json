@@ -70692,35 +70692,6 @@
     "archived": false
   },
   {
-    "id": "lucashild/mcp-server-bigquery",
-    "name": "mcp-server-bigquery",
-    "description": "A Model Context Protocol server that provides access to BigQuery",
-    "descriptionZh": "基于 MCP 协议的服务端，提供对 BigQuery 的数据访问能力。",
-    "url": "https://github.com/LucasHild/mcp-server-bigquery",
-    "homepage": null,
-    "stars": 128,
-    "forks": 39,
-    "topics": [
-      "mcp",
-      "mcp-server",
-      "bigquery"
-    ],
-    "language": "Python",
-    "category": "data",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx -y @smithery/cli install mcp-server-bigquery --client claude",
-    "lastCommit": "2026-03-26T13:57:09Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:26.168Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "joshuarileydev/app-store-connect-mcp-server",
     "name": "app-store-connect-mcp-server",
     "description": "app-store-connect-mcp-server",
@@ -95504,52 +95475,6 @@
     "archived": false
   },
   {
-    "id": "mcpware/pagecast",
-    "name": "pagecast",
-    "description": "Record any browser page as GIF or video via MCP — powered by Playwright + ffmpeg",
-    "descriptionZh": "通过 MCP 将任意浏览器页面录制成 GIF 或视频，基于 Playwright 和 ffmpeg 实现。",
-    "url": "https://github.com/mcpware/pagecast",
-    "homepage": null,
-    "stars": 34,
-    "forks": 6,
-    "topics": [
-      "automation",
-      "claude",
-      "claude-code",
-      "demo",
-      "developer-tools",
-      "ffmpeg",
-      "gif",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "playwright",
-      "recording",
-      "screen-recorder",
-      "screencast",
-      "video",
-      "ai-tools",
-      "browser-automation",
-      "open-source",
-      "screen-capture",
-      "typescript"
-    ],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx @mcpware/pagecast",
-    "lastCommit": "2026-03-27T01:29:26Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:19.071Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "stackloklabs/osv-mcp",
     "name": "osv-mcp",
     "description": "An MCP server for OSV",
@@ -114226,30 +114151,6 @@
     "archived": false
   },
   {
-    "id": "castaldo-solutions/mcp-vtenext",
-    "name": "mcp-vtenext",
-    "description": "MCP server for VTENext CRM — exposes the WebService API as tools for Claude and other MCP clients",
-    "descriptionZh": "MCP 服务器适配 VTENext CRM，将其 WebService API 封装为工具，供 Claude 及其他 MCP 客户端调用。",
-    "url": "https://github.com/Castaldo-Solutions/mcp-vtenext",
-    "homepage": "https://www.npmjs.com/package/mcp-vtenext",
-    "stars": 4,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-26T10:35:35Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:36.425Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "nishant-chaudhary5338/mcp-code-indexer",
     "name": "mcp-code-indexer",
     "description": "Index any TypeScript/React repo (incl. monorepos) into a queryable code graph — npx CLI, HTTP/WS + MCP server, 3D viewer. who-renders, who-calls, blast-radius, cycles, dead-code. npm: code-graph-indexer",
@@ -120955,44 +120856,6 @@
     "archived": false
   },
   {
-    "id": "saurav61091/mcp-openapi",
-    "name": "mcp-openapi",
-    "description": "Turn any OpenAPI 3.x spec into MCP tools for Claude — zero config, instant API access",
-    "descriptionZh": "将任意 OpenAPI 3.x 规范转换为 Claude 的 MCP 工具，零配置，即时 API 访问。",
-    "url": "https://github.com/saurav61091/mcp-openapi",
-    "homepage": "https://www.npmjs.com/package/mcp-openapi-runner",
-    "stars": 1,
-    "forks": 1,
-    "topics": [
-      "anthropic",
-      "claude",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "openapi",
-      "rest-api",
-      "swagger",
-      "ai-tools",
-      "developer-tools",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx mcp-openapi-runner --spec <url-or-path> [options]",
-    "lastCommit": "2026-03-26T12:22:54Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:16:24.145Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "tactual-dev/tactual",
     "name": "tactual",
     "description": "Screen-reader navigation cost analyzer — models the real effort to discover, reach, and operate interactive web content",
@@ -124637,38 +124500,6 @@
     "commits30d": 4,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:49.582Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "video-db/agent-toolkit",
-    "name": "agent-toolkit",
-    "description": "An open-source agent toolkit that auto-syncs SDK versions, docs, and examples—built for seamless integration with LLMs, and AI agents ( MCP compatible).",
-    "descriptionZh": "开源智能体工具包，自动同步SDK版本、文档与示例，专为无缝集成LLM和AI智能体设计（兼容MCP协议）。",
-    "url": "https://github.com/video-db/agent-toolkit",
-    "homepage": "https://docs.videodb.io",
-    "stars": 47,
-    "forks": 10,
-    "topics": [
-      "agent",
-      "llm",
-      "llms-txt",
-      "mcp",
-      "mcpserver",
-      "videodb"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-26T11:05:28Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:00.959Z",
     "featured": false,
     "archived": false
   },
@@ -135280,6 +135111,35 @@
     "archived": false
   },
   {
+    "id": "lucashild/mcp-server-bigquery",
+    "name": "mcp-server-bigquery",
+    "description": "A Model Context Protocol server that provides access to BigQuery",
+    "descriptionZh": "基于 MCP 协议的服务端，提供对 BigQuery 的数据访问能力。",
+    "url": "https://github.com/LucasHild/mcp-server-bigquery",
+    "homepage": null,
+    "stars": 128,
+    "forks": 39,
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "bigquery"
+    ],
+    "language": "Python",
+    "category": "data",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx -y @smithery/cli install mcp-server-bigquery --client claude",
+    "lastCommit": "2026-03-26T13:57:09Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:26.168Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "its-dart/dart-mcp-server",
     "name": "dart-mcp-server",
     "description": "Dart AI Model Context Protocol (MCP) server",
@@ -141013,6 +140873,52 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:58.021Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "mcpware/pagecast",
+    "name": "pagecast",
+    "description": "Record any browser page as GIF or video via MCP — powered by Playwright + ffmpeg",
+    "descriptionZh": "通过 MCP 将任意浏览器页面录制成 GIF 或视频，基于 Playwright 和 ffmpeg 实现。",
+    "url": "https://github.com/mcpware/pagecast",
+    "homepage": null,
+    "stars": 34,
+    "forks": 6,
+    "topics": [
+      "automation",
+      "claude",
+      "claude-code",
+      "demo",
+      "developer-tools",
+      "ffmpeg",
+      "gif",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "playwright",
+      "recording",
+      "screen-recorder",
+      "screencast",
+      "video",
+      "ai-tools",
+      "browser-automation",
+      "open-source",
+      "screen-capture",
+      "typescript"
+    ],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx @mcpware/pagecast",
+    "lastCommit": "2026-03-27T01:29:26Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:19.071Z",
     "featured": false,
     "archived": false
   },
@@ -150561,6 +150467,30 @@
     "archived": false
   },
   {
+    "id": "castaldo-solutions/mcp-vtenext",
+    "name": "mcp-vtenext",
+    "description": "MCP server for VTENext CRM — exposes the WebService API as tools for Claude and other MCP clients",
+    "descriptionZh": "MCP 服务器适配 VTENext CRM，将其 WebService API 封装为工具，供 Claude 及其他 MCP 客户端调用。",
+    "url": "https://github.com/Castaldo-Solutions/mcp-vtenext",
+    "homepage": "https://www.npmjs.com/package/mcp-vtenext",
+    "stars": 4,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-26T10:35:35Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:36.425Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "trade-it-inc/trade-it-mcp",
     "name": "trade-it-mcp",
     "description": "Guide to connect to Trade It's MCP server and trade stocks, crypto, and options",
@@ -155321,6 +155251,44 @@
     "archived": false
   },
   {
+    "id": "saurav61091/mcp-openapi",
+    "name": "mcp-openapi",
+    "description": "Turn any OpenAPI 3.x spec into MCP tools for Claude — zero config, instant API access",
+    "descriptionZh": "将任意 OpenAPI 3.x 规范转换为 Claude 的 MCP 工具，零配置，即时 API 访问。",
+    "url": "https://github.com/saurav61091/mcp-openapi",
+    "homepage": "https://www.npmjs.com/package/mcp-openapi-runner",
+    "stars": 1,
+    "forks": 1,
+    "topics": [
+      "anthropic",
+      "claude",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "openapi",
+      "rest-api",
+      "swagger",
+      "ai-tools",
+      "developer-tools",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx mcp-openapi-runner --spec <url-or-path> [options]",
+    "lastCommit": "2026-03-26T12:22:54Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:16:24.145Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "spix-hq/spix-mcp",
     "name": "spix-mcp",
     "description": "Spix MCP Server — give AI agents phone calls, SMS, and email as tool calls",
@@ -156731,6 +156699,38 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:30.192Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "video-db/agent-toolkit",
+    "name": "agent-toolkit",
+    "description": "An open-source agent toolkit that auto-syncs SDK versions, docs, and examples—built for seamless integration with LLMs, and AI agents ( MCP compatible).",
+    "descriptionZh": "开源智能体工具包，自动同步SDK版本、文档与示例，专为无缝集成LLM和AI智能体设计（兼容MCP协议）。",
+    "url": "https://github.com/video-db/agent-toolkit",
+    "homepage": "https://docs.videodb.io",
+    "stars": 47,
+    "forks": 10,
+    "topics": [
+      "agent",
+      "llm",
+      "llms-txt",
+      "mcp",
+      "mcpserver",
+      "videodb"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-26T11:05:28Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:00.959Z",
     "featured": false,
     "archived": false
   },
