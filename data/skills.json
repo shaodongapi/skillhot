@@ -64261,42 +64261,6 @@
     "archived": false
   },
   {
-    "id": "biegehydra/bifrostmcp",
-    "name": "BifrostMCP",
-    "description": "VSCode Extension with an MCP server that exposes semantic tools like Find Usages and Rename to LLMs",
-    "descriptionZh": "VSCode 扩展，集成 MCP 服务器，向大语言模型暴露查找引用和重命名等语义工具。",
-    "url": "https://github.com/biegehydra/BifrostMCP",
-    "homepage": null,
-    "stars": 223,
-    "forks": 35,
-    "topics": [
-      "cursor",
-      "cursor-ai",
-      "developer-tools",
-      "mcp",
-      "mcp-server",
-      "vscode",
-      "vscode-extension",
-      "cline",
-      "windsurf"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-27T04:49:41Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:31.890Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "dominik1001/caldav-mcp",
     "name": "caldav-mcp",
     "description": "🗓️ A CalDAV Model Context Protocol (MCP) server to expose calendar operations as tools for AI assistants.",
@@ -114460,39 +114424,6 @@
     "archived": false
   },
   {
-    "id": "aranjan/kite-mcp",
-    "name": "kite-mcp",
-    "description": "MCP server for Zerodha Kite -- trade Indian stocks via any MCP-compatible AI assistant",
-    "descriptionZh": "为 Zerodha Kite 提供 MCP 服务器，支持通过兼容 MCP 的 AI 助手交易印度股票。",
-    "url": "https://github.com/aranjan/kite-mcp",
-    "homepage": null,
-    "stars": 4,
-    "forks": 1,
-    "topics": [
-      "kite",
-      "mcp",
-      "python",
-      "stocks",
-      "trading",
-      "zerodha"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "pip install kite-mcp",
-    "lastCommit": "2026-03-27T22:30:32Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:03.344Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "dodopayments/dodo-agent-plugin",
     "name": "dodo-agent-plugin",
     "description": "Official Dodo Payments Plugin for Claude Code",
@@ -126862,6 +126793,42 @@
     "commits30d": 5,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:05.091Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "biegehydra/bifrostmcp",
+    "name": "BifrostMCP",
+    "description": "VSCode Extension with an MCP server that exposes semantic tools like Find Usages and Rename to LLMs",
+    "descriptionZh": "VSCode 扩展，集成 MCP 服务器，向大语言模型暴露查找引用和重命名等语义工具。",
+    "url": "https://github.com/biegehydra/BifrostMCP",
+    "homepage": null,
+    "stars": 223,
+    "forks": 35,
+    "topics": [
+      "cursor",
+      "cursor-ai",
+      "developer-tools",
+      "mcp",
+      "mcp-server",
+      "vscode",
+      "vscode-extension",
+      "cline",
+      "windsurf"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-27T04:49:41Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:31.890Z",
     "featured": false,
     "archived": false
   },
@@ -150463,6 +150430,39 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:30.300Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "aranjan/kite-mcp",
+    "name": "kite-mcp",
+    "description": "MCP server for Zerodha Kite -- trade Indian stocks via any MCP-compatible AI assistant",
+    "descriptionZh": "为 Zerodha Kite 提供 MCP 服务器，支持通过兼容 MCP 的 AI 助手交易印度股票。",
+    "url": "https://github.com/aranjan/kite-mcp",
+    "homepage": null,
+    "stars": 4,
+    "forks": 1,
+    "topics": [
+      "kite",
+      "mcp",
+      "python",
+      "stocks",
+      "trading",
+      "zerodha"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "pip install kite-mcp",
+    "lastCommit": "2026-03-27T22:30:32Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:03.344Z",
     "featured": false,
     "archived": false
   },
