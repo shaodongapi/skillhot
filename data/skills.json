@@ -32565,30 +32565,6 @@
     "archived": false
   },
   {
-    "id": "rinadelph/agent-mcp",
-    "name": "Agent-MCP",
-    "description": "Agent-MCP is a framework for creating multi-agent systems that enables coordinated, efficient AI collaboration through the Model Context Protocol (MCP). The system is designed for developers building AI applications that benefit from multiple specialized agents working in parallel on different aspects of a project.",
-    "descriptionZh": "Agent-MCP 是一个多智能体系统框架，通过模型上下文协议实现协调高效的AI协作，适用于开发者构建并行处理项目不同方面的专业AI应用。",
-    "url": "https://github.com/rinadelph/Agent-MCP",
-    "homepage": null,
-    "stars": 1271,
-    "forks": 168,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-28T13:25:52Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:53.878Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "wasmagent/wasmagent-js",
     "name": "wasmagent-js",
     "description": "Embedded agent runtime compliance layer — WASM sandbox, MCP firewall, capability manifests, verifiable rollouts, and trace-to-training export",
@@ -33784,6 +33760,30 @@
     "commits30d": 216,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-25T02:15:04.213Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "rinadelph/agent-mcp",
+    "name": "Agent-MCP",
+    "description": "Agent-MCP is a framework for creating multi-agent systems that enables coordinated, efficient AI collaboration through the Model Context Protocol (MCP). The system is designed for developers building AI applications that benefit from multiple specialized agents working in parallel on different aspects of a project.",
+    "descriptionZh": "Agent-MCP 是一个多智能体系统框架，通过模型上下文协议实现协调高效的AI协作，适用于开发者构建并行处理项目不同方面的专业AI应用。",
+    "url": "https://github.com/rinadelph/Agent-MCP",
+    "homepage": null,
+    "stars": 1271,
+    "forks": 168,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-28T13:25:52Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:53.878Z",
     "featured": false,
     "archived": false
   },
@@ -42329,39 +42329,6 @@
     "archived": false
   },
   {
-    "id": "ariadng/metatrader-mcp-server",
-    "name": "metatrader-mcp-server",
-    "description": "Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform",
-    "descriptionZh": "Model Context Protocol (MCP) 使 AI 大语言模型能通过 MetaTrader 平台进行交易。",
-    "url": "https://github.com/ariadng/metatrader-mcp-server",
-    "homepage": null,
-    "stars": 655,
-    "forks": 220,
-    "topics": [
-      "ai",
-      "finance",
-      "investment",
-      "llm",
-      "mcp",
-      "metatrader",
-      "quantitative-finance",
-      "trading"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install metatrader-mcp-server",
-    "lastCommit": "2026-03-28T18:39:29Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:03.230Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "1mcp-app/agent",
     "name": "agent",
     "description": "A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.",
@@ -45196,6 +45163,39 @@
     "commits30d": 78,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-04T02:22:59.206Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "ariadng/metatrader-mcp-server",
+    "name": "metatrader-mcp-server",
+    "description": "Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform",
+    "descriptionZh": "Model Context Protocol (MCP) 使 AI 大语言模型能通过 MetaTrader 平台进行交易。",
+    "url": "https://github.com/ariadng/metatrader-mcp-server",
+    "homepage": null,
+    "stars": 655,
+    "forks": 220,
+    "topics": [
+      "ai",
+      "finance",
+      "investment",
+      "llm",
+      "mcp",
+      "metatrader",
+      "quantitative-finance",
+      "trading"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install metatrader-mcp-server",
+    "lastCommit": "2026-03-28T18:39:29Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:03.230Z",
     "featured": false,
     "archived": false
   },
