@@ -62905,33 +62905,6 @@
     "archived": false
   },
   {
-    "id": "34892002/bilibili-mcp-js",
-    "name": "bilibili-mcp-js",
-    "description": "Bilibili video search MCP (Model Context Protocol) service - 哔哩哔哩视频搜索MCP服务",
-    "descriptionZh": "哔哩哔哩视频搜索MCP服务，支持通过关键词搜索B站视频，返回标题、播放量、时长等信息。",
-    "url": "https://github.com/34892002/bilibili-mcp-js",
-    "homepage": null,
-    "stars": 181,
-    "forks": 30,
-    "topics": [
-      "bilibili",
-      "mcp"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm i",
-    "lastCommit": "2026-03-30T01:18:26Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:21.007Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "onebirdrocks/ebook-mcp",
     "name": "ebook-mcp",
     "description": "A MCP server that supports mainstream eBook formats including EPUB, PDF and more. Simplify your eBook user experience with LLM.",
@@ -79092,30 +79065,6 @@
     "commits30d": 2,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:47.935Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "xzq-xu/jvm-mcp-server",
-    "name": "jvm-mcp-server",
-    "description": "This is an implementation project of a JVM-based MCP (Model Context Protocol) server. The project aims to provide a standardized MCP server implementation for the JVM platform, enabling AI models to better interact with the Java ecosystem.",
-    "descriptionZh": "基于JVM的MCP服务器实现，为Java生态提供标准化模型上下文协议，支持AI模型与Java系统高效交互。",
-    "url": "https://github.com/xzq-xu/jvm-mcp-server",
-    "homepage": null,
-    "stars": 87,
-    "forks": 19,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "uv pip install jvm-mcp-server",
-    "lastCommit": "2026-03-30T02:23:20Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:34.059Z",
     "featured": false,
     "archived": false
   },
@@ -116756,32 +116705,6 @@
     "archived": false
   },
   {
-    "id": "x402-index/x402search-mcp",
-    "name": "x402search-mcp",
-    "description": "Search 13,000+ x402-enabled APIs from your AI agent. Powered by x402search.xyz",
-    "descriptionZh": "搜索 13,000+ 个支持 x402 的 API，供 AI 代理使用。由 x402search.xyz 提供支持。",
-    "url": "https://github.com/x402-index/x402search-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "pip install x402search-mcp",
-    "lastCommit": "2026-03-29T07:38:23Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-29T14:29:24.695Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "ikoskela/wisepanel-mcp",
     "name": "wisepanel-mcp",
     "description": "MCP server for Wisepanel multi-agent deliberation platform",
@@ -120726,37 +120649,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:12.521Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "souzix76/n8n-workflow-tester-safe",
-    "name": "n8n-workflow-tester-safe",
-    "description": "Safe MCP server + CLI for testing, inspecting, and operating n8n workflows with a constrained scope",
-    "descriptionZh": "安全MCP服务器+CLI，用于在限定范围内测试、检查和操作n8n工作流。",
-    "url": "https://github.com/Souzix76/n8n-workflow-tester-safe",
-    "homepage": "https://github.com/hugoscastro-cell/n8n-workflow-tester-safe",
-    "stars": 1,
-    "forks": 1,
-    "topics": [
-      "automation",
-      "mcp",
-      "model-context-protocol",
-      "n8n",
-      "typescript",
-      "workflow-testing"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install && npm run build",
-    "lastCommit": "2026-03-30T01:08:35Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:16:14.912Z",
     "featured": false,
     "archived": false
   },
@@ -125987,6 +125879,33 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:35.939Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "34892002/bilibili-mcp-js",
+    "name": "bilibili-mcp-js",
+    "description": "Bilibili video search MCP (Model Context Protocol) service - 哔哩哔哩视频搜索MCP服务",
+    "descriptionZh": "哔哩哔哩视频搜索MCP服务，支持通过关键词搜索B站视频，返回标题、播放量、时长等信息。",
+    "url": "https://github.com/34892002/bilibili-mcp-js",
+    "homepage": null,
+    "stars": 181,
+    "forks": 30,
+    "topics": [
+      "bilibili",
+      "mcp"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm i",
+    "lastCommit": "2026-03-30T01:18:26Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:21.007Z",
     "featured": false,
     "archived": false
   },
@@ -136283,6 +136202,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:23.349Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "xzq-xu/jvm-mcp-server",
+    "name": "jvm-mcp-server",
+    "description": "This is an implementation project of a JVM-based MCP (Model Context Protocol) server. The project aims to provide a standardized MCP server implementation for the JVM platform, enabling AI models to better interact with the Java ecosystem.",
+    "descriptionZh": "基于JVM的MCP服务器实现，为Java生态提供标准化模型上下文协议，支持AI模型与Java系统高效交互。",
+    "url": "https://github.com/xzq-xu/jvm-mcp-server",
+    "homepage": null,
+    "stars": 87,
+    "forks": 19,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "uv pip install jvm-mcp-server",
+    "lastCommit": "2026-03-30T02:23:20Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:34.059Z",
     "featured": false,
     "archived": false
   },
@@ -152670,6 +152613,32 @@
     "archived": false
   },
   {
+    "id": "x402-index/x402search-mcp",
+    "name": "x402search-mcp",
+    "description": "Search 13,000+ x402-enabled APIs from your AI agent. Powered by x402search.xyz",
+    "descriptionZh": "搜索 13,000+ 个支持 x402 的 API，供 AI 代理使用。由 x402search.xyz 提供支持。",
+    "url": "https://github.com/x402-index/x402search-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "pip install x402search-mcp",
+    "lastCommit": "2026-03-29T07:38:23Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-29T14:29:24.695Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "paracetamol951/p-link-mcp",
     "name": "P-Link-MCP",
     "description": "x402 client implementation (x402-fetch), HTTP 402 server implementation and Model Context Protocol (MCP) for P-Link.io : pay, send and receive money with agents",
@@ -155247,6 +155216,37 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "souzix76/n8n-workflow-tester-safe",
+    "name": "n8n-workflow-tester-safe",
+    "description": "Safe MCP server + CLI for testing, inspecting, and operating n8n workflows with a constrained scope",
+    "descriptionZh": "安全MCP服务器+CLI，用于在限定范围内测试、检查和操作n8n工作流。",
+    "url": "https://github.com/Souzix76/n8n-workflow-tester-safe",
+    "homepage": "https://github.com/hugoscastro-cell/n8n-workflow-tester-safe",
+    "stars": 1,
+    "forks": 1,
+    "topics": [
+      "automation",
+      "mcp",
+      "model-context-protocol",
+      "n8n",
+      "typescript",
+      "workflow-testing"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install && npm run build",
+    "lastCommit": "2026-03-30T01:08:35Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:16:14.912Z",
     "featured": false,
     "archived": false
   },
