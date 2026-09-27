@@ -81290,34 +81290,6 @@
     "archived": false
   },
   {
-    "id": "edwinbernadus/nocodb-mcp-server",
-    "name": "nocodb-mcp-server",
-    "description": "nocodb mcp server",
-    "descriptionZh": "基于NocoDB的MCP服务器，支持通过自然语言与NocoDB数据库交互，实现数据查询、管理和自动化操作。",
-    "url": "https://github.com/edwinbernadus/nocodb-mcp-server",
-    "homepage": null,
-    "stars": 75,
-    "forks": 25,
-    "topics": [
-      "mcp",
-      "mcp-server",
-      "nocodb"
-    ],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-30T13:44:10Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:21.120Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mailgun/mailgun-mcp-server",
     "name": "mailgun-mcp-server",
     "description": "Implementation of Model Context Protocol server for Mailgun APIs",
@@ -91483,38 +91455,6 @@
     "archived": false
   },
   {
-    "id": "codemaestroai/advanced-unity-mcp",
-    "name": "advanced-unity-mcp",
-    "description": "Public repository for Advanced Unity MCP by Code Maestro (www.code-maestro.com).",
-    "descriptionZh": "Advanced Unity MCP 的公共仓库，由 Code Maestro（www.code-maestro.com）开发。",
-    "url": "https://github.com/codemaestroai/advanced-unity-mcp",
-    "homepage": null,
-    "stars": 92,
-    "forks": 10,
-    "topics": [
-      "ai",
-      "ai-integration",
-      "game-development",
-      "mcp",
-      "mcp-server",
-      "unity"
-    ],
-    "language": null,
-    "category": "coding",
-    "platforms": [
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-30T20:37:35Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:42.695Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "religa/multi_mcp",
     "name": "multi_mcp",
     "description": "Multi-Model chat, code review and analysis MCP Server for Claude Code",
@@ -96312,30 +96252,6 @@
     "archived": false
   },
   {
-    "id": "lamemind/mcp-server-multiverse",
-    "name": "mcp-server-multiverse",
-    "description": "A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.",
-    "descriptionZh": "一个中间件服务器，让同一MCP服务器的多个隔离实例通过独立命名空间和配置共存运行。",
-    "url": "https://github.com/lamemind/mcp-server-multiverse",
-    "homepage": null,
-    "stars": 81,
-    "forks": 17,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "data",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-30T07:18:48Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:08.995Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "testdino-hq/testdino-mcp",
     "name": "testdino-mcp",
     "description": "A MCP server that bridges TestDino with AI agents such as Cursor and Claude. Navigate test results, analyze failures, and manage test cases through conversational commands.",
@@ -98440,36 +98356,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:05.790Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "theobrigitte/mcp-time",
-    "name": "mcp-time",
-    "description": "MCP (Model Context Protocol) server which provides utilities to work with time and dates, with natural language, multiple formats and timezone convertion capabilities",
-    "descriptionZh": "基于 MCP 协议的时间日期工具服务，支持自然语言解析、多种格式转换和时区转换功能。",
-    "url": "https://github.com/TheoBrigitte/mcp-time",
-    "homepage": null,
-    "stars": 25,
-    "forks": 8,
-    "topics": [
-      "mcp",
-      "mcp-server",
-      "mcp-tools",
-      "modelcontextprotocol"
-    ],
-    "language": "Go",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "curl -Lo mcp-time https://github.com/TheoBrigitte/mcp-time/releases/latest/download/mcp-time.OS-ARCH",
-    "lastCommit": "2026-03-30T10:02:59Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:27.944Z",
     "featured": false,
     "archived": false
   },
@@ -100739,30 +100625,6 @@
     "archived": false
   },
   {
-    "id": "pratyay/mac-monitor-mcp",
-    "name": "mac-monitor-mcp",
-    "description": "mac-monitor-mcp",
-    "descriptionZh": "macOS 系统监控 MCP 服务，支持实时获取 CPU、内存、磁盘、网络、进程、电池等系统状态信息。",
-    "url": "https://github.com/Pratyay/mac-monitor-mcp",
-    "homepage": null,
-    "stars": 22,
-    "forks": 6,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install mcp",
-    "lastCommit": "2026-03-30T03:57:25Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:19.711Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "marzukia/charted",
     "name": "charted",
     "description": "Charted is a zero dependency SVG chart generator that aims to provide a simple interface for generating beautiful and customisable graphs. This project is inspired by chart libraries like mermaid.js.",
@@ -102302,41 +102164,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:39.876Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "tadas-github/a2asearch-mcp",
-    "name": "a2asearch-mcp",
-    "description": "MCP server for searching AI agents, MCP servers, CLI tools and agent skills via A2ASearch",
-    "descriptionZh": "通过 A2ASearch 搜索 AI 智能体、MCP 服务器、CLI 工具和智能体技能的 MCP 服务器。",
-    "url": "https://github.com/tadas-github/a2asearch-mcp",
-    "homepage": null,
-    "stars": 20,
-    "forks": 0,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "cursor",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "a2asearch"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx a2asearch-mcp -- playwright",
-    "lastCommit": "2026-03-30T07:08:15Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-29T14:27:56.282Z",
     "featured": false,
     "archived": false
   },
@@ -106240,33 +106067,6 @@
     "commits30d": 3,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:41.830Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "archai-labs/fastmcp-sonarqube-metrics",
-    "name": "fastmcp-sonarqube-metrics",
-    "description": "Chat with your SonarQube data: explore metrics, compare trends, and track issues—effortlessly.",
-    "descriptionZh": "与SonarQube数据对话：轻松探索指标、对比趋势、追踪问题。",
-    "url": "https://github.com/ArchAI-Labs/fastmcp-sonarqube-metrics",
-    "homepage": null,
-    "stars": 14,
-    "forks": 9,
-    "topics": [
-      "mcp-server",
-      "sonarqube"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "uv run mcp dev \"<server_name>\"",
-    "lastCommit": "2026-03-30T12:20:44Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:49.134Z",
     "featured": false,
     "archived": false
   },
@@ -110433,42 +110233,6 @@
     "archived": false
   },
   {
-    "id": "gupta-kush/spotify-mcp",
-    "name": "spotify-mcp",
-    "description": "Control Spotify from Claude, Cursor, or any MCP client. 100+ tools for playback, playlists, discovery, and curation.",
-    "descriptionZh": "通过Claude、Cursor或任意MCP客户端控制Spotify，提供100多种工具用于播放、歌单管理、音乐发现与收藏整理。",
-    "url": "https://github.com/gupta-kush/spotify-mcp",
-    "homepage": "https://pypi.org/project/spotify-mcp/",
-    "stars": 7,
-    "forks": 2,
-    "topics": [
-      "ai",
-      "claude",
-      "fastmcp",
-      "llm-tools",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "python",
-      "spotify",
-      "spotify-api"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "claude mcp add spotify -- uvx spotify-mcp",
-    "lastCommit": "2026-03-31T02:00:01Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:12.059Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "shunshi-ai/bazi-reader-mcp",
     "name": "bazi-reader-mcp",
     "description": "Give your AI agent the ability to read Chinese Bazi (八字) charts — an open-source MCP server 🔮",
@@ -114170,32 +113934,6 @@
     "archived": false
   },
   {
-    "id": "tcsoftinc/testcollab-mcp-server",
-    "name": "testcollab-mcp-server",
-    "description": "MCP server for TestCollab test management. Lets AI coding assistants (Claude Code, Cursor, Windsurf, Codex) create, update, and query test cases, create test plans, and suite hierarchy. Connect your AI workflow to your QA process.",
-    "descriptionZh": "MCP服务器，连接TestCollab测试管理，支持AI编程助手（Claude Code、Cursor、Windsurf、Codex）创建、更新、查询测试用例、测试计划和套件层级，将AI工作流与QA流程打通。",
-    "url": "https://github.com/TCSoftInc/testcollab-mcp-server",
-    "homepage": "https://testcollab.com",
-    "stars": 4,
-    "forks": 2,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-03-30T03:05:08Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:28.160Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "gpartin/waveguardclient",
     "name": "WaveGuardClient",
     "description": "Python SDK for WaveGuard  physics-based anomaly detection API. One call. Any data.",
@@ -117611,31 +117349,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:37.465Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "dealexpress/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP Server for DealX platform",
-    "descriptionZh": "DealX 平台的 MCP 服务器，支持通过 Model Context Protocol 与 DealX 交互，实现交易数据查询与操作。",
-    "url": "https://github.com/DealExpress/mcp-server",
-    "homepage": "https://www.npmjs.com/package/@dealx/mcp-server",
-    "stars": 2,
-    "forks": 3,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g @dealx/mcp-server",
-    "lastCommit": "2026-03-30T07:54:26Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:40.117Z",
     "featured": false,
     "archived": false
   },
@@ -127316,37 +127029,6 @@
     "archived": false
   },
   {
-    "id": "vasayxtx/mcp-prompt-engine",
-    "name": "mcp-prompt-engine",
-    "description": "MCP Prompt Engine",
-    "descriptionZh": "MCP 提示引擎：一款用于构建和管理 AI 提示的 MCP 服务器，支持版本控制、模板化与协作。",
-    "url": "https://github.com/vasayxtx/mcp-prompt-engine",
-    "homepage": null,
-    "stars": 18,
-    "forks": 5,
-    "topics": [
-      "go",
-      "go-template",
-      "golang",
-      "mcp",
-      "mcp-prompt",
-      "mcp-server"
-    ],
-    "language": "Go",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-03-30T07:54:38Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:30.931Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "gologinapp/gologin-mcp",
     "name": "gologin-mcp",
     "description": "gologin-mcp",
@@ -136490,6 +136172,34 @@
     "archived": false
   },
   {
+    "id": "edwinbernadus/nocodb-mcp-server",
+    "name": "nocodb-mcp-server",
+    "description": "nocodb mcp server",
+    "descriptionZh": "基于NocoDB的MCP服务器，支持通过自然语言与NocoDB数据库交互，实现数据查询、管理和自动化操作。",
+    "url": "https://github.com/edwinbernadus/nocodb-mcp-server",
+    "homepage": null,
+    "stars": 75,
+    "forks": 25,
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "nocodb"
+    ],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-30T13:44:10Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:21.120Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "zencoderai/slack-mcp-server",
     "name": "slack-mcp-server",
     "description": "slack-mcp-server",
@@ -138730,6 +138440,38 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:23.854Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "codemaestroai/advanced-unity-mcp",
+    "name": "advanced-unity-mcp",
+    "description": "Public repository for Advanced Unity MCP by Code Maestro (www.code-maestro.com).",
+    "descriptionZh": "Advanced Unity MCP 的公共仓库，由 Code Maestro（www.code-maestro.com）开发。",
+    "url": "https://github.com/codemaestroai/advanced-unity-mcp",
+    "homepage": null,
+    "stars": 92,
+    "forks": 10,
+    "topics": [
+      "ai",
+      "ai-integration",
+      "game-development",
+      "mcp",
+      "mcp-server",
+      "unity"
+    ],
+    "language": null,
+    "category": "coding",
+    "platforms": [
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-30T20:37:35Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:42.695Z",
     "featured": false,
     "archived": false
   },
@@ -141039,6 +140781,30 @@
     "archived": false
   },
   {
+    "id": "lamemind/mcp-server-multiverse",
+    "name": "mcp-server-multiverse",
+    "description": "A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.",
+    "descriptionZh": "一个中间件服务器，让同一MCP服务器的多个隔离实例通过独立命名空间和配置共存运行。",
+    "url": "https://github.com/lamemind/mcp-server-multiverse",
+    "homepage": null,
+    "stars": 81,
+    "forks": 17,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "data",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-30T07:18:48Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:08.995Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "fireproof-storage/mcp-database-server",
     "name": "mcp-database-server",
     "description": "Store and load JSON documents from LLM tool use",
@@ -143088,6 +142854,36 @@
     "archived": false
   },
   {
+    "id": "theobrigitte/mcp-time",
+    "name": "mcp-time",
+    "description": "MCP (Model Context Protocol) server which provides utilities to work with time and dates, with natural language, multiple formats and timezone convertion capabilities",
+    "descriptionZh": "基于 MCP 协议的时间日期工具服务，支持自然语言解析、多种格式转换和时区转换功能。",
+    "url": "https://github.com/TheoBrigitte/mcp-time",
+    "homepage": null,
+    "stars": 25,
+    "forks": 8,
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "modelcontextprotocol"
+    ],
+    "language": "Go",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "curl -Lo mcp-time https://github.com/TheoBrigitte/mcp-time/releases/latest/download/mcp-time.OS-ARCH",
+    "lastCommit": "2026-03-30T10:02:59Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:27.944Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "qainsights/k6-mcp-server",
     "name": "k6-mcp-server",
     "description": "k6 MCP server",
@@ -143581,6 +143377,30 @@
     "archived": false
   },
   {
+    "id": "pratyay/mac-monitor-mcp",
+    "name": "mac-monitor-mcp",
+    "description": "mac-monitor-mcp",
+    "descriptionZh": "macOS 系统监控 MCP 服务，支持实时获取 CPU、内存、磁盘、网络、进程、电池等系统状态信息。",
+    "url": "https://github.com/Pratyay/mac-monitor-mcp",
+    "homepage": null,
+    "stars": 22,
+    "forks": 6,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install mcp",
+    "lastCommit": "2026-03-30T03:57:25Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:19.711Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "tsavo/creatify-mcp",
     "name": "creatify-mcp",
     "description": "🎬 Enterprise-grade MCP Server for Creatify AI - 12 tools for AI video generation: avatar videos, URL-to-video, AI shorts, custom avatars, script generation, advanced lip-sync with emotion control. Complete API coverage with semantic versioning.",
@@ -143910,6 +143730,41 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:35.073Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "tadas-github/a2asearch-mcp",
+    "name": "a2asearch-mcp",
+    "description": "MCP server for searching AI agents, MCP servers, CLI tools and agent skills via A2ASearch",
+    "descriptionZh": "通过 A2ASearch 搜索 AI 智能体、MCP 服务器、CLI 工具和智能体技能的 MCP 服务器。",
+    "url": "https://github.com/tadas-github/a2asearch-mcp",
+    "homepage": null,
+    "stars": 20,
+    "forks": 0,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "cursor",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "a2asearch"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx a2asearch-mcp -- playwright",
+    "lastCommit": "2026-03-30T07:08:15Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-29T14:27:56.282Z",
     "featured": false,
     "archived": false
   },
@@ -145508,6 +145363,33 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:27.442Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "archai-labs/fastmcp-sonarqube-metrics",
+    "name": "fastmcp-sonarqube-metrics",
+    "description": "Chat with your SonarQube data: explore metrics, compare trends, and track issues—effortlessly.",
+    "descriptionZh": "与SonarQube数据对话：轻松探索指标、对比趋势、追踪问题。",
+    "url": "https://github.com/ArchAI-Labs/fastmcp-sonarqube-metrics",
+    "homepage": null,
+    "stars": 14,
+    "forks": 9,
+    "topics": [
+      "mcp-server",
+      "sonarqube"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "uv run mcp dev \"<server_name>\"",
+    "lastCommit": "2026-03-30T12:20:44Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:49.134Z",
     "featured": false,
     "archived": false
   },
@@ -148473,6 +148355,42 @@
     "archived": false
   },
   {
+    "id": "gupta-kush/spotify-mcp",
+    "name": "spotify-mcp",
+    "description": "Control Spotify from Claude, Cursor, or any MCP client. 100+ tools for playback, playlists, discovery, and curation.",
+    "descriptionZh": "通过Claude、Cursor或任意MCP客户端控制Spotify，提供100多种工具用于播放、歌单管理、音乐发现与收藏整理。",
+    "url": "https://github.com/gupta-kush/spotify-mcp",
+    "homepage": "https://pypi.org/project/spotify-mcp/",
+    "stars": 7,
+    "forks": 2,
+    "topics": [
+      "ai",
+      "claude",
+      "fastmcp",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "spotify",
+      "spotify-api"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "claude mcp add spotify -- uvx spotify-mcp",
+    "lastCommit": "2026-03-31T02:00:01Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:12.059Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "tradercjz/dolphindb-mcp-server",
     "name": "dolphindb-mcp-server",
     "description": "dolphindb-mcp-server",
@@ -150373,6 +150291,32 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:30.300Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "tcsoftinc/testcollab-mcp-server",
+    "name": "testcollab-mcp-server",
+    "description": "MCP server for TestCollab test management. Lets AI coding assistants (Claude Code, Cursor, Windsurf, Codex) create, update, and query test cases, create test plans, and suite hierarchy. Connect your AI workflow to your QA process.",
+    "descriptionZh": "MCP服务器，连接TestCollab测试管理，支持AI编程助手（Claude Code、Cursor、Windsurf、Codex）创建、更新、查询测试用例、测试计划和套件层级，将AI工作流与QA流程打通。",
+    "url": "https://github.com/TCSoftInc/testcollab-mcp-server",
+    "homepage": "https://testcollab.com",
+    "stars": 4,
+    "forks": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-03-30T03:05:08Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:28.160Z",
     "featured": false,
     "archived": false
   },
@@ -152609,6 +152553,31 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "dealexpress/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP Server for DealX platform",
+    "descriptionZh": "DealX 平台的 MCP 服务器，支持通过 Model Context Protocol 与 DealX 交互，实现交易数据查询与操作。",
+    "url": "https://github.com/DealExpress/mcp-server",
+    "homepage": "https://www.npmjs.com/package/@dealx/mcp-server",
+    "stars": 2,
+    "forks": 3,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g @dealx/mcp-server",
+    "lastCommit": "2026-03-30T07:54:26Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:40.117Z",
     "featured": false,
     "archived": false
   },
@@ -159616,6 +159585,37 @@
     "firstSeen": "2026-06-30T13:17:36.097Z",
     "featured": false,
     "archived": true
+  },
+  {
+    "id": "vasayxtx/mcp-prompt-engine",
+    "name": "mcp-prompt-engine",
+    "description": "MCP Prompt Engine",
+    "descriptionZh": "MCP 提示引擎：一款用于构建和管理 AI 提示的 MCP 服务器，支持版本控制、模板化与协作。",
+    "url": "https://github.com/vasayxtx/mcp-prompt-engine",
+    "homepage": null,
+    "stars": 18,
+    "forks": 5,
+    "topics": [
+      "go",
+      "go-template",
+      "golang",
+      "mcp",
+      "mcp-prompt",
+      "mcp-server"
+    ],
+    "language": "Go",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-03-30T07:54:38Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:30.931Z",
+    "featured": false,
+    "archived": false
   },
   {
     "id": "dataring-engineering/mcp-server-trino",
