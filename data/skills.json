@@ -86485,30 +86485,6 @@
     "archived": true
   },
   {
-    "id": "gmr/claude-status",
-    "name": "claude-status",
-    "description": "macOS Menu Bar + Desktop Widget for Claude Code Session Monitoring",
-    "descriptionZh": "macOS 菜单栏与桌面小组件，用于监控 Claude Code 会话。",
-    "url": "https://github.com/gmr/claude-status",
-    "homepage": null,
-    "stars": 54,
-    "forks": 14,
-    "topics": [],
-    "language": "Swift",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/gmr/claude-status.git",
-    "lastCommit": "2026-04-01T16:49:50Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-20T02:33:13.470Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "srclight/srclight",
     "name": "srclight",
     "description": "Deep code indexing MCP server for AI agents. 25 tools: hybrid FTS5 + embedding search, call graphs, git blame/hotspots, build system analysis. Multi-repo workspaces, GPU-accelerated semantic search, 10 languages via tree-sitter. Fully local, zero cloud dependencies.",
@@ -96043,33 +96019,6 @@
     "archived": false
   },
   {
-    "id": "debridge-finance/debridge-mcp",
-    "name": "debridge-mcp",
-    "description": "MCP server that gives AI agents the ability to execute cross-chain cryptocurrency swaps and transfers via the deBridge protocol",
-    "descriptionZh": "为AI代理提供通过deBridge协议执行跨链加密货币兑换和转账能力的MCP服务器。",
-    "url": "https://github.com/debridge-finance/debridge-mcp",
-    "homepage": null,
-    "stars": 32,
-    "forks": 5,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx -y @debridge-finance/debridge-mcp@latest",
-    "lastCommit": "2026-04-01T19:15:33Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:10.636Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "hypurrquant/perp-cli",
     "name": "perp-cli",
     "description": " Multi-DEX perpetual futures CLI + MCP server — Pacifica (Solana), Hyperliquid, Lighter (Ethereum). 18 MCP tools for AI-powered trading",
@@ -100277,46 +100226,6 @@
     "commits30d": 3,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:12.846Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "yjcho9317/nworks",
-    "name": "nworks",
-    "description": "Full-featured MCP server and CLI for LINE WORKS (NAVER WORKS) — 26 tools covering messages, calendar, drive, mail, tasks, and boards. Automate with AI agents or scripts.",
-    "descriptionZh": "全功能MCP服务器与CLI，支持LINE WORKS（NAVER WORKS），提供26种工具覆盖消息、日历、云盘、邮件、任务和看板，可通过AI代理或脚本自动化操作。",
-    "url": "https://github.com/yjcho9317/nworks",
-    "homepage": null,
-    "stars": 23,
-    "forks": 5,
-    "topics": [
-      "agent-tools",
-      "ai-agent",
-      "automation",
-      "claude",
-      "cli",
-      "cursor",
-      "korean",
-      "mcp",
-      "model-context-protocol",
-      "naver-works",
-      "naverworks",
-      "npm",
-      "typescript",
-      "workspace",
-      "line-works"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g nworks",
-    "lastCommit": "2026-04-01T07:31:22Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:13.135Z",
     "featured": false,
     "archived": false
   },
@@ -136112,6 +136021,30 @@
     "archived": false
   },
   {
+    "id": "gmr/claude-status",
+    "name": "claude-status",
+    "description": "macOS Menu Bar + Desktop Widget for Claude Code Session Monitoring",
+    "descriptionZh": "macOS 菜单栏与桌面小组件，用于监控 Claude Code 会话。",
+    "url": "https://github.com/gmr/claude-status",
+    "homepage": null,
+    "stars": 54,
+    "forks": 14,
+    "topics": [],
+    "language": "Swift",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/gmr/claude-status.git",
+    "lastCommit": "2026-04-01T16:49:50Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-20T02:33:13.470Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "nihalxkumar/arch-mcp",
     "name": "arch-mcp",
     "description": "Arch Linux MCP (Model Context Protocol) Server",
@@ -139830,6 +139763,33 @@
     "archived": false
   },
   {
+    "id": "debridge-finance/debridge-mcp",
+    "name": "debridge-mcp",
+    "description": "MCP server that gives AI agents the ability to execute cross-chain cryptocurrency swaps and transfers via the deBridge protocol",
+    "descriptionZh": "为AI代理提供通过deBridge协议执行跨链加密货币兑换和转账能力的MCP服务器。",
+    "url": "https://github.com/debridge-finance/debridge-mcp",
+    "homepage": null,
+    "stars": 32,
+    "forks": 5,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx -y @debridge-finance/debridge-mcp@latest",
+    "lastCommit": "2026-04-01T19:15:33Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:10.636Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "j4c0bs/mcp-server-sql-analyzer",
     "name": "mcp-server-sql-analyzer",
     "description": "MCP server for SQL static analysis.",
@@ -142296,6 +142256,46 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:26.190Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "yjcho9317/nworks",
+    "name": "nworks",
+    "description": "Full-featured MCP server and CLI for LINE WORKS (NAVER WORKS) — 26 tools covering messages, calendar, drive, mail, tasks, and boards. Automate with AI agents or scripts.",
+    "descriptionZh": "全功能MCP服务器与CLI，支持LINE WORKS（NAVER WORKS），提供26种工具覆盖消息、日历、云盘、邮件、任务和看板，可通过AI代理或脚本自动化操作。",
+    "url": "https://github.com/yjcho9317/nworks",
+    "homepage": null,
+    "stars": 23,
+    "forks": 5,
+    "topics": [
+      "agent-tools",
+      "ai-agent",
+      "automation",
+      "claude",
+      "cli",
+      "cursor",
+      "korean",
+      "mcp",
+      "model-context-protocol",
+      "naver-works",
+      "naverworks",
+      "npm",
+      "typescript",
+      "workspace",
+      "line-works"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g nworks",
+    "lastCommit": "2026-04-01T07:31:22Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:13.135Z",
     "featured": false,
     "archived": false
   },
