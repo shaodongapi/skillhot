@@ -102081,33 +102081,6 @@
     "archived": false
   },
   {
-    "id": "openstack-kr/python-openstackmcp-server",
-    "name": "python-openstackmcp-server",
-    "description": "openstack mcp server",
-    "descriptionZh": "基于 MCP 协议，为 OpenStack 云平台提供 AI 驱动的自然语言管理接口。",
-    "url": "https://github.com/openstack-kr/python-openstackmcp-server",
-    "homepage": null,
-    "stars": 20,
-    "forks": 8,
-    "topics": [
-      "mcp-server",
-      "openstack"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install tox",
-    "lastCommit": "2026-04-03T15:34:43Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:37.895Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "embeddedlayers/mcp-analytics",
     "name": "mcp-analytics",
     "description": "The statistical analyst in your AI chat — bring data and a question, own a citable, re-runnable analysis. Four depth tiers, from instant Snapshot to full Deck study. Works in Claude, Cursor, and any MCP client.",
@@ -107360,30 +107333,6 @@
     "commits30d": 2,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:08.206Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "takagoto/rag-learning-academy",
-    "name": "rag-learning-academy",
-    "description": "A structured, multi-agent Claude Code learning environment for mastering Retrieval-Augmented Generation (RAG)",
-    "descriptionZh": "结构化多智能体Claude Code学习环境，专为掌握检索增强生成（RAG）设计。",
-    "url": "https://github.com/TakaGoto/rag-learning-academy",
-    "homepage": null,
-    "stars": 10,
-    "forks": 4,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/TakaGoto/rag-learning-academy.git",
-    "lastCommit": "2026-04-03T15:49:32Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-03T02:26:00.696Z",
     "featured": false,
     "archived": false
   },
@@ -113534,45 +113483,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:04.602Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "lionkiii/google-searchconsole-mcp",
-    "name": "google-searchconsole-mcp",
-    "description": "MCP server for Google Search Console — query search analytics, inspect URLs, find keyword opportunities, track SEO performance. Works with Claude Desktop, Cursor, Windsurf.",
-    "descriptionZh": "为 Google Search Console 设计的 MCP 服务器，可查询搜索分析、检查 URL、发现关键词机会、追踪 SEO 表现，兼容 Claude Desktop、Cursor、Windsurf。",
-    "url": "https://github.com/lionkiii/google-searchconsole-mcp",
-    "homepage": null,
-    "stars": 4,
-    "forks": 3,
-    "topics": [
-      "ai",
-      "claude",
-      "claude-desktop",
-      "cursor",
-      "google-search-console",
-      "keyword-research",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "search-analytics",
-      "seo",
-      "webmaster-tools"
-    ],
-    "language": "JavaScript",
-    "category": "content",
-    "platforms": [
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g google-searchconsole-mcp",
-    "lastCommit": "2026-04-03T05:46:16Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:16.765Z",
     "featured": false,
     "archived": false
   },
@@ -121727,40 +121637,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:12.847Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "aiagentkarl/solana-mcp-server",
-    "name": "solana-mcp-server",
-    "description": "MCP-Server für Solana-Blockchain-Daten — Wallets, Token-Preise, DeFi-Yields, Sicherheitschecks",
-    "descriptionZh": "MCP-Server 用于 Solana 区块链数据 — 钱包、代币价格、DeFi 收益、安全检查。",
-    "url": "https://github.com/AiAgentKarl/solana-mcp-server",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "ai",
-      "ai-agent",
-      "blockchain",
-      "crypto",
-      "defi",
-      "mcp",
-      "mcp-server",
-      "solana",
-      "web3"
-    ],
-    "language": "HTML",
-    "category": "security",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install solana-mcp-server",
-    "lastCommit": "2026-04-03T16:05:51Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:12.934Z",
     "featured": false,
     "archived": false
   },
@@ -131147,30 +131023,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-29T14:28:40.136Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "thelongevityvault/decoder-3am-mcp",
-    "name": "decoder-3am-mcp",
-    "description": "Sleep disruption cause classifier MCP server from The Longevity Vault",
-    "descriptionZh": "基于长寿库的睡眠中断原因分类器MCP服务器，用于分析并识别睡眠问题的潜在诱因。",
-    "url": "https://github.com/thelongevityvault/decoder-3am-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-03T10:57:01Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:20.775Z",
     "featured": false,
     "archived": false
   },
@@ -142654,6 +142506,33 @@
     "archived": false
   },
   {
+    "id": "openstack-kr/python-openstackmcp-server",
+    "name": "python-openstackmcp-server",
+    "description": "openstack mcp server",
+    "descriptionZh": "基于 MCP 协议，为 OpenStack 云平台提供 AI 驱动的自然语言管理接口。",
+    "url": "https://github.com/openstack-kr/python-openstackmcp-server",
+    "homepage": null,
+    "stars": 20,
+    "forks": 8,
+    "topics": [
+      "mcp-server",
+      "openstack"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install tox",
+    "lastCommit": "2026-04-03T15:34:43Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:37.895Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "tadas-github/a2asearch-mcp",
     "name": "a2asearch-mcp",
     "description": "MCP server for searching AI agents, MCP servers, CLI tools and agent skills via A2ASearch",
@@ -145423,6 +145302,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:09.649Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "takagoto/rag-learning-academy",
+    "name": "rag-learning-academy",
+    "description": "A structured, multi-agent Claude Code learning environment for mastering Retrieval-Augmented Generation (RAG)",
+    "descriptionZh": "结构化多智能体Claude Code学习环境，专为掌握检索增强生成（RAG）设计。",
+    "url": "https://github.com/TakaGoto/rag-learning-academy",
+    "homepage": null,
+    "stars": 10,
+    "forks": 4,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/TakaGoto/rag-learning-academy.git",
+    "lastCommit": "2026-04-03T15:49:32Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-03T02:26:00.696Z",
     "featured": false,
     "archived": false
   },
@@ -149249,6 +149152,45 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:30.300Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "lionkiii/google-searchconsole-mcp",
+    "name": "google-searchconsole-mcp",
+    "description": "MCP server for Google Search Console — query search analytics, inspect URLs, find keyword opportunities, track SEO performance. Works with Claude Desktop, Cursor, Windsurf.",
+    "descriptionZh": "为 Google Search Console 设计的 MCP 服务器，可查询搜索分析、检查 URL、发现关键词机会、追踪 SEO 表现，兼容 Claude Desktop、Cursor、Windsurf。",
+    "url": "https://github.com/lionkiii/google-searchconsole-mcp",
+    "homepage": null,
+    "stars": 4,
+    "forks": 3,
+    "topics": [
+      "ai",
+      "claude",
+      "claude-desktop",
+      "cursor",
+      "google-search-console",
+      "keyword-research",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "search-analytics",
+      "seo",
+      "webmaster-tools"
+    ],
+    "language": "JavaScript",
+    "category": "content",
+    "platforms": [
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g google-searchconsole-mcp",
+    "lastCommit": "2026-04-03T05:46:16Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:16.765Z",
     "featured": false,
     "archived": false
   },
@@ -154288,6 +154230,40 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "aiagentkarl/solana-mcp-server",
+    "name": "solana-mcp-server",
+    "description": "MCP-Server für Solana-Blockchain-Daten — Wallets, Token-Preise, DeFi-Yields, Sicherheitschecks",
+    "descriptionZh": "MCP-Server 用于 Solana 区块链数据 — 钱包、代币价格、DeFi 收益、安全检查。",
+    "url": "https://github.com/AiAgentKarl/solana-mcp-server",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "ai",
+      "ai-agent",
+      "blockchain",
+      "crypto",
+      "defi",
+      "mcp",
+      "mcp-server",
+      "solana",
+      "web3"
+    ],
+    "language": "HTML",
+    "category": "security",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install solana-mcp-server",
+    "lastCommit": "2026-04-03T16:05:51Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:12.934Z",
     "featured": false,
     "archived": false
   },
@@ -162548,6 +162524,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:52.418Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "thelongevityvault/decoder-3am-mcp",
+    "name": "decoder-3am-mcp",
+    "description": "Sleep disruption cause classifier MCP server from The Longevity Vault",
+    "descriptionZh": "基于长寿库的睡眠中断原因分类器MCP服务器，用于分析并识别睡眠问题的潜在诱因。",
+    "url": "https://github.com/thelongevityvault/decoder-3am-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-03T10:57:01Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:20.775Z",
     "featured": false,
     "archived": false
   },
