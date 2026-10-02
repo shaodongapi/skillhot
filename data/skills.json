@@ -109038,44 +109038,6 @@
     "archived": false
   },
   {
-    "id": "kevinswint/xcode-studio-mcp",
-    "name": "xcode-studio-mcp",
-    "description": "Unified MCP server for AI-assisted iOS development — build, deploy, screenshot, and interact with iOS Simulator from Claude Code, Cursor, or any MCP client",
-    "descriptionZh": "统一 MCP 服务器，支持 AI 辅助 iOS 开发：通过 Claude Code、Cursor 等 MCP 客户端构建、部署、截图并操控 iOS 模拟器。",
-    "url": "https://github.com/kevinswint/xcode-studio-mcp",
-    "homepage": "https://github.com/kevinswint/xcode-studio-mcp",
-    "stars": 8,
-    "forks": 1,
-    "topics": [
-      "ai-coding",
-      "claude-code",
-      "cursor",
-      "ios-development",
-      "ios-simulator",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "swift",
-      "xcode",
-      "xcodebuild",
-      "simulator-automation"
-    ],
-    "language": "Swift",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "brew tap facebook/fb && brew install idb-companion",
-    "lastCommit": "2026-04-04T17:44:01Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:08.042Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "iafanasov/packzoo-mcp",
     "name": "packzoo-mcp",
     "description": "PackZoo MCP server — compare parcel and letter delivery prices across 60+ carriers in 27 European countries.",
@@ -110252,30 +110214,6 @@
     "commits30d": 1,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:53.530Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "shopsavvy/shopsavvy-mcp-server",
-    "name": "shopsavvy-mcp-server",
-    "description": "Model Context Protocol (MCP) server for ShopSavvy Data API - provides product lookup, pricing, and historical data tools for AI assistants.",
-    "descriptionZh": "为 ShopSavvy 数据 API 设计的 MCP 服务器，为 AI 助手提供商品查询、定价和历史数据工具。",
-    "url": "https://github.com/shopsavvy/shopsavvy-mcp-server",
-    "homepage": "https://shopsavvy.com/integrations/mcp-server",
-    "stars": 7,
-    "forks": 6,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install @shopsavvy/mcp-server",
-    "lastCommit": "2026-04-04T06:34:36Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:57.461Z",
     "featured": false,
     "archived": false
   },
@@ -116332,38 +116270,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:14:44.626Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "nakulben/whatsapp-mcp",
-    "name": "whatsapp-mcp",
-    "description": "WhatsApp MCP Server — Manage templates & send messages via Claude, Cursor, or any MCP client. Meta Cloud API.",
-    "descriptionZh": "WhatsApp MCP 服务器 — 通过 Claude、Cursor 或任意 MCP 客户端管理模板与发送消息。基于 Meta Cloud API。",
-    "url": "https://github.com/nakulben/whatsapp-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [
-      "claude",
-      "mcp",
-      "meta-cloud-api",
-      "whatsapp",
-      "whatsapp-business-api"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "pip install -r requirements.txt",
-    "lastCommit": "2026-04-04T14:18:31Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:06.868Z",
     "featured": false,
     "archived": false
   },
@@ -146617,6 +146523,44 @@
     "archived": false
   },
   {
+    "id": "kevinswint/xcode-studio-mcp",
+    "name": "xcode-studio-mcp",
+    "description": "Unified MCP server for AI-assisted iOS development — build, deploy, screenshot, and interact with iOS Simulator from Claude Code, Cursor, or any MCP client",
+    "descriptionZh": "统一 MCP 服务器，支持 AI 辅助 iOS 开发：通过 Claude Code、Cursor 等 MCP 客户端构建、部署、截图并操控 iOS 模拟器。",
+    "url": "https://github.com/kevinswint/xcode-studio-mcp",
+    "homepage": "https://github.com/kevinswint/xcode-studio-mcp",
+    "stars": 8,
+    "forks": 1,
+    "topics": [
+      "ai-coding",
+      "claude-code",
+      "cursor",
+      "ios-development",
+      "ios-simulator",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "swift",
+      "xcode",
+      "xcodebuild",
+      "simulator-automation"
+    ],
+    "language": "Swift",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "brew tap facebook/fb && brew install idb-companion",
+    "lastCommit": "2026-04-04T17:44:01Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:08.042Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "pipepie/pipepie",
     "name": "pipepie",
     "description": "Self-hosted encrypted tunnel for webhooks, AI pipelines, and local development. End-to-end Noise encryption, pipeline tracing, web dashboard, MCP server for AI tools.",
@@ -147212,6 +147156,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:31.585Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "shopsavvy/shopsavvy-mcp-server",
+    "name": "shopsavvy-mcp-server",
+    "description": "Model Context Protocol (MCP) server for ShopSavvy Data API - provides product lookup, pricing, and historical data tools for AI assistants.",
+    "descriptionZh": "为 ShopSavvy 数据 API 设计的 MCP 服务器，为 AI 助手提供商品查询、定价和历史数据工具。",
+    "url": "https://github.com/shopsavvy/shopsavvy-mcp-server",
+    "homepage": "https://shopsavvy.com/integrations/mcp-server",
+    "stars": 7,
+    "forks": 6,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install @shopsavvy/mcp-server",
+    "lastCommit": "2026-04-04T06:34:36Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:57.461Z",
     "featured": false,
     "archived": false
   },
@@ -151533,6 +151501,38 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "nakulben/whatsapp-mcp",
+    "name": "whatsapp-mcp",
+    "description": "WhatsApp MCP Server — Manage templates & send messages via Claude, Cursor, or any MCP client. Meta Cloud API.",
+    "descriptionZh": "WhatsApp MCP 服务器 — 通过 Claude、Cursor 或任意 MCP 客户端管理模板与发送消息。基于 Meta Cloud API。",
+    "url": "https://github.com/nakulben/whatsapp-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "claude",
+      "mcp",
+      "meta-cloud-api",
+      "whatsapp",
+      "whatsapp-business-api"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "pip install -r requirements.txt",
+    "lastCommit": "2026-04-04T14:18:31Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:06.868Z",
     "featured": false,
     "archived": false
   },
