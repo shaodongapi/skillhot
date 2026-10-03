@@ -48413,33 +48413,6 @@
     "archived": false
   },
   {
-    "id": "fosdickio/binary_ninja_mcp",
-    "name": "binary_ninja_mcp",
-    "description": "A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite LLM/MCP client.",
-    "descriptionZh": "Binary Ninja 插件，内置 MCP 服务器，可无缝对接你喜爱的 LLM/MCP 客户端。",
-    "url": "https://github.com/fosdickio/binary_ninja_mcp",
-    "homepage": null,
-    "stars": 409,
-    "forks": 84,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx -y binary-ninja-mcp",
-    "lastCommit": "2026-04-05T19:38:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:04.006Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "keboola/mcp-server",
     "name": "mcp-server",
     "description": "Model Context Protocol (MCP) Server for the Keboola Platform",
@@ -60797,6 +60770,33 @@
     "archived": false
   },
   {
+    "id": "fosdickio/binary_ninja_mcp",
+    "name": "binary_ninja_mcp",
+    "description": "A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite LLM/MCP client.",
+    "descriptionZh": "Binary Ninja 插件，内置 MCP 服务器，可无缝对接你喜爱的 LLM/MCP 客户端。",
+    "url": "https://github.com/fosdickio/binary_ninja_mcp",
+    "homepage": null,
+    "stars": 409,
+    "forks": 84,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx -y binary-ninja-mcp",
+    "lastCommit": "2026-04-05T19:38:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:04.006Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "apify/mcp-server-rag-web-browser",
     "name": "mcp-server-rag-web-browser",
     "description": "A MCP Server for the RAG Web Browser Actor",
@@ -72062,41 +72062,6 @@
     "commits30d": 24,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-14T02:03:32.839Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "jparkerweb/mcp-sqlite",
-    "name": "mcp-sqlite",
-    "description": "🐇 Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction capabilities",
-    "descriptionZh": "🐇 Model Context Protocol (MCP) 服务器，提供全面的 SQLite 数据库交互能力。",
-    "url": "https://github.com/jparkerweb/mcp-sqlite",
-    "homepage": "https://www.npmjs.com/package/mcp-sqlite",
-    "stars": 123,
-    "forks": 16,
-    "topics": [
-      "cursor",
-      "database",
-      "development",
-      "mcp",
-      "nodejs",
-      "sqlite",
-      "windsurf",
-      "aitooling",
-      "equill-service"
-    ],
-    "language": "JavaScript",
-    "category": "data",
-    "platforms": [
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npm install undefined",
-    "lastCommit": "2026-04-05T04:51:05Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:25.231Z",
     "featured": false,
     "archived": false
   },
@@ -97945,42 +97910,6 @@
     "archived": false
   },
   {
-    "id": "attalla1/photopea-mcp-server",
-    "name": "photopea-mcp-server",
-    "description": "MCP server for AI-driven image editing with Photopea",
-    "descriptionZh": "基于 Photopea 的 AI 图像编辑 MCP 服务器，支持智能处理与自动化操作。",
-    "url": "https://github.com/attalla1/photopea-mcp-server",
-    "homepage": null,
-    "stars": 26,
-    "forks": 4,
-    "topics": [
-      "ai",
-      "claude",
-      "cursor",
-      "image-editing",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "photopea",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g photopea-mcp-server",
-    "lastCommit": "2026-04-05T10:24:10Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:09.721Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "agent-blueprint/mcp-server",
     "name": "mcp-server",
     "description": "MCP server for Agent Blueprint — connect AI agents to your blueprints, business cases, and implementation plans",
@@ -113393,38 +113322,6 @@
     "archived": false
   },
   {
-    "id": "shahabazdev/inxmail-mcp",
-    "name": "inxmail-mcp",
-    "description": "MCP server for the Inxmail Commerce transactional API — events, sendings, bounces, blocklist, blacklist, reactions, and delivery tracking from Claude.",
-    "descriptionZh": "MCP 服务器，用于 Inxmail Commerce 事务 API，支持事件、发送、退信、阻止列表、黑名单、反应及投递追踪，可通过 Claude 操作。",
-    "url": "https://github.com/shahabazdev/inxmail-mcp",
-    "homepage": null,
-    "stars": 4,
-    "forks": 0,
-    "topics": [
-      "claude",
-      "email",
-      "inxmail",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "transactional-email"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g inxmail-mcp",
-    "lastCommit": "2026-04-05T05:48:45Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:04.602Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "furey/mongodb-lens",
     "name": "mongodb-lens",
     "description": "🍃🔎 MongoDB Lens: Full Featured MCP Server for MongoDB Databases",
@@ -113705,30 +113602,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:39.147Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "facundolucci/plsreadme",
-    "name": "plsreadme",
-    "description": "plsreadme",
-    "descriptionZh": "plsreadme：通过分析代码库自动生成高质量README文件，支持多种编程语言和自定义模板，提升文档编写效率。",
-    "url": "https://github.com/FacundoLucci/plsreadme",
-    "homepage": null,
-    "stars": 4,
-    "forks": 1,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx add-mcp plsreadme-mcp",
-    "lastCommit": "2026-04-06T01:10:47Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:56.948Z",
     "featured": false,
     "archived": false
   },
@@ -120906,31 +120779,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:04.151Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "autonsol/sol-mcp",
-    "name": "sol-mcp",
-    "description": "MCP server for Solana token risk scoring and momentum signals",
-    "descriptionZh": "Solana代币风险评估与动量信号的MCP服务器，提供风险评分和趋势信号。",
-    "url": "https://github.com/autonsol/sol-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-04-05T12:58:35Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:04.175Z",
     "featured": false,
     "archived": false
   },
@@ -133762,6 +133610,41 @@
     "archived": false
   },
   {
+    "id": "jparkerweb/mcp-sqlite",
+    "name": "mcp-sqlite",
+    "description": "🐇 Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction capabilities",
+    "descriptionZh": "🐇 Model Context Protocol (MCP) 服务器，提供全面的 SQLite 数据库交互能力。",
+    "url": "https://github.com/jparkerweb/mcp-sqlite",
+    "homepage": "https://www.npmjs.com/package/mcp-sqlite",
+    "stars": 123,
+    "forks": 16,
+    "topics": [
+      "cursor",
+      "database",
+      "development",
+      "mcp",
+      "nodejs",
+      "sqlite",
+      "windsurf",
+      "aitooling",
+      "equill-service"
+    ],
+    "language": "JavaScript",
+    "category": "data",
+    "platforms": [
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install undefined",
+    "lastCommit": "2026-04-05T04:51:05Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:25.231Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "kukapay/freqtrade-mcp",
     "name": "freqtrade-mcp",
     "description": "An MCP server that integrates with the Freqtrade cryptocurrency trading bot.",
@@ -141361,6 +141244,42 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.272Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "attalla1/photopea-mcp-server",
+    "name": "photopea-mcp-server",
+    "description": "MCP server for AI-driven image editing with Photopea",
+    "descriptionZh": "基于 Photopea 的 AI 图像编辑 MCP 服务器，支持智能处理与自动化操作。",
+    "url": "https://github.com/attalla1/photopea-mcp-server",
+    "homepage": null,
+    "stars": 26,
+    "forks": 4,
+    "topics": [
+      "ai",
+      "claude",
+      "cursor",
+      "image-editing",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "photopea",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g photopea-mcp-server",
+    "lastCommit": "2026-04-05T10:24:10Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:09.721Z",
     "featured": false,
     "archived": false
   },
@@ -149124,6 +149043,62 @@
     "archived": false
   },
   {
+    "id": "shahabazdev/inxmail-mcp",
+    "name": "inxmail-mcp",
+    "description": "MCP server for the Inxmail Commerce transactional API — events, sendings, bounces, blocklist, blacklist, reactions, and delivery tracking from Claude.",
+    "descriptionZh": "MCP 服务器，用于 Inxmail Commerce 事务 API，支持事件、发送、退信、阻止列表、黑名单、反应及投递追踪，可通过 Claude 操作。",
+    "url": "https://github.com/shahabazdev/inxmail-mcp",
+    "homepage": null,
+    "stars": 4,
+    "forks": 0,
+    "topics": [
+      "claude",
+      "email",
+      "inxmail",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "transactional-email"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g inxmail-mcp",
+    "lastCommit": "2026-04-05T05:48:45Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:04.602Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "facundolucci/plsreadme",
+    "name": "plsreadme",
+    "description": "plsreadme",
+    "descriptionZh": "plsreadme：通过分析代码库自动生成高质量README文件，支持多种编程语言和自定义模板，提升文档编写效率。",
+    "url": "https://github.com/FacundoLucci/plsreadme",
+    "homepage": null,
+    "stars": 4,
+    "forks": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx add-mcp plsreadme-mcp",
+    "lastCommit": "2026-04-06T01:10:47Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:56.948Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "lionkiii/google-searchconsole-mcp",
     "name": "google-searchconsole-mcp",
     "description": "MCP server for Google Search Console — query search analytics, inspect URLs, find keyword opportunities, track SEO performance. Works with Claude Desktop, Cursor, Windsurf.",
@@ -154230,6 +154205,31 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "autonsol/sol-mcp",
+    "name": "sol-mcp",
+    "description": "MCP server for Solana token risk scoring and momentum signals",
+    "descriptionZh": "Solana代币风险评估与动量信号的MCP服务器，提供风险评分和趋势信号。",
+    "url": "https://github.com/autonsol/sol-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-04-05T12:58:35Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:04.175Z",
     "featured": false,
     "archived": false
   },
