@@ -97657,36 +97657,6 @@
     "archived": false
   },
   {
-    "id": "cqfn/aibolit-mcp-server",
-    "name": "aibolit-mcp-server",
-    "description": "MCP Server for Aibolit Java Static Analyzer: Helping Your AI Agent Identify Hotspots for Refactoring",
-    "descriptionZh": "MCP 服务器对接 Aibolit Java 静态分析器，帮助 AI 代理识别代码重构热点。",
-    "url": "https://github.com/cqfn/aibolit-mcp-server",
-    "homepage": "https://www.npmjs.com/package/aibolit-mcp-server",
-    "stars": 27,
-    "forks": 9,
-    "topics": [
-      "ai",
-      "mcp-server",
-      "refactoring"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-04-07T15:54:54Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:54.718Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "jamsocket/forevervm",
     "name": "forevervm",
     "description": "Securely run AI-generated code in stateful sandboxes that run forever.",
@@ -141091,6 +141061,36 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:28.762Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "cqfn/aibolit-mcp-server",
+    "name": "aibolit-mcp-server",
+    "description": "MCP Server for Aibolit Java Static Analyzer: Helping Your AI Agent Identify Hotspots for Refactoring",
+    "descriptionZh": "MCP 服务器对接 Aibolit Java 静态分析器，帮助 AI 代理识别代码重构热点。",
+    "url": "https://github.com/cqfn/aibolit-mcp-server",
+    "homepage": "https://www.npmjs.com/package/aibolit-mcp-server",
+    "stars": 27,
+    "forks": 9,
+    "topics": [
+      "ai",
+      "mcp-server",
+      "refactoring"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-04-07T15:54:54Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:54.718Z",
     "featured": false,
     "archived": false
   },
