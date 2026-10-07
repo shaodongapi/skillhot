@@ -75293,30 +75293,6 @@
     "archived": false
   },
   {
-    "id": "square/square-mcp-server",
-    "name": "square-mcp-server",
-    "description": "A Model Context Protocol (MCP) server for square",
-    "descriptionZh": "为 Square 提供模型上下文协议（MCP）服务器的实现。",
-    "url": "https://github.com/square/square-mcp-server",
-    "homepage": null,
-    "stars": 103,
-    "forks": 26,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx square-mcp-server start",
-    "lastCommit": "2026-04-09T18:13:35Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:57.632Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "simplyliz/ckb",
     "name": "ckb",
     "description": "Code intelligence for AI assistants - MCP server, CLI, and HTTP API with symbol navigation, impact analysis, and architecture mapping",
@@ -133845,6 +133821,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-29T14:29:08.963Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "square/square-mcp-server",
+    "name": "square-mcp-server",
+    "description": "A Model Context Protocol (MCP) server for square",
+    "descriptionZh": "为 Square 提供模型上下文协议（MCP）服务器的实现。",
+    "url": "https://github.com/square/square-mcp-server",
+    "homepage": null,
+    "stars": 103,
+    "forks": 26,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx square-mcp-server start",
+    "lastCommit": "2026-04-09T18:13:35Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:57.632Z",
     "featured": false,
     "archived": false
   },
