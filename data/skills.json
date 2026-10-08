@@ -36897,37 +36897,6 @@
     "archived": false
   },
   {
-    "id": "neo4j-contrib/mcp-neo4j",
-    "name": "mcp-neo4j",
-    "description": "Neo4j Labs Model Context Protocol servers",
-    "descriptionZh": "Neo4j Labs 的模型上下文协议服务器，用于将大语言模型与 Neo4j 图数据库集成，支持知识图谱查询与交互。",
-    "url": "https://github.com/neo4j-contrib/mcp-neo4j",
-    "homepage": "https://neo4j.com/developer/genai-ecosystem/model-context-protocol-mcp/",
-    "stars": 983,
-    "forks": 256,
-    "topics": [
-      "database",
-      "mcp",
-      "mcp-server",
-      "neo4j",
-      "stdio"
-    ],
-    "language": "Python",
-    "category": "data",
-    "platforms": [
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-10T18:53:37Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:26.967Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "quantgeekdev/mcp-framework",
     "name": "mcp-framework",
     "description": "The Typescript MCP Framework",
@@ -41519,6 +41488,37 @@
     "commits30d": 3,
     "starGrowth30d": 1,
     "firstSeen": "2026-07-01T02:58:55.299Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "neo4j-contrib/mcp-neo4j",
+    "name": "mcp-neo4j",
+    "description": "Neo4j Labs Model Context Protocol servers",
+    "descriptionZh": "Neo4j Labs 的模型上下文协议服务器，用于将大语言模型与 Neo4j 图数据库集成，支持知识图谱查询与交互。",
+    "url": "https://github.com/neo4j-contrib/mcp-neo4j",
+    "homepage": "https://neo4j.com/developer/genai-ecosystem/model-context-protocol-mcp/",
+    "stars": 983,
+    "forks": 256,
+    "topics": [
+      "database",
+      "mcp",
+      "mcp-server",
+      "neo4j",
+      "stdio"
+    ],
+    "language": "Python",
+    "category": "data",
+    "platforms": [
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-10T18:53:37Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:26.967Z",
     "featured": false,
     "archived": false
   },
