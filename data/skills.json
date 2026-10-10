@@ -18321,41 +18321,6 @@
     "archived": false
   },
   {
-    "id": "haris-musa/excel-mcp-server",
-    "name": "excel-mcp-server",
-    "description": "A Model Context Protocol server for Excel file manipulation",
-    "descriptionZh": "一个用于 Excel 文件操作的模型上下文协议服务器。",
-    "url": "https://github.com/haris-musa/excel-mcp-server",
-    "homepage": "https://excelmcpserver.com",
-    "stars": 4065,
-    "forks": 448,
-    "topics": [
-      "excel",
-      "mcp",
-      "mcp-server",
-      "ai",
-      "llm",
-      "toolcalling",
-      "sse",
-      "automation",
-      "stdio",
-      "streamable-http"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "uvx excel-mcp-server stdio",
-    "lastCommit": "2026-04-12T06:14:45Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:59.978Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "codegraphcontext/codegraphcontext",
     "name": "CodeGraphContext",
     "description": "An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.",
@@ -18911,6 +18876,41 @@
     "commits30d": 24,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:45.039Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "haris-musa/excel-mcp-server",
+    "name": "excel-mcp-server",
+    "description": "A Model Context Protocol server for Excel file manipulation",
+    "descriptionZh": "一个用于 Excel 文件操作的模型上下文协议服务器。",
+    "url": "https://github.com/haris-musa/excel-mcp-server",
+    "homepage": "https://excelmcpserver.com",
+    "stars": 4065,
+    "forks": 448,
+    "topics": [
+      "excel",
+      "mcp",
+      "mcp-server",
+      "ai",
+      "llm",
+      "toolcalling",
+      "sse",
+      "automation",
+      "stdio",
+      "streamable-http"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "uvx excel-mcp-server stdio",
+    "lastCommit": "2026-04-12T06:14:45Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:59.978Z",
     "featured": false,
     "archived": false
   },
@@ -129649,32 +129649,6 @@
     "archived": false
   },
   {
-    "id": "4dmrkey/cryptopolitan-mcp",
-    "name": "cryptopolitan-mcp",
-    "description": "Cryptopolitan MCP Server — Real-time crypto news, analysis, and price predictions for AI agents via Model Context Protocol",
-    "descriptionZh": "Cryptopolitan MCP 服务器 — 通过模型上下文协议为 AI 智能体提供实时加密新闻、分析与价格预测。",
-    "url": "https://github.com/4dmrkey/cryptopolitan-mcp",
-    "homepage": null,
-    "stars": 4,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "content",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-12T12:38:11Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:09.200Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "hashlock-tech/hashlock-mcp",
     "name": "hashlock-mcp",
     "description": "Atomic settlement layer for the agent economy. Sealed-bid RFQ + HTLC settlement, fused into one operation. Live on Ethereum and Sui; Bitcoin HTLC mainnet-ready (signet-validated). For AI agents (MCP-native) and institutional OTC desks.",
@@ -161377,6 +161351,32 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:00.279Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "4dmrkey/cryptopolitan-mcp",
+    "name": "cryptopolitan-mcp",
+    "description": "Cryptopolitan MCP Server — Real-time crypto news, analysis, and price predictions for AI agents via Model Context Protocol",
+    "descriptionZh": "Cryptopolitan MCP 服务器 — 通过模型上下文协议为 AI 智能体提供实时加密新闻、分析与价格预测。",
+    "url": "https://github.com/4dmrkey/cryptopolitan-mcp",
+    "homepage": null,
+    "stars": 4,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "content",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-12T12:38:11Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:09.200Z",
     "featured": false,
     "archived": false
   },
