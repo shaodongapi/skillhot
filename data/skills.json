@@ -81678,30 +81678,6 @@
     "archived": false
   },
   {
-    "id": "zihenghe04/ccdash",
-    "name": "CCDash",
-    "description": "Open-source unified usage dashboard for Claude — track tokens, quota, costs across Claude Code, claude.ai & API in one panel. 开源 Claude 全平台用量监控面板，聚合 Claude Code / claude.ai / API 数据，适用于 Pro/Max 订阅用户与开发者。https://dyp23yngrtumg.ok.kimi.link",
-    "descriptionZh": "开源 Claude 全平台用量监控面板，聚合 Claude Code、claude.ai 与 API 的令牌、配额与费用数据，适用于 Pro/Max 订阅用户与开发者。",
-    "url": "https://github.com/zihenghe04/CCDash",
-    "homepage": "https://dyp23yngrtumg.ok.kimi.link/",
-    "stars": 70,
-    "forks": 5,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/zihenghe04/CCDash.git",
-    "lastCommit": "2026-04-13T04:09:04Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-03T02:26:10.956Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "olostep/olostep-mcp-server",
     "name": "olostep-mcp-server",
     "description": "MCP server for Olostep — the web scraping, crawling, and search infrastructure used by top AI companies. Gives any MCP-compatible AI agent the ability to scrape, crawl, batch-extract, and search the web in real time.",
@@ -104237,30 +104213,6 @@
     "archived": false
   },
   {
-    "id": "gofireflyio/firefly-mcp",
-    "name": "firefly-mcp",
-    "description": "Firefly MCP",
-    "descriptionZh": "Firefly MCP 是一个开源框架，用于构建和管理多智能体协作系统，支持动态任务分配与高效通信。",
-    "url": "https://github.com/gofireflyio/firefly-mcp",
-    "homepage": null,
-    "stars": 16,
-    "forks": 11,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx @fireflyai/firefly-mcp",
-    "lastCommit": "2026-04-13T07:22:40Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:59.167Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "nishant-chaudhary5338/mcp-toolkit",
     "name": "mcp-toolkit",
     "description": "9 MCP servers for React + TypeScript automation — component scaffolding, dep auditing, WCAG checking, test generation, TypeScript enforcement, and monorepo management.",
@@ -107094,32 +107046,6 @@
     "commits30d": 2,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:08.206Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "ctxlint/ctxlint",
-    "name": "Ctxlint",
-    "description": "Ctxlint",
-    "descriptionZh": "Ctxlint：一款用于检查 Go 语言中 context.Context 传递合规性的静态分析工具，确保 context 被正确传递。",
-    "url": "https://github.com/ctxlint/Ctxlint",
-    "homepage": "https://www.npmjs.com/package/@ctxlint/ctxlint",
-    "stars": 10,
-    "forks": 2,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx @ctxlint/ctxlint check",
-    "lastCommit": "2026-04-13T22:04:46Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-03T02:26:12.414Z",
     "featured": false,
     "archived": false
   },
@@ -113319,38 +113245,6 @@
     "archived": false
   },
   {
-    "id": "gpartin/waveguardclient",
-    "name": "WaveGuardClient",
-    "description": "Python SDK for WaveGuard  physics-based anomaly detection API. One call. Any data.",
-    "descriptionZh": "WaveGuard物理异常检测API的Python SDK，一次调用，任意数据。",
-    "url": "https://github.com/gpartin/WaveGuardClient",
-    "homepage": null,
-    "stars": 4,
-    "forks": 1,
-    "topics": [
-      "anomaly-detection",
-      "azure-migration",
-      "gpu",
-      "machine-learning",
-      "mcp-server",
-      "python",
-      "sdk"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install WaveGuardClient scikit-learn",
-    "lastCommit": "2026-04-13T16:50:53Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:44.092Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "wuye-ai/mcp-server-wuye-ai",
     "name": "mcp-server-wuye-ai",
     "description": "CRIC物业AI MCP Server",
@@ -114608,38 +114502,6 @@
     "archived": false
   },
   {
-    "id": "mikusnuz/cws-mcp",
-    "name": "cws-mcp",
-    "description": "MCP server for Chrome Web Store — upload, publish, status, metadata & Playwright-based UI automation",
-    "descriptionZh": "Chrome 网上应用店 MCP 服务器，支持上传、发布、状态查询、元数据管理及基于 Playwright 的 UI 自动化。",
-    "url": "https://github.com/mikusnuz/cws-mcp",
-    "homepage": null,
-    "stars": 3,
-    "forks": 1,
-    "topics": [
-      "ai-tools",
-      "browser-extension",
-      "chrome-extension",
-      "chrome-web-store",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "curl -X POST https://oauth2.googleapis.com/token \\",
-    "lastCommit": "2026-04-13T19:52:46Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:46.175Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "ahmedak/defluff",
     "name": "defluff",
     "description": "Deterministic slop detector for AI-generated prose. No model, no API key.",
@@ -114706,38 +114568,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:47.145Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "andrewschreiber/desktopinsights-mcp",
-    "name": "desktopinsights-mcp",
-    "description": "MCP server for desktopinsights.com",
-    "descriptionZh": "桌面洞察MCP服务器，提供桌面使用数据、应用统计和系统信息的API接口。",
-    "url": "https://github.com/andrewschreiber/desktopinsights-mcp",
-    "homepage": "https://desktopinsights.com",
-    "stars": 3,
-    "forks": 0,
-    "topics": [
-      "desktop",
-      "desktop-app",
-      "electron",
-      "electronjs",
-      "enrichment",
-      "technographics"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-04-13T18:12:01Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:48.586Z",
     "featured": false,
     "archived": false
   },
@@ -116157,32 +115987,6 @@
     "archived": false
   },
   {
-    "id": "eyaushev/swagger-testcase-mcp",
-    "name": "swagger-testcase-mcp",
-    "description": "MCP server for API testing: generates test cases, validates specs, compares versions, and creates mock data from Swagger/OpenAPI specifications",
-    "descriptionZh": "MCP 服务器用于 API 测试：基于 Swagger/OpenAPI 规范生成测试用例、验证接口、对比版本并创建模拟数据。",
-    "url": "https://github.com/eyaushev/swagger-testcase-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 1,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "docs",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g swagger-testcase-mcp",
-    "lastCommit": "2026-04-13T16:12:10Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:57.796Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "jungle-grid/mcp-server",
     "name": "mcp-server",
     "description": "MCP server for Jungle Grid lets agents submit, monitor, and retrieve logs from AI workloads.",
@@ -116246,30 +116050,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:12.945Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "muhannad-hash/git-context-mcp",
-    "name": "git-context-mcp",
-    "description": "MCP server that answers why code exists - git blame, PR descriptions, and linked issues",
-    "descriptionZh": "MCP 服务器，解释代码为何存在——集成 git blame、PR 描述与关联议题。",
-    "url": "https://github.com/muhannad-hash/git-context-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g git-context-mcp",
-    "lastCommit": "2026-04-13T12:27:20Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:14.441Z",
     "featured": false,
     "archived": false
   },
@@ -134485,6 +134265,30 @@
     "archived": true
   },
   {
+    "id": "zihenghe04/ccdash",
+    "name": "CCDash",
+    "description": "Open-source unified usage dashboard for Claude — track tokens, quota, costs across Claude Code, claude.ai & API in one panel. 开源 Claude 全平台用量监控面板，聚合 Claude Code / claude.ai / API 数据，适用于 Pro/Max 订阅用户与开发者。https://dyp23yngrtumg.ok.kimi.link",
+    "descriptionZh": "开源 Claude 全平台用量监控面板，聚合 Claude Code、claude.ai 与 API 的令牌、配额与费用数据，适用于 Pro/Max 订阅用户与开发者。",
+    "url": "https://github.com/zihenghe04/CCDash",
+    "homepage": "https://dyp23yngrtumg.ok.kimi.link/",
+    "stars": 70,
+    "forks": 5,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/zihenghe04/CCDash.git",
+    "lastCommit": "2026-04-13T04:09:04Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-03T02:26:10.956Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "r-huijts/rijksmuseum-mcp",
     "name": "rijksmuseum-mcp",
     "description": "Rijksmuseum MCP integration for artwork exploration and analysis",
@@ -143578,6 +143382,30 @@
     "archived": false
   },
   {
+    "id": "gofireflyio/firefly-mcp",
+    "name": "firefly-mcp",
+    "description": "Firefly MCP",
+    "descriptionZh": "Firefly MCP 是一个开源框架，用于构建和管理多智能体协作系统，支持动态任务分配与高效通信。",
+    "url": "https://github.com/gofireflyio/firefly-mcp",
+    "homepage": null,
+    "stars": 16,
+    "forks": 11,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx @fireflyai/firefly-mcp",
+    "lastCommit": "2026-04-13T07:22:40Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:59.167Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "btwiuse/npm-search-mcp-server",
     "name": "npm-search-mcp-server",
     "description": "MCP server for searching npm packages",
@@ -145007,6 +144835,32 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:09.649Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "ctxlint/ctxlint",
+    "name": "Ctxlint",
+    "description": "Ctxlint",
+    "descriptionZh": "Ctxlint：一款用于检查 Go 语言中 context.Context 传递合规性的静态分析工具，确保 context 被正确传递。",
+    "url": "https://github.com/ctxlint/Ctxlint",
+    "homepage": "https://www.npmjs.com/package/@ctxlint/ctxlint",
+    "stars": 10,
+    "forks": 2,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx @ctxlint/ctxlint check",
+    "lastCommit": "2026-04-13T22:04:46Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-03T02:26:12.414Z",
     "featured": false,
     "archived": false
   },
@@ -148923,6 +148777,38 @@
     "archived": false
   },
   {
+    "id": "gpartin/waveguardclient",
+    "name": "WaveGuardClient",
+    "description": "Python SDK for WaveGuard  physics-based anomaly detection API. One call. Any data.",
+    "descriptionZh": "WaveGuard物理异常检测API的Python SDK，一次调用，任意数据。",
+    "url": "https://github.com/gpartin/WaveGuardClient",
+    "homepage": null,
+    "stars": 4,
+    "forks": 1,
+    "topics": [
+      "anomaly-detection",
+      "azure-migration",
+      "gpu",
+      "machine-learning",
+      "mcp-server",
+      "python",
+      "sdk"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install WaveGuardClient scikit-learn",
+    "lastCommit": "2026-04-13T16:50:53Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:44.092Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "nyxtoolsdev/dicom-hl7-mcp-server",
     "name": "dicom-hl7-mcp-server",
     "description": "DICOM/HL7 healthcare interoperability MCP server for Claude",
@@ -150044,6 +149930,70 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.620Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "mikusnuz/cws-mcp",
+    "name": "cws-mcp",
+    "description": "MCP server for Chrome Web Store — upload, publish, status, metadata & Playwright-based UI automation",
+    "descriptionZh": "Chrome 网上应用店 MCP 服务器，支持上传、发布、状态查询、元数据管理及基于 Playwright 的 UI 自动化。",
+    "url": "https://github.com/mikusnuz/cws-mcp",
+    "homepage": null,
+    "stars": 3,
+    "forks": 1,
+    "topics": [
+      "ai-tools",
+      "browser-extension",
+      "chrome-extension",
+      "chrome-web-store",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "curl -X POST https://oauth2.googleapis.com/token \\",
+    "lastCommit": "2026-04-13T19:52:46Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:46.175Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "andrewschreiber/desktopinsights-mcp",
+    "name": "desktopinsights-mcp",
+    "description": "MCP server for desktopinsights.com",
+    "descriptionZh": "桌面洞察MCP服务器，提供桌面使用数据、应用统计和系统信息的API接口。",
+    "url": "https://github.com/andrewschreiber/desktopinsights-mcp",
+    "homepage": "https://desktopinsights.com",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "desktop",
+      "desktop-app",
+      "electron",
+      "electronjs",
+      "enrichment",
+      "technographics"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-04-13T18:12:01Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:48.586Z",
     "featured": false,
     "archived": false
   },
@@ -151426,6 +151376,56 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "eyaushev/swagger-testcase-mcp",
+    "name": "swagger-testcase-mcp",
+    "description": "MCP server for API testing: generates test cases, validates specs, compares versions, and creates mock data from Swagger/OpenAPI specifications",
+    "descriptionZh": "MCP 服务器用于 API 测试：基于 Swagger/OpenAPI 规范生成测试用例、验证接口、对比版本并创建模拟数据。",
+    "url": "https://github.com/eyaushev/swagger-testcase-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "docs",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g swagger-testcase-mcp",
+    "lastCommit": "2026-04-13T16:12:10Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:57.796Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "muhannad-hash/git-context-mcp",
+    "name": "git-context-mcp",
+    "description": "MCP server that answers why code exists - git blame, PR descriptions, and linked issues",
+    "descriptionZh": "MCP 服务器，解释代码为何存在——集成 git blame、PR 描述与关联议题。",
+    "url": "https://github.com/muhannad-hash/git-context-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g git-context-mcp",
+    "lastCommit": "2026-04-13T12:27:20Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:14.441Z",
     "featured": false,
     "archived": false
   },
