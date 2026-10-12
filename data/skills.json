@@ -113245,36 +113245,6 @@
     "archived": false
   },
   {
-    "id": "wuye-ai/mcp-server-wuye-ai",
-    "name": "mcp-server-wuye-ai",
-    "description": "CRIC物业AI MCP Server",
-    "descriptionZh": "CRIC物业AI MCP Server：为CRIC物业系统提供AI驱动的MCP服务，支持智能物业管理和数据分析。",
-    "url": "https://github.com/wuye-ai/mcp-server-wuye-ai",
-    "homepage": null,
-    "stars": 4,
-    "forks": 3,
-    "topics": [
-      "mcp-server",
-      "mcp",
-      "property-management",
-      "ai",
-      "agent"
-    ],
-    "language": null,
-    "category": "ai-ml",
-    "platforms": [
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": "npx -y @modelcontextprotocol/inspector",
-    "lastCommit": "2026-04-14T09:38:19Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:38.430Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "firesh/sslmon-mcp",
     "name": "sslmon-mcp",
     "description": "MCP for Domain & SSL cert expire date check",
@@ -114462,42 +114432,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:42.872Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "mvtandas/wp-cli-mcp",
-    "name": "wp-cli-mcp",
-    "description": "MCP server that gives AI tools full WordPress management via WP-CLI — 30+ tools for themes, plugins, posts, menus, users, database, and scaffolding",
-    "descriptionZh": "基于 WP-CLI 的 MCP 服务器，为 AI 提供 30 多种 WordPress 管理工具，涵盖主题、插件、文章、菜单、用户、数据库及脚手架。",
-    "url": "https://github.com/mvtandas/wp-cli-mcp",
-    "homepage": null,
-    "stars": 3,
-    "forks": 1,
-    "topics": [
-      "ai",
-      "claude-code",
-      "cursor",
-      "gutenberg",
-      "mcp",
-      "model-context-protocol",
-      "php",
-      "woocommerce",
-      "wordpress",
-      "wp-cli"
-    ],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g wp-cli-mcp",
-    "lastCommit": "2026-04-14T14:30:46Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:43.834Z",
     "featured": false,
     "archived": false
   },
@@ -125829,30 +125763,6 @@
     "commits30d": 3,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:41.369Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "vimalk78/dictate",
-    "name": "dictate",
-    "description": "Talk to Claude Code instead of typing — on Linux. Local voice-to-text using Whisper, no cloud, no API keys.",
-    "descriptionZh": "在Linux上对Claude Code语音输入，使用Whisper本地语音转文字，无需云端或API密钥。",
-    "url": "https://github.com/vimalk78/dictate",
-    "homepage": null,
-    "stars": 14,
-    "forks": 1,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-14T20:34:06Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-03T02:26:02.510Z",
     "featured": false,
     "archived": false
   },
@@ -148777,6 +148687,36 @@
     "archived": false
   },
   {
+    "id": "wuye-ai/mcp-server-wuye-ai",
+    "name": "mcp-server-wuye-ai",
+    "description": "CRIC物业AI MCP Server",
+    "descriptionZh": "CRIC物业AI MCP Server：为CRIC物业系统提供AI驱动的MCP服务，支持智能物业管理和数据分析。",
+    "url": "https://github.com/wuye-ai/mcp-server-wuye-ai",
+    "homepage": null,
+    "stars": 4,
+    "forks": 3,
+    "topics": [
+      "mcp-server",
+      "mcp",
+      "property-management",
+      "ai",
+      "agent"
+    ],
+    "language": null,
+    "category": "ai-ml",
+    "platforms": [
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": "npx -y @modelcontextprotocol/inspector",
+    "lastCommit": "2026-04-14T09:38:19Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:38.430Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "gpartin/waveguardclient",
     "name": "WaveGuardClient",
     "description": "Python SDK for WaveGuard  physics-based anomaly detection API. One call. Any data.",
@@ -149930,6 +149870,42 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.620Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "mvtandas/wp-cli-mcp",
+    "name": "wp-cli-mcp",
+    "description": "MCP server that gives AI tools full WordPress management via WP-CLI — 30+ tools for themes, plugins, posts, menus, users, database, and scaffolding",
+    "descriptionZh": "基于 WP-CLI 的 MCP 服务器，为 AI 提供 30 多种 WordPress 管理工具，涵盖主题、插件、文章、菜单、用户、数据库及脚手架。",
+    "url": "https://github.com/mvtandas/wp-cli-mcp",
+    "homepage": null,
+    "stars": 3,
+    "forks": 1,
+    "topics": [
+      "ai",
+      "claude-code",
+      "cursor",
+      "gutenberg",
+      "mcp",
+      "model-context-protocol",
+      "php",
+      "woocommerce",
+      "wordpress",
+      "wp-cli"
+    ],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g wp-cli-mcp",
+    "lastCommit": "2026-04-14T14:30:46Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:43.834Z",
     "featured": false,
     "archived": false
   },
@@ -159753,6 +159729,30 @@
     "firstSeen": "2026-06-30T13:17:16.321Z",
     "featured": false,
     "archived": true
+  },
+  {
+    "id": "vimalk78/dictate",
+    "name": "dictate",
+    "description": "Talk to Claude Code instead of typing — on Linux. Local voice-to-text using Whisper, no cloud, no API keys.",
+    "descriptionZh": "在Linux上对Claude Code语音输入，使用Whisper本地语音转文字，无需云端或API密钥。",
+    "url": "https://github.com/vimalk78/dictate",
+    "homepage": null,
+    "stars": 14,
+    "forks": 1,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-14T20:34:06Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-03T02:26:02.510Z",
+    "featured": false,
+    "archived": false
   },
   {
     "id": "rohanrav/screeny",
