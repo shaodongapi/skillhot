@@ -105980,30 +105980,6 @@
     "archived": false
   },
   {
-    "id": "mbrummerstedt/powerbi-analyst-mcp",
-    "name": "powerbi-analyst-mcp",
-    "description": "This repo is a local mcp server made for connecting Power BI to your llm for analysis purposes",
-    "descriptionZh": "为连接 Power BI 与 LLM 实现分析功能而构建的本地 MCP 服务器。",
-    "url": "https://github.com/mbrummerstedt/powerbi-analyst-mcp",
-    "homepage": null,
-    "stars": 13,
-    "forks": 3,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": "pip install powerbi-analyst-mcp",
-    "lastCommit": "2026-04-15T14:37:46Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:38.433Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "carloshpdoc/memorydetective",
     "name": "memorydetective",
     "description": "MCP server for iOS leak hunting and performance investigation. 28 MCP tools, 34-pattern retain-cycle classifier with Swift fixTemplate snippets, compareTracesByPattern for CI gating, SourceKit-LSP source bridging. Reads .memgraph and .trace files; macOS only.",
@@ -120259,30 +120235,6 @@
     "archived": false
   },
   {
-    "id": "vdalhambra/axiom-calculator-mcp",
-    "name": "axiom-calculator-mcp",
-    "description": "Personal finance calculators for Claude and AI agents — mortgage, compound interest, FIRE, loan comparison, debt payoff. Zero API keys.",
-    "descriptionZh": "个人理财计算器，支持房贷、复利、FIRE、贷款对比与债务偿还，专为Claude及AI代理设计，无需API密钥。",
-    "url": "https://github.com/vdalhambra/axiom-calculator-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "uvx axiom-calculator-mcp",
-    "lastCommit": "2026-04-15T23:08:51Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:04.636Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "cuthongthai-vn/vimo-mcp-server",
     "name": "vimo-mcp-server",
     "description": "VIMO — Vietnam Financial Intelligence",
@@ -125624,31 +125576,6 @@
     "commits30d": 3,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:45.431Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "campertunity/mcp-server",
-    "name": "mcp-server",
-    "description": "mcp-server",
-    "descriptionZh": "基于 Model Context Protocol 的服务器实现，提供标准化接口以连接 AI 模型与外部工具、数据源。",
-    "url": "https://github.com/campertunity/mcp-server",
-    "homepage": null,
-    "stars": 16,
-    "forks": 4,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-15T04:22:05Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:37.419Z",
     "featured": false,
     "archived": false
   },
@@ -143852,6 +143779,30 @@
     "archived": false
   },
   {
+    "id": "mbrummerstedt/powerbi-analyst-mcp",
+    "name": "powerbi-analyst-mcp",
+    "description": "This repo is a local mcp server made for connecting Power BI to your llm for analysis purposes",
+    "descriptionZh": "为连接 Power BI 与 LLM 实现分析功能而构建的本地 MCP 服务器。",
+    "url": "https://github.com/mbrummerstedt/powerbi-analyst-mcp",
+    "homepage": null,
+    "stars": 13,
+    "forks": 3,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": "pip install powerbi-analyst-mcp",
+    "lastCommit": "2026-04-15T14:37:46Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:38.433Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "ratnaditya-j/csvglow",
     "name": "csvglow",
     "description": "Generate beautiful interactive HTML dashboards from CSV/Excel files",
@@ -154135,6 +154086,30 @@
     "archived": false
   },
   {
+    "id": "vdalhambra/axiom-calculator-mcp",
+    "name": "axiom-calculator-mcp",
+    "description": "Personal finance calculators for Claude and AI agents — mortgage, compound interest, FIRE, loan comparison, debt payoff. Zero API keys.",
+    "descriptionZh": "个人理财计算器，支持房贷、复利、FIRE、贷款对比与债务偿还，专为Claude及AI代理设计，无需API密钥。",
+    "url": "https://github.com/vdalhambra/axiom-calculator-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "uvx axiom-calculator-mcp",
+    "lastCommit": "2026-04-15T23:08:51Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:04.636Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "autonsol/sol-mcp",
     "name": "sol-mcp",
     "description": "MCP server for Solana token risk scoring and momentum signals",
@@ -159644,6 +159619,31 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:01.424Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "campertunity/mcp-server",
+    "name": "mcp-server",
+    "description": "mcp-server",
+    "descriptionZh": "基于 Model Context Protocol 的服务器实现，提供标准化接口以连接 AI 模型与外部工具、数据源。",
+    "url": "https://github.com/campertunity/mcp-server",
+    "homepage": null,
+    "stars": 16,
+    "forks": 4,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-15T04:22:05Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:37.419Z",
     "featured": false,
     "archived": false
   },
