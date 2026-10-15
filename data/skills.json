@@ -105655,44 +105655,6 @@
     "archived": false
   },
   {
-    "id": "pcdck/ozon-mcp",
-    "name": "ozon-mcp",
-    "description": "MCP-сервер для Ozon Seller API и Performance API — подключите любого AI-агента к кабинету продавца",
-    "descriptionZh": "MCP-сервер для Ozon Seller API 和 Performance API，可将任意 AI 代理连接到卖家后台。",
-    "url": "https://github.com/PCDCK/ozon-mcp",
-    "homepage": "https://github.com/PCDCK/ozon-mcp",
-    "stars": 14,
-    "forks": 4,
-    "topics": [
-      "ai-agent",
-      "claude",
-      "ecommerce",
-      "fastmcp",
-      "mcp",
-      "mcp-server",
-      "ozon",
-      "ozon-api",
-      "python",
-      "seller-api"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/PCDCK/ozon-mcp.git",
-    "lastCommit": "2026-04-17T13:43:23Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:51.906Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "anirbanbasu/frankfurtermcp",
     "name": "frankfurtermcp",
     "description": "A MCP server for the Frankfurter API for currency exchange rates.",
@@ -120132,40 +120094,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:05.569Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "bolivian-peru/baozi-mcp",
-    "name": "baozi-mcp",
-    "description": "MCP server for Baozi prediction markets on Solana - 68 tools for AI agents",
-    "descriptionZh": "为Solana上Baozi预测市场设计的MCP服务器，提供68个AI代理工具。",
-    "url": "https://github.com/bolivian-peru/baozi-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 3,
-    "topics": [
-      "ai-agent",
-      "claude",
-      "defi",
-      "mcp",
-      "model-context-protocol",
-      "prediction-markets",
-      "solana"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g @baozi.bet/mcp-server",
-    "lastCommit": "2026-04-17T22:20:50Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:05.628Z",
     "featured": false,
     "archived": false
   },
@@ -143494,6 +143422,44 @@
     "archived": false
   },
   {
+    "id": "pcdck/ozon-mcp",
+    "name": "ozon-mcp",
+    "description": "MCP-сервер для Ozon Seller API и Performance API — подключите любого AI-агента к кабинету продавца",
+    "descriptionZh": "MCP-сервер для Ozon Seller API 和 Performance API，可将任意 AI 代理连接到卖家后台。",
+    "url": "https://github.com/PCDCK/ozon-mcp",
+    "homepage": "https://github.com/PCDCK/ozon-mcp",
+    "stars": 14,
+    "forks": 4,
+    "topics": [
+      "ai-agent",
+      "claude",
+      "ecommerce",
+      "fastmcp",
+      "mcp",
+      "mcp-server",
+      "ozon",
+      "ozon-api",
+      "python",
+      "seller-api"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/PCDCK/ozon-mcp.git",
+    "lastCommit": "2026-04-17T13:43:23Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:51.906Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "archai-labs/fastmcp-sonarqube-metrics",
     "name": "fastmcp-sonarqube-metrics",
     "description": "Chat with your SonarQube data: explore metrics, compare trends, and track issues—effortlessly.",
@@ -154040,6 +154006,40 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "bolivian-peru/baozi-mcp",
+    "name": "baozi-mcp",
+    "description": "MCP server for Baozi prediction markets on Solana - 68 tools for AI agents",
+    "descriptionZh": "为Solana上Baozi预测市场设计的MCP服务器，提供68个AI代理工具。",
+    "url": "https://github.com/bolivian-peru/baozi-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 3,
+    "topics": [
+      "ai-agent",
+      "claude",
+      "defi",
+      "mcp",
+      "model-context-protocol",
+      "prediction-markets",
+      "solana"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g @baozi.bet/mcp-server",
+    "lastCommit": "2026-04-17T22:20:50Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:05.628Z",
     "featured": false,
     "archived": false
   },
