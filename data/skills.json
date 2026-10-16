@@ -84458,42 +84458,6 @@
     "archived": false
   },
   {
-    "id": "glacierphonk/naming",
-    "name": "naming",
-    "description": "Claude Code skill for naming products, SaaS, and brands. Metaphor-driven naming that avoids AI slop.",
-    "descriptionZh": "为产品、SaaS和品牌命名的Claude Code技能，使用隐喻驱动，避免AI式平庸命名。",
-    "url": "https://github.com/glacierphonk/naming",
-    "homepage": null,
-    "stars": 60,
-    "forks": 9,
-    "topics": [
-      "ai-skill",
-      "branding",
-      "claude",
-      "claude-code",
-      "markdown",
-      "metaphor",
-      "naming",
-      "naming-conventions",
-      "open-source",
-      "brand-naming",
-      "product-naming"
-    ],
-    "language": "Shell",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx markdownlint-cli2 '**/*.md'",
-    "lastCommit": "2026-04-19T02:05:51Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-03T02:26:05.328Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "djerok/glm-mcp",
     "name": "glm-mcp",
     "description": "GLM (Zhipu/Z.ai) as a cheap, full-capability subagent for the Claude Code app — works on a subscription Claude (no API key for the main agent), auto-routes between Opus and GLM, file-editing agent with diff/dry-run/git-revert, one-command npx install.",
@@ -128636,36 +128600,6 @@
     "archived": false
   },
   {
-    "id": "grahamrowe82/pt-edge",
-    "name": "pt-edge",
-    "description": "Precomputed reasoning cache for AI infrastructure decisions — 220K+ pages tracking the open-source AI ecosystem",
-    "descriptionZh": "为 AI 基础设施决策提供预计算推理缓存，追踪 22 万页以上开源 AI 生态系统。",
-    "url": "https://github.com/grahamrowe82/pt-edge",
-    "homepage": null,
-    "stars": 6,
-    "forks": 1,
-    "topics": [
-      "ai",
-      "developer-tools",
-      "mcp",
-      "mcp-server",
-      "open-source"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-18T07:42:00Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:20.738Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "horw/esp-mcp",
     "name": "esp-mcp",
     "description": "Centralize ESP32 related commands and simplify getting started with seamless, LLM-driven interaction and help.",
@@ -134249,6 +134183,42 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:06.714Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "glacierphonk/naming",
+    "name": "naming",
+    "description": "Claude Code skill for naming products, SaaS, and brands. Metaphor-driven naming that avoids AI slop.",
+    "descriptionZh": "为产品、SaaS和品牌命名的Claude Code技能，使用隐喻驱动，避免AI式平庸命名。",
+    "url": "https://github.com/glacierphonk/naming",
+    "homepage": null,
+    "stars": 60,
+    "forks": 9,
+    "topics": [
+      "ai-skill",
+      "branding",
+      "claude",
+      "claude-code",
+      "markdown",
+      "metaphor",
+      "naming",
+      "naming-conventions",
+      "open-source",
+      "brand-naming",
+      "product-naming"
+    ],
+    "language": "Shell",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx markdownlint-cli2 '**/*.md'",
+    "lastCommit": "2026-04-19T02:05:51Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-03T02:26:05.328Z",
     "featured": false,
     "archived": false
   },
@@ -161171,6 +161141,36 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:26.002Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "grahamrowe82/pt-edge",
+    "name": "pt-edge",
+    "description": "Precomputed reasoning cache for AI infrastructure decisions — 220K+ pages tracking the open-source AI ecosystem",
+    "descriptionZh": "为 AI 基础设施决策提供预计算推理缓存，追踪 22 万页以上开源 AI 生态系统。",
+    "url": "https://github.com/grahamrowe82/pt-edge",
+    "homepage": null,
+    "stars": 6,
+    "forks": 1,
+    "topics": [
+      "ai",
+      "developer-tools",
+      "mcp",
+      "mcp-server",
+      "open-source"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-18T07:42:00Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:20.738Z",
     "featured": false,
     "archived": false
   },
