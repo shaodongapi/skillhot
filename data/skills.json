@@ -50147,33 +50147,6 @@
     "archived": false
   },
   {
-    "id": "freepeak/db-mcp-server",
-    "name": "db-mcp-server",
-    "description": "A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases.",
-    "descriptionZh": "基于模型上下文协议（MCP）的多数据库服务器，为AI助手提供结构化数据库访问能力。",
-    "url": "https://github.com/FreePeak/db-mcp-server",
-    "homepage": null,
-    "stars": 407,
-    "forks": 67,
-    "topics": [
-      "mcp-server",
-      "database-mcp-server"
-    ],
-    "language": "Go",
-    "category": "data",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-19T05:44:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:22.311Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mozilla/firefox-devtools-mcp",
     "name": "firefox-devtools-mcp",
     "description": "Model Context Protocol server for Firefox DevTools - enables AI assistants to inspect and control Firefox browser through the Remote Debugging Protocol",
@@ -66217,6 +66190,33 @@
     "commits30d": 29,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-17T02:14:20.650Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "freepeak/db-mcp-server",
+    "name": "db-mcp-server",
+    "description": "A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases.",
+    "descriptionZh": "基于模型上下文协议（MCP）的多数据库服务器，为AI助手提供结构化数据库访问能力。",
+    "url": "https://github.com/FreePeak/db-mcp-server",
+    "homepage": null,
+    "stars": 407,
+    "forks": 67,
+    "topics": [
+      "mcp-server",
+      "database-mcp-server"
+    ],
+    "language": "Go",
+    "category": "data",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-19T05:44:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:22.311Z",
     "featured": false,
     "archived": false
   },
@@ -115675,41 +115675,6 @@
     "archived": false
   },
   {
-    "id": "meacheal-ai/mrc-data",
-    "name": "mrc-data",
-    "description": "China's apparel supply chain data infrastructure for AI agents — 3,000+ verified suppliers, 350+ lab-tested fabrics, 170+ industrial clusters. MCP + REST + OpenAPI.",
-    "descriptionZh": "中国服装供应链AI数据基础设施：3000+认证供应商、350+实验室检测面料、170+产业集群。支持MCP、REST、OpenAPI。",
-    "url": "https://github.com/meacheal-ai/mrc-data",
-    "homepage": "https://api.meacheal.ai",
-    "stars": 2,
-    "forks": 0,
-    "topics": [
-      "ai-agents",
-      "apparel",
-      "b2b",
-      "china",
-      "manufacturing",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "sourcing",
-      "supply-chain"
-    ],
-    "language": "Shell",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "claude mcp add --scope user --transport http mrc-data \\",
-    "lastCommit": "2026-04-19T13:21:40Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:38.368Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "paracetamol951/caisse-enregistreuse-mcp-server",
     "name": "caisse-enregistreuse-mcp-server",
     "description": "Kash.click MCP server [Official]",
@@ -116069,38 +116034,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:37.465Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "kkjdaniel/bgg-mcp",
-    "name": "bgg-mcp",
-    "description": "BGG MCP provides access to BoardGameGeek and a variety of board game related data through the Model Context Protocol. Enabling retrieval and filtering of board game data, user collections, and profiles.",
-    "descriptionZh": "通过模型上下文协议访问BoardGameGeek，支持检索和筛选桌游数据、用户收藏及个人资料。",
-    "url": "https://github.com/kkjdaniel/bgg-mcp",
-    "homepage": null,
-    "stars": 52,
-    "forks": 12,
-    "topics": [
-      "bgg",
-      "bgg-api",
-      "board-game",
-      "boardgames",
-      "boardgamegeek",
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "Go",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-19T22:40:25Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:03.877Z",
     "featured": false,
     "archived": false
   },
@@ -151197,6 +151130,73 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "meacheal-ai/mrc-data",
+    "name": "mrc-data",
+    "description": "China's apparel supply chain data infrastructure for AI agents — 3,000+ verified suppliers, 350+ lab-tested fabrics, 170+ industrial clusters. MCP + REST + OpenAPI.",
+    "descriptionZh": "中国服装供应链AI数据基础设施：3000+认证供应商、350+实验室检测面料、170+产业集群。支持MCP、REST、OpenAPI。",
+    "url": "https://github.com/meacheal-ai/mrc-data",
+    "homepage": "https://api.meacheal.ai",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "ai-agents",
+      "apparel",
+      "b2b",
+      "china",
+      "manufacturing",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "sourcing",
+      "supply-chain"
+    ],
+    "language": "Shell",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "claude mcp add --scope user --transport http mrc-data \\",
+    "lastCommit": "2026-04-19T13:21:40Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:38.368Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "kkjdaniel/bgg-mcp",
+    "name": "bgg-mcp",
+    "description": "BGG MCP provides access to BoardGameGeek and a variety of board game related data through the Model Context Protocol. Enabling retrieval and filtering of board game data, user collections, and profiles.",
+    "descriptionZh": "通过模型上下文协议访问BoardGameGeek，支持检索和筛选桌游数据、用户收藏及个人资料。",
+    "url": "https://github.com/kkjdaniel/bgg-mcp",
+    "homepage": null,
+    "stars": 52,
+    "forks": 12,
+    "topics": [
+      "bgg",
+      "bgg-api",
+      "board-game",
+      "boardgames",
+      "boardgamegeek",
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "Go",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-19T22:40:25Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:03.877Z",
     "featured": false,
     "archived": false
   },
