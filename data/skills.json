@@ -112349,42 +112349,6 @@
     "archived": false
   },
   {
-    "id": "josuem1109/personal-finance-mcp",
-    "name": "personal-finance-mcp",
-    "description": "Self-hosted, read-only MCP server for personal finance. Connect your banks via Plaid and query them from Claude Code.",
-    "descriptionZh": "自托管只读MCP个人财务服务器，通过Plaid连接银行，支持从Claude Code查询账户信息。",
-    "url": "https://github.com/JosueM1109/personal-finance-mcp",
-    "homepage": null,
-    "stars": 5,
-    "forks": 0,
-    "topics": [
-      "claude",
-      "claude-code",
-      "fastmcp",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "personal-finance",
-      "plaid",
-      "plaid-api",
-      "python",
-      "self-hosted"
-    ],
-    "language": "Python",
-    "category": "devops",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install -r requirements.txt",
-    "lastCommit": "2026-04-20T21:11:25Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:21.731Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "asicojp/claudecodenavi-mcp",
     "name": "claudecodenavi-mcp",
     "description": "ClaudeCodeNavi MCP Server - Claude Code knowledge platform & marketplace",
@@ -147932,6 +147896,42 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.679Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "josuem1109/personal-finance-mcp",
+    "name": "personal-finance-mcp",
+    "description": "Self-hosted, read-only MCP server for personal finance. Connect your banks via Plaid and query them from Claude Code.",
+    "descriptionZh": "自托管只读MCP个人财务服务器，通过Plaid连接银行，支持从Claude Code查询账户信息。",
+    "url": "https://github.com/JosueM1109/personal-finance-mcp",
+    "homepage": null,
+    "stars": 5,
+    "forks": 0,
+    "topics": [
+      "claude",
+      "claude-code",
+      "fastmcp",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "personal-finance",
+      "plaid",
+      "plaid-api",
+      "python",
+      "self-hosted"
+    ],
+    "language": "Python",
+    "category": "devops",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install -r requirements.txt",
+    "lastCommit": "2026-04-20T21:11:25Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:21.731Z",
     "featured": false,
     "archived": false
   },
