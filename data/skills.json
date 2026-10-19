@@ -23839,31 +23839,6 @@
     "archived": false
   },
   {
-    "id": "joshuayoes/ios-simulator-mcp",
-    "name": "ios-simulator-mcp",
-    "description": "MCP server for interacting with the iOS simulator",
-    "descriptionZh": "MCP 服务器，用于与 iOS 模拟器交互。",
-    "url": "https://github.com/joshuayoes/ios-simulator-mcp",
-    "homepage": null,
-    "stars": 2114,
-    "forks": 93,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "content",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-04-21T21:27:16Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:03.548Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "containers/kubernetes-mcp-server",
     "name": "kubernetes-mcp-server",
     "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
@@ -25946,6 +25921,31 @@
     "commits30d": 174,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-16T02:08:22.111Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "joshuayoes/ios-simulator-mcp",
+    "name": "ios-simulator-mcp",
+    "description": "MCP server for interacting with the iOS simulator",
+    "descriptionZh": "MCP 服务器，用于与 iOS 模拟器交互。",
+    "url": "https://github.com/joshuayoes/ios-simulator-mcp",
+    "homepage": null,
+    "stars": 2114,
+    "forks": 93,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "content",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-04-21T21:27:16Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:03.548Z",
     "featured": false,
     "archived": false
   },
@@ -101769,30 +101769,6 @@
     "archived": false
   },
   {
-    "id": "dolthub/dolt-mcp",
-    "name": "dolt-mcp",
-    "description": "The MCP server for Dolt",
-    "descriptionZh": "Dolt 的 MCP 服务器，支持通过 SQL 查询和修改数据库，管理分支、差异、日志等 Git 版本控制功能。",
-    "url": "https://github.com/dolthub/dolt-mcp",
-    "homepage": null,
-    "stars": 20,
-    "forks": 5,
-    "topics": [],
-    "language": "Go",
-    "category": "data",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/dolthub/dolt-mcp",
-    "lastCommit": "2026-04-21T22:50:39Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:07.689Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "open-strategy-partners/osp_marketing_tools",
     "name": "osp_marketing_tools",
     "description": "A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.",
@@ -108480,31 +108456,6 @@
     "archived": false
   },
   {
-    "id": "dushyant30suthar/endiagram-mcp",
-    "name": "endiagram-mcp",
-    "description": "MCP server for EN Diagram — structural analysis for any system. Install: npx @endiagram/mcp",
-    "descriptionZh": "EN Diagram 的 MCP 服务器，用于任意系统的结构分析。安装：npx @endiagram/mcp",
-    "url": "https://github.com/dushyant30suthar/endiagram-mcp",
-    "homepage": null,
-    "stars": 8,
-    "forks": 1,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx @endiagram/mcp",
-    "lastCommit": "2026-04-21T17:48:41Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:57.261Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "janaraj/tnl",
     "name": "tnl",
     "description": "Structured English contracts for AI coding agents — proposed by the agent, approved by you, saved on disk, read by every future session.",
@@ -109897,39 +109848,6 @@
     "commits30d": 1,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-29T14:28:12.771Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "leonardoca1/aesthetics-wiki-mcp",
-    "name": "aesthetics-wiki-mcp",
-    "description": "MCP server for the Aesthetics Wiki (aesthetics.fandom.com) — search, read, and discover aesthetics from your LLM.",
-    "descriptionZh": "为 Aesthetics Wiki 设计的 MCP 服务器，支持从 LLM 中搜索、阅读和发现美学内容。",
-    "url": "https://github.com/leonardoca1/aesthetics-wiki-mcp",
-    "homepage": null,
-    "stars": 6,
-    "forks": 0,
-    "topics": [
-      "aesthetics",
-      "claude",
-      "fandom",
-      "llm-tools",
-      "mcp",
-      "mediawiki",
-      "model-context-protocol",
-      "python"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx @modelcontextprotocol/inspector uv run aesthetics-wiki-mcp",
-    "lastCommit": "2026-04-21T09:37:48Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:12.565Z",
     "featured": false,
     "archived": false
   },
@@ -116368,30 +116286,6 @@
     "archived": false
   },
   {
-    "id": "doggychip/agentforge",
-    "name": "agentforge",
-    "description": "AgentForge — subscription marketplace for AI agents, tools & content. Built for developers and AI agents alike.",
-    "descriptionZh": "AgentForge：AI代理、工具与内容的订阅市场，专为开发者及AI代理打造。",
-    "url": "https://github.com/doggychip/agentforge",
-    "homepage": null,
-    "stars": 3,
-    "forks": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-04-21T17:13:00Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-29T14:28:00.698Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "farukkolip/xtapdown-mcp",
     "name": "xtapdown-mcp",
     "description": "XTapDown MCP Server — 14 X (Twitter) creator tools for Claude, ChatGPT, Gemini and any MCP client",
@@ -117983,30 +117877,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-28T02:07:52.009Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "8randonpickart5/alderpost-mcp",
-    "name": "alderpost-mcp",
-    "description": "alderpost-mcp",
-    "descriptionZh": "基于 Alder Lake 的 Intel 处理器微码补丁，修复稳定性问题，适用于 Linux 系统。",
-    "url": "https://github.com/8randonpickart5/alderpost-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "content",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx -y alderpost-mcp",
-    "lastCommit": "2026-04-21T20:23:36Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-29T14:27:54.237Z",
     "featured": false,
     "archived": false
   },
@@ -125263,40 +125133,6 @@
     "commits30d": 2,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:54.515Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "denismaggior8/enigma-python",
-    "name": "enigma-python",
-    "description": "A simple yet faithful library to emulate different Enigma machines models using Python",
-    "descriptionZh": "一个用Python模拟多种恩尼格玛密码机模型的简洁忠实库。",
-    "url": "https://github.com/denismaggior8/enigma-python",
-    "homepage": null,
-    "stars": 15,
-    "forks": 1,
-    "topics": [
-      "cryptography",
-      "enigma",
-      "enigma-machine",
-      "history",
-      "retrocomputing",
-      "world-war-2",
-      "wwii",
-      "crypto-museum",
-      "historical-ciphers"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-21T09:05:46Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:14.335Z",
     "featured": false,
     "archived": false
   },
@@ -141605,6 +141441,30 @@
     "archived": false
   },
   {
+    "id": "dolthub/dolt-mcp",
+    "name": "dolt-mcp",
+    "description": "The MCP server for Dolt",
+    "descriptionZh": "Dolt 的 MCP 服务器，支持通过 SQL 查询和修改数据库，管理分支、差异、日志等 Git 版本控制功能。",
+    "url": "https://github.com/dolthub/dolt-mcp",
+    "homepage": null,
+    "stars": 20,
+    "forks": 5,
+    "topics": [],
+    "language": "Go",
+    "category": "data",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/dolthub/dolt-mcp",
+    "lastCommit": "2026-04-21T22:50:39Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:07.689Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "openstack-kr/python-openstackmcp-server",
     "name": "python-openstackmcp-server",
     "description": "openstack mcp server",
@@ -145828,6 +145688,31 @@
     "archived": false
   },
   {
+    "id": "dushyant30suthar/endiagram-mcp",
+    "name": "endiagram-mcp",
+    "description": "MCP server for EN Diagram — structural analysis for any system. Install: npx @endiagram/mcp",
+    "descriptionZh": "EN Diagram 的 MCP 服务器，用于任意系统的结构分析。安装：npx @endiagram/mcp",
+    "url": "https://github.com/dushyant30suthar/endiagram-mcp",
+    "homepage": null,
+    "stars": 8,
+    "forks": 1,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx @endiagram/mcp",
+    "lastCommit": "2026-04-21T17:48:41Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:57.261Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "kevinswint/xcode-studio-mcp",
     "name": "xcode-studio-mcp",
     "description": "Unified MCP server for AI-assisted iOS development — build, deploy, screenshot, and interact with iOS Simulator from Claude Code, Cursor, or any MCP client",
@@ -147428,6 +147313,39 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:31.904Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "leonardoca1/aesthetics-wiki-mcp",
+    "name": "aesthetics-wiki-mcp",
+    "description": "MCP server for the Aesthetics Wiki (aesthetics.fandom.com) — search, read, and discover aesthetics from your LLM.",
+    "descriptionZh": "为 Aesthetics Wiki 设计的 MCP 服务器，支持从 LLM 中搜索、阅读和发现美学内容。",
+    "url": "https://github.com/leonardoca1/aesthetics-wiki-mcp",
+    "homepage": null,
+    "stars": 6,
+    "forks": 0,
+    "topics": [
+      "aesthetics",
+      "claude",
+      "fandom",
+      "llm-tools",
+      "mcp",
+      "mediawiki",
+      "model-context-protocol",
+      "python"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx @modelcontextprotocol/inspector uv run aesthetics-wiki-mcp",
+    "lastCommit": "2026-04-21T09:37:48Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:12.565Z",
     "featured": false,
     "archived": false
   },
@@ -152767,6 +152685,30 @@
     "archived": false
   },
   {
+    "id": "doggychip/agentforge",
+    "name": "agentforge",
+    "description": "AgentForge — subscription marketplace for AI agents, tools & content. Built for developers and AI agents alike.",
+    "descriptionZh": "AgentForge：AI代理、工具与内容的订阅市场，专为开发者及AI代理打造。",
+    "url": "https://github.com/doggychip/agentforge",
+    "homepage": null,
+    "stars": 3,
+    "forks": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-04-21T17:13:00Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-29T14:28:00.698Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "trade-it-inc/trade-it-mcp",
     "name": "trade-it-mcp",
     "description": "Guide to connect to Trade It's MCP server and trade stocks, crypto, and options",
@@ -153976,6 +153918,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "8randonpickart5/alderpost-mcp",
+    "name": "alderpost-mcp",
+    "description": "alderpost-mcp",
+    "descriptionZh": "基于 Alder Lake 的 Intel 处理器微码补丁，修复稳定性问题，适用于 Linux 系统。",
+    "url": "https://github.com/8randonpickart5/alderpost-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "content",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx -y alderpost-mcp",
+    "lastCommit": "2026-04-21T20:23:36Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-29T14:27:54.237Z",
     "featured": false,
     "archived": false
   },
@@ -159650,6 +159616,40 @@
     "firstSeen": "2026-06-30T13:17:08.411Z",
     "featured": false,
     "archived": true
+  },
+  {
+    "id": "denismaggior8/enigma-python",
+    "name": "enigma-python",
+    "description": "A simple yet faithful library to emulate different Enigma machines models using Python",
+    "descriptionZh": "一个用Python模拟多种恩尼格玛密码机模型的简洁忠实库。",
+    "url": "https://github.com/denismaggior8/enigma-python",
+    "homepage": null,
+    "stars": 15,
+    "forks": 1,
+    "topics": [
+      "cryptography",
+      "enigma",
+      "enigma-machine",
+      "history",
+      "retrocomputing",
+      "world-war-2",
+      "wwii",
+      "crypto-museum",
+      "historical-ciphers"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-21T09:05:46Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:14.335Z",
+    "featured": false,
+    "archived": false
   },
   {
     "id": "arifszn/reminder-mcp",
