@@ -89980,30 +89980,6 @@
     "archived": false
   },
   {
-    "id": "arpitbatra123/mcp-googletasks",
-    "name": "mcp-googletasks",
-    "description": "This Model Context Protocol (MCP) server provides a bridge between LLMs and Google Tasks, allowing you to manage your task lists and tasks directly through Claude.",
-    "descriptionZh": "基于模型上下文协议（MCP）的服务器，连接大语言模型与Google Tasks，支持通过Claude直接管理任务列表和任务。",
-    "url": "https://github.com/arpitbatra123/mcp-googletasks",
-    "homepage": null,
-    "stars": 47,
-    "forks": 20,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-04-22T17:04:54Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:59.780Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "gannonh/firebase-mcp",
     "name": "firebase-mcp",
     "description": "🔥 Model Context Protocol (MCP) server for Firebase.",
@@ -118489,37 +118465,6 @@
     "archived": false
   },
   {
-    "id": "sirgreed808/zoho-mail-mcp",
-    "name": "zoho-mail-mcp",
-    "description": "MCP server for Zoho Mail — read, search, and send email via Claude",
-    "descriptionZh": "MCP 服务器对接 Zoho Mail，支持通过 Claude 读取、搜索和发送邮件。",
-    "url": "https://github.com/SirGreed808/zoho-mail-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "claude",
-      "email",
-      "mcp",
-      "model-context-protocol",
-      "zoho",
-      "zoho-mail"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-04-22T22:56:34Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:15:11.291Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mahanuj/mcp-multi-db",
     "name": "mcp-multi-db",
     "description": "Read-only MCP server for querying PostgreSQL, MySQL, and SQLite from AI agents — multi-database, safe by default.",
@@ -135446,6 +135391,30 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-04T02:23:32.242Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "arpitbatra123/mcp-googletasks",
+    "name": "mcp-googletasks",
+    "description": "This Model Context Protocol (MCP) server provides a bridge between LLMs and Google Tasks, allowing you to manage your task lists and tasks directly through Claude.",
+    "descriptionZh": "基于模型上下文协议（MCP）的服务器，连接大语言模型与Google Tasks，支持通过Claude直接管理任务列表和任务。",
+    "url": "https://github.com/arpitbatra123/mcp-googletasks",
+    "homepage": null,
+    "stars": 47,
+    "forks": 20,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-04-22T17:04:54Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:59.780Z",
     "featured": false,
     "archived": false
   },
@@ -153918,6 +153887,37 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "sirgreed808/zoho-mail-mcp",
+    "name": "zoho-mail-mcp",
+    "description": "MCP server for Zoho Mail — read, search, and send email via Claude",
+    "descriptionZh": "MCP 服务器对接 Zoho Mail，支持通过 Claude 读取、搜索和发送邮件。",
+    "url": "https://github.com/SirGreed808/zoho-mail-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "claude",
+      "email",
+      "mcp",
+      "model-context-protocol",
+      "zoho",
+      "zoho-mail"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-04-22T22:56:34Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:15:11.291Z",
     "featured": false,
     "archived": false
   },
