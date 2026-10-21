@@ -85384,42 +85384,6 @@
     "archived": false
   },
   {
-    "id": "crawlbase/crawlbase-mcp",
-    "name": "crawlbase-mcp",
-    "description": "Crawlbase MCP Server connects AI agents and LLMs with real-time web data. It powers Claude, Cursor, and Windsurf integrations with battle-tested web scraping, JavaScript rendering, and anti-bot protection enabling structured, live data inside your AI workflows.",
-    "descriptionZh": "Crawlbase MCP Server 连接 AI 智能体与 LLM 至实时网络数据，支持 Claude、Cursor 和 Windsurf 集成，提供网页抓取、JavaScript 渲染及反爬保护，在 AI 工作流中获取结构化实时数据。",
-    "url": "https://github.com/crawlbase/crawlbase-mcp",
-    "homepage": "https://crawlbase.com",
-    "stars": 55,
-    "forks": 14,
-    "topics": [
-      "ai-agents",
-      "crawlbase",
-      "llm-integration",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "web-scraping",
-      "crawlbase-mcp",
-      "real-time-web-data"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-04-23T23:38:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:38.852Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "oceanbase/awesome-oceanbase-mcp",
     "name": "awesome-oceanbase-mcp",
     "description": "MCP Server for OceanBase database and its tools",
@@ -109900,31 +109864,6 @@
     "archived": false
   },
   {
-    "id": "skysqlinc/skysql-mcp",
-    "name": "skysql-mcp",
-    "description": "SkySQL MCP server and client repository.",
-    "descriptionZh": "SkySQL MCP 服务端与客户端仓库，支持通过 MCP 协议连接 SkySQL 数据库，提供 SQL 查询与数据交互功能。",
-    "url": "https://github.com/skysqlinc/skysql-mcp",
-    "homepage": null,
-    "stars": 6,
-    "forks": 4,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx @wong2/mcp-cli uv run python src/mcp-server/server.py",
-    "lastCommit": "2026-04-23T23:15:20Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:30.691Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "yannbrrd/simple_snowflake_mcp",
     "name": "simple_snowflake_mcp",
     "description": "simple_snowflake_mcp",
@@ -118265,31 +118204,6 @@
     "archived": false
   },
   {
-    "id": "woobox/hatchable-mcp",
-    "name": "hatchable-mcp",
-    "description": "Hosted full-stack app platform. Creates a Postgres database, deploys API functions, and serves static sites from any MCP client. OAuth 2.1 + PKCE with DCR; bearer fallback. Free tier.",
-    "descriptionZh": "全栈应用托管平台：创建Postgres数据库、部署API函数、从任意MCP客户端提供静态站点服务。支持OAuth 2.1+PKCE与DCR认证，提供Bearer回退方案。免费使用。",
-    "url": "https://github.com/Woobox/hatchable-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "claude mcp add --transport http hatchable https://hatchable.com/mcp",
-    "lastCommit": "2026-04-23T21:52:04Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:43.149Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "eliottreich/taskbounty-mcp-server",
     "name": "taskbounty-mcp-server",
     "description": "MCP server for TaskBounty. Post AI-fixable bug bounties or pick them up. Funded in USD via Stripe, paid in USDC, ETH, or BTC.",
@@ -121893,42 +121807,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-14T02:03:54.153Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "yiwenlu66/piloty",
-    "name": "PiloTY",
-    "description": "PiloTY: AI pilot for PTY operations via MCP - enables AI agents to control interactive terminals like a human",
-    "descriptionZh": "PiloTY：基于MCP的PTY操作AI驾驶助手，让AI代理像人类一样控制交互式终端。",
-    "url": "https://github.com/yiwenlu66/PiloTY",
-    "homepage": null,
-    "stars": 43,
-    "forks": 7,
-    "topics": [
-      "ai-agent",
-      "mcp",
-      "pty",
-      "shell",
-      "terminal",
-      "automation",
-      "cli",
-      "interactive",
-      "python",
-      "ssh"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-23T11:58:58Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:34.962Z",
     "featured": false,
     "archived": false
   },
@@ -134219,6 +134097,42 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:18.348Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "crawlbase/crawlbase-mcp",
+    "name": "crawlbase-mcp",
+    "description": "Crawlbase MCP Server connects AI agents and LLMs with real-time web data. It powers Claude, Cursor, and Windsurf integrations with battle-tested web scraping, JavaScript rendering, and anti-bot protection enabling structured, live data inside your AI workflows.",
+    "descriptionZh": "Crawlbase MCP Server 连接 AI 智能体与 LLM 至实时网络数据，支持 Claude、Cursor 和 Windsurf 集成，提供网页抓取、JavaScript 渲染及反爬保护，在 AI 工作流中获取结构化实时数据。",
+    "url": "https://github.com/crawlbase/crawlbase-mcp",
+    "homepage": "https://crawlbase.com",
+    "stars": 55,
+    "forks": 14,
+    "topics": [
+      "ai-agents",
+      "crawlbase",
+      "llm-integration",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "web-scraping",
+      "crawlbase-mcp",
+      "real-time-web-data"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-04-23T23:38:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:38.852Z",
     "featured": false,
     "archived": false
   },
@@ -147286,6 +147200,31 @@
     "archived": false
   },
   {
+    "id": "skysqlinc/skysql-mcp",
+    "name": "skysql-mcp",
+    "description": "SkySQL MCP server and client repository.",
+    "descriptionZh": "SkySQL MCP 服务端与客户端仓库，支持通过 MCP 协议连接 SkySQL 数据库，提供 SQL 查询与数据交互功能。",
+    "url": "https://github.com/skysqlinc/skysql-mcp",
+    "homepage": null,
+    "stars": 6,
+    "forks": 4,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx @wong2/mcp-cli uv run python src/mcp-server/server.py",
+    "lastCommit": "2026-04-23T23:15:20Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:30.691Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "leonardoca1/aesthetics-wiki-mcp",
     "name": "aesthetics-wiki-mcp",
     "description": "MCP server for the Aesthetics Wiki (aesthetics.fandom.com) — search, read, and discover aesthetics from your LLM.",
@@ -153891,6 +153830,31 @@
     "archived": false
   },
   {
+    "id": "woobox/hatchable-mcp",
+    "name": "hatchable-mcp",
+    "description": "Hosted full-stack app platform. Creates a Postgres database, deploys API functions, and serves static sites from any MCP client. OAuth 2.1 + PKCE with DCR; bearer fallback. Free tier.",
+    "descriptionZh": "全栈应用托管平台：创建Postgres数据库、部署API函数、从任意MCP客户端提供静态站点服务。支持OAuth 2.1+PKCE与DCR认证，提供Bearer回退方案。免费使用。",
+    "url": "https://github.com/Woobox/hatchable-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "claude mcp add --transport http hatchable https://hatchable.com/mcp",
+    "lastCommit": "2026-04-23T21:52:04Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:43.149Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "sirgreed808/zoho-mail-mcp",
     "name": "zoho-mail-mcp",
     "description": "MCP server for Zoho Mail — read, search, and send email via Claude",
@@ -156621,6 +156585,42 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:29.503Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "yiwenlu66/piloty",
+    "name": "PiloTY",
+    "description": "PiloTY: AI pilot for PTY operations via MCP - enables AI agents to control interactive terminals like a human",
+    "descriptionZh": "PiloTY：基于MCP的PTY操作AI驾驶助手，让AI代理像人类一样控制交互式终端。",
+    "url": "https://github.com/yiwenlu66/PiloTY",
+    "homepage": null,
+    "stars": 43,
+    "forks": 7,
+    "topics": [
+      "ai-agent",
+      "mcp",
+      "pty",
+      "shell",
+      "terminal",
+      "automation",
+      "cli",
+      "interactive",
+      "python",
+      "ssh"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-23T11:58:58Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:34.962Z",
     "featured": false,
     "archived": false
   },
