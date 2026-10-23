@@ -49910,40 +49910,6 @@
     "archived": false
   },
   {
-    "id": "saseq/discord-mcp",
-    "name": "discord-mcp",
-    "description": "A MCP server for the Discord integration. Enable your AI assistants to seamlessly interact with Discord. Enhance your Discord experience with powerful automation capabilities.",
-    "descriptionZh": "Discord 集成的 MCP 服务器，让 AI 助手无缝接入 Discord，实现强大的自动化交互功能。",
-    "url": "https://github.com/SaseQ/discord-mcp",
-    "homepage": null,
-    "stars": 424,
-    "forks": 91,
-    "topics": [
-      "ai",
-      "claude",
-      "discord",
-      "discord-bot",
-      "java",
-      "mcp",
-      "mcp-server",
-      "n8n",
-      "openclaw"
-    ],
-    "language": "Java",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-04-25T13:55:22Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:10.828Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "vivekvells/mcp-pandoc",
     "name": "mcp-pandoc",
     "description": "MCP server for document format conversion using pandoc.",
@@ -64066,6 +64032,40 @@
     "commits30d": 35,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:37.016Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "saseq/discord-mcp",
+    "name": "discord-mcp",
+    "description": "A MCP server for the Discord integration. Enable your AI assistants to seamlessly interact with Discord. Enhance your Discord experience with powerful automation capabilities.",
+    "descriptionZh": "Discord 集成的 MCP 服务器，让 AI 助手无缝接入 Discord，实现强大的自动化交互功能。",
+    "url": "https://github.com/SaseQ/discord-mcp",
+    "homepage": null,
+    "stars": 424,
+    "forks": 91,
+    "topics": [
+      "ai",
+      "claude",
+      "discord",
+      "discord-bot",
+      "java",
+      "mcp",
+      "mcp-server",
+      "n8n",
+      "openclaw"
+    ],
+    "language": "Java",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-04-25T13:55:22Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:10.828Z",
     "featured": false,
     "archived": false
   },
@@ -112763,30 +112763,6 @@
     "archived": false
   },
   {
-    "id": "firesh/sslmon-mcp",
-    "name": "sslmon-mcp",
-    "description": "MCP for Domain & SSL cert expire date check",
-    "descriptionZh": "MCP 用于域名和 SSL 证书到期日期检查。",
-    "url": "https://github.com/firesh/sslmon-mcp",
-    "homepage": null,
-    "stars": 4,
-    "forks": 4,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "claude mcp add -t http sslmon https://sslmon.dev/mcp",
-    "lastCommit": "2026-04-25T04:21:28Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:39.147Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "ocbenji/bitcoinbenji-mcp",
     "name": "bitcoinbenji-mcp",
     "description": "MCP server for the Bitcoin Benji API — Lightning-paid Bitcoin mempool intelligence + sovereign on-prem AI inference (L402). No third-party APIs.",
@@ -115316,35 +115292,6 @@
     "archived": false
   },
   {
-    "id": "paracetamol951/caisse-enregistreuse-mcp-server",
-    "name": "caisse-enregistreuse-mcp-server",
-    "description": "Kash.click MCP server [Official]",
-    "descriptionZh": "Kash.click MCP 官方服务器，用于集成和自动化加密货币交易操作。",
-    "url": "https://github.com/paracetamol951/caisse-enregistreuse-mcp-server",
-    "homepage": "https://kash.click",
-    "stars": 2,
-    "forks": 4,
-    "topics": [
-      "mcp",
-      "mcp-server",
-      "mcp-servers",
-      "pos"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx caisse-enregistreuse-mcp-server --shopid=YOUR_SHOPID --apikey=YOUR_APIKEY",
-    "lastCommit": "2026-04-25T11:56:56Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:38.960Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "jungle-grid/mcp-server",
     "name": "mcp-server",
     "description": "MCP server for Jungle Grid lets agents submit, monitor, and retrieve logs from AI workloads.",
@@ -115577,44 +115524,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:47.238Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "nalediym/touch-grass",
-    "name": "touch-grass",
-    "description": "A Claude Code plugin that teaches your AI agent to remind you to go outside. Weather-aware, sunset-aware, session-aware. Ships an MCP server + SessionStart hook + skill.",
-    "descriptionZh": "一个Claude Code插件，让AI提醒你出门活动。支持天气、日落和会话时长感知，包含MCP服务器、SessionStart钩子和技能。",
-    "url": "https://github.com/nalediym/touch-grass",
-    "homepage": "https://touch-grass-xi.vercel.app",
-    "stars": 2,
-    "forks": 1,
-    "topics": [
-      "ai-agent",
-      "break-reminder",
-      "claude-code",
-      "claude-code-hooks",
-      "claude-code-plugin",
-      "developer-wellness",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "pomodoro",
-      "touch-grass",
-      "coding-break"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx @modelcontextprotocol/inspector node ./index.mjs",
-    "lastCommit": "2026-04-26T02:41:38Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:53.087Z",
     "featured": false,
     "archived": false
   },
@@ -119179,33 +119088,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:04.151Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "cuthongthai-vn/vimo-mcp-server",
-    "name": "vimo-mcp-server",
-    "description": "VIMO — Vietnam Financial Intelligence",
-    "descriptionZh": "VIMO — 越南金融情报系统，提供市场数据分析与智能决策支持。",
-    "url": "https://github.com/cuthongthai-vn/vimo-mcp-server",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "claude config add-mcp vimo-financial-intel -- env VIMO_API_KEY=vimo_demo_public_readonly_2026 npx -y @vimo.cuthongthai.vn/mcp-server",
-    "lastCommit": "2026-04-25T03:39:34Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:05.569Z",
     "featured": false,
     "archived": false
   },
@@ -146192,6 +146074,30 @@
     "archived": false
   },
   {
+    "id": "firesh/sslmon-mcp",
+    "name": "sslmon-mcp",
+    "description": "MCP for Domain & SSL cert expire date check",
+    "descriptionZh": "MCP 用于域名和 SSL 证书到期日期检查。",
+    "url": "https://github.com/firesh/sslmon-mcp",
+    "homepage": null,
+    "stars": 4,
+    "forks": 4,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "claude mcp add -t http sslmon https://sslmon.dev/mcp",
+    "lastCommit": "2026-04-25T04:21:28Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:39.147Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "mastadoonprime/sylex-search",
     "name": "sylex-search",
     "description": "Universal search engine for AI agents. Discover products, services, and businesses across every category via MCP.",
@@ -148941,6 +148847,73 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "paracetamol951/caisse-enregistreuse-mcp-server",
+    "name": "caisse-enregistreuse-mcp-server",
+    "description": "Kash.click MCP server [Official]",
+    "descriptionZh": "Kash.click MCP 官方服务器，用于集成和自动化加密货币交易操作。",
+    "url": "https://github.com/paracetamol951/caisse-enregistreuse-mcp-server",
+    "homepage": "https://kash.click",
+    "stars": 2,
+    "forks": 4,
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "mcp-servers",
+      "pos"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx caisse-enregistreuse-mcp-server --shopid=YOUR_SHOPID --apikey=YOUR_APIKEY",
+    "lastCommit": "2026-04-25T11:56:56Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:38.960Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "nalediym/touch-grass",
+    "name": "touch-grass",
+    "description": "A Claude Code plugin that teaches your AI agent to remind you to go outside. Weather-aware, sunset-aware, session-aware. Ships an MCP server + SessionStart hook + skill.",
+    "descriptionZh": "一个Claude Code插件，让AI提醒你出门活动。支持天气、日落和会话时长感知，包含MCP服务器、SessionStart钩子和技能。",
+    "url": "https://github.com/nalediym/touch-grass",
+    "homepage": "https://touch-grass-xi.vercel.app",
+    "stars": 2,
+    "forks": 1,
+    "topics": [
+      "ai-agent",
+      "break-reminder",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugin",
+      "developer-wellness",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "pomodoro",
+      "touch-grass",
+      "coding-break"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx @modelcontextprotocol/inspector node ./index.mjs",
+    "lastCommit": "2026-04-26T02:41:38Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:53.087Z",
     "featured": false,
     "archived": false
   },
@@ -151912,6 +151885,33 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "cuthongthai-vn/vimo-mcp-server",
+    "name": "vimo-mcp-server",
+    "description": "VIMO — Vietnam Financial Intelligence",
+    "descriptionZh": "VIMO — 越南金融情报系统，提供市场数据分析与智能决策支持。",
+    "url": "https://github.com/cuthongthai-vn/vimo-mcp-server",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "claude config add-mcp vimo-financial-intel -- env VIMO_API_KEY=vimo_demo_public_readonly_2026 npx -y @vimo.cuthongthai.vn/mcp-server",
+    "lastCommit": "2026-04-25T03:39:34Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:05.569Z",
     "featured": false,
     "archived": false
   },
