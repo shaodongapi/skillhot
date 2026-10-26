@@ -110287,43 +110287,6 @@
     "archived": false
   },
   {
-    "id": "perspective-ai/mcp",
-    "name": "mcp",
-    "description": "MCP server for Perspective AI. An AI Concierge replaces static forms with adaptive AI conversations that understand real situations, structure key information automatically, and trigger the right next step.",
-    "descriptionZh": "MCP 服务器用于 Perspective AI。AI 管家用自适应对话替代静态表单，理解真实场景，自动整理关键信息，并触发下一步正确操作。",
-    "url": "https://github.com/Perspective-AI/mcp",
-    "homepage": "https://getperspective.ai/docs/build/mcp",
-    "stars": 5,
-    "forks": 0,
-    "topics": [
-      "analysis",
-      "concierge",
-      "conversational-ai",
-      "forms",
-      "interviews",
-      "mcp-server",
-      "survey",
-      "advocate",
-      "evaluator",
-      "interviewer",
-      "researcher"
-    ],
-    "language": "Shell",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-04-28T11:14:26Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:14.009Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "denismaggior8/enigma-python-mcp",
     "name": "enigma-python-mcp",
     "description": "An MCP (Model Context Protocol) server that brings the capabilities of the enigmapython library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators",
@@ -114404,30 +114367,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:18:31.151Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "jiayuanliang0716-max/arbitova",
-    "name": "Arbitova",
-    "description": "Arbitova — AI-powered trade arbitration platform. Neutral verdict engine for disputed transactions, with MCP server, TypeScript & Python SDKs.",
-    "descriptionZh": "Arbitova 是AI驱动的交易仲裁平台，为争议交易提供中立裁决引擎，支持MCP服务器及TypeScript与Python SDK。",
-    "url": "https://github.com/jiayuanliang0716-max/Arbitova",
-    "homepage": "https://arbitova.com",
-    "stars": 2,
-    "forks": 0,
-    "topics": [],
-    "language": "HTML",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install @arbitova/sdk ethers",
-    "lastCommit": "2026-04-28T06:54:52Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:59.895Z",
     "featured": false,
     "archived": false
   },
@@ -145472,6 +145411,43 @@
     "archived": false
   },
   {
+    "id": "perspective-ai/mcp",
+    "name": "mcp",
+    "description": "MCP server for Perspective AI. An AI Concierge replaces static forms with adaptive AI conversations that understand real situations, structure key information automatically, and trigger the right next step.",
+    "descriptionZh": "MCP 服务器用于 Perspective AI。AI 管家用自适应对话替代静态表单，理解真实场景，自动整理关键信息，并触发下一步正确操作。",
+    "url": "https://github.com/Perspective-AI/mcp",
+    "homepage": "https://getperspective.ai/docs/build/mcp",
+    "stars": 5,
+    "forks": 0,
+    "topics": [
+      "analysis",
+      "concierge",
+      "conversational-ai",
+      "forms",
+      "interviews",
+      "mcp-server",
+      "survey",
+      "advocate",
+      "evaluator",
+      "interviewer",
+      "researcher"
+    ],
+    "language": "Shell",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-04-28T11:14:26Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:14.009Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "josuem1109/personal-finance-mcp",
     "name": "personal-finance-mcp",
     "description": "Self-hosted, read-only MCP server for personal finance. Connect your banks via Plaid and query them from Claude Code.",
@@ -148810,6 +148786,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "jiayuanliang0716-max/arbitova",
+    "name": "Arbitova",
+    "description": "Arbitova — AI-powered trade arbitration platform. Neutral verdict engine for disputed transactions, with MCP server, TypeScript & Python SDKs.",
+    "descriptionZh": "Arbitova 是AI驱动的交易仲裁平台，为争议交易提供中立裁决引擎，支持MCP服务器及TypeScript与Python SDK。",
+    "url": "https://github.com/jiayuanliang0716-max/Arbitova",
+    "homepage": "https://arbitova.com",
+    "stars": 2,
+    "forks": 0,
+    "topics": [],
+    "language": "HTML",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install @arbitova/sdk ethers",
+    "lastCommit": "2026-04-28T06:54:52Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:59.895Z",
     "featured": false,
     "archived": false
   },
