@@ -75581,30 +75581,6 @@
     "archived": false
   },
   {
-    "id": "box-community/mcp-server-box",
-    "name": "mcp-server-box",
-    "description": "Securely connect AI agents to your enterprise content in Box",
-    "descriptionZh": "安全地将AI代理连接到Box中的企业内容。",
-    "url": "https://github.com/box-community/mcp-server-box",
-    "homepage": null,
-    "stars": 102,
-    "forks": 49,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "brew install uv",
-    "lastCommit": "2026-04-30T21:43:33Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:36.517Z",
-    "featured": false,
-    "archived": true
-  },
-  {
     "id": "couchbase/mcp-server-couchbase",
     "name": "mcp-server-couchbase",
     "description": "MCP Server to interact with data in Couchbase Clusters",
@@ -105130,35 +105106,6 @@
     "archived": false
   },
   {
-    "id": "slidespeak/slidespeak-mcp",
-    "name": "slidespeak-mcp",
-    "description": "MCP Server for the Slidespeak API. Create PowerPoint Presentations using MCP.",
-    "descriptionZh": "MCP 服务器对接 Slidespeak API，通过 MCP 创建 PowerPoint 演示文稿。",
-    "url": "https://github.com/SlideSpeak/slidespeak-mcp",
-    "homepage": "https://slidespeak.co",
-    "stars": 12,
-    "forks": 12,
-    "topics": [
-      "mcp",
-      "powerpoint",
-      "api",
-      "presentation"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "uv pip install -r requirements.txt",
-    "lastCommit": "2026-04-30T16:50:05Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:56.953Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "osojdjd/deeplook",
     "name": "deeplook",
     "description": "Company intelligence for AI agents — any company, one call",
@@ -129031,6 +128978,30 @@
     "archived": false
   },
   {
+    "id": "box-community/mcp-server-box",
+    "name": "mcp-server-box",
+    "description": "Securely connect AI agents to your enterprise content in Box",
+    "descriptionZh": "安全地将AI代理连接到Box中的企业内容。",
+    "url": "https://github.com/box-community/mcp-server-box",
+    "homepage": null,
+    "stars": 102,
+    "forks": 49,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "brew install uv",
+    "lastCommit": "2026-04-30T21:43:33Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:36.517Z",
+    "featured": false,
+    "archived": true
+  },
+  {
     "id": "tigranbs/mcgravity",
     "name": "mcgravity",
     "description": "Fast TUI that orchestrates AI coding tools (Claude Code, Codex, Gemini) in a plan→execute→review loop. Breaks work into atomic tasks for easier verification and course-correction.",
@@ -141098,6 +141069,35 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:55.867Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "slidespeak/slidespeak-mcp",
+    "name": "slidespeak-mcp",
+    "description": "MCP Server for the Slidespeak API. Create PowerPoint Presentations using MCP.",
+    "descriptionZh": "MCP 服务器对接 Slidespeak API，通过 MCP 创建 PowerPoint 演示文稿。",
+    "url": "https://github.com/SlideSpeak/slidespeak-mcp",
+    "homepage": "https://slidespeak.co",
+    "stars": 12,
+    "forks": 12,
+    "topics": [
+      "mcp",
+      "powerpoint",
+      "api",
+      "presentation"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "uv pip install -r requirements.txt",
+    "lastCommit": "2026-04-30T16:50:05Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:56.953Z",
     "featured": false,
     "archived": false
   },
