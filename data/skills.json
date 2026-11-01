@@ -87557,102 +87557,6 @@
     "archived": true
   },
   {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 51,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-03T02:26:18.881Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 51,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-02T02:50:49.091Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 提供 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 51,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-01T02:58:38.166Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "acedatacloud/nanobananamcp",
     "name": "NanoBananaMCP",
     "description": "MCP server for Nano Banana AI image generation and editing via Ace Data Cloud.",
@@ -87683,70 +87587,6 @@
     "commits30d": 9,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:14:08.167Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 打造的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 51,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:14.827Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 17,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-28T02:07:16.393Z",
     "featured": false,
     "archived": false
   },
@@ -87899,38 +87739,6 @@
     "archived": false
   },
   {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 17,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-27T02:23:41.995Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mcp-telegram/mcp-telegram",
     "name": "mcp-telegram",
     "description": "Connect Telegram to Claude AI — messages, media, reactions, polls, scheduled messages & more. Hosted version: mcp-telegram.com (QR login, 30 sec setup). Built on GramJS/MTProto.",
@@ -87963,166 +87771,6 @@
     "commits30d": 6,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-27T02:23:49.475Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 17,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-26T02:17:57.773Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-25T02:14:35.417Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-24T02:13:25.661Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 构建的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-23T02:18:52.551Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为Fal.ai设计的MCP服务器，支持通过Claude生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-22T02:10:47.529Z",
     "featured": false,
     "archived": false
   },
@@ -88164,38 +87812,6 @@
     "archived": false
   },
   {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-21T02:11:42.848Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "atomno-mcp/mcp-egrul",
     "name": "mcp-egrul",
     "description": "MCP server for Russian EGRUL/EGRIP lookups via FNS open-data — open self-host (MIT) + hosted Pro tier (closed beta)",
@@ -88229,38 +87845,6 @@
     "commits30d": 10,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-21T02:12:12.586Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-20T02:33:18.135Z",
     "featured": false,
     "archived": false
   },
@@ -88302,38 +87886,6 @@
     "archived": false
   },
   {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-19T02:12:11.091Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "atomno-mcp/mcp-egrul",
     "name": "mcp-egrul",
     "description": "MCP server for Russian EGRUL/EGRIP lookups via FNS open-data — open self-host (MIT) + hosted Pro tier (closed beta)",
@@ -88367,38 +87919,6 @@
     "commits30d": 10,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-19T02:12:34.356Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-18T01:59:36.576Z",
     "featured": false,
     "archived": false
   },
@@ -88440,38 +87960,6 @@
     "archived": false
   },
   {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-17T02:14:22.263Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "atomno-mcp/mcp-egrul",
     "name": "mcp-egrul",
     "description": "MCP server for Russian EGRUL/EGRIP lookups via FNS open-data — open self-host (MIT) + hosted Pro tier (closed beta)",
@@ -88505,38 +87993,6 @@
     "commits30d": 10,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-17T02:15:02.824Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "MCP 服务器对接 Fal.ai，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-16T02:08:17.955Z",
     "featured": false,
     "archived": false
   },
@@ -88578,38 +88034,6 @@
     "archived": false
   },
   {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-15T02:00:02.425Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "atomno-mcp/mcp-egrul",
     "name": "mcp-egrul",
     "description": "MCP server for Russian EGRUL/EGRIP lookups via FNS open-data — open self-host (MIT) + hosted Pro tier (closed beta)",
@@ -88643,166 +88067,6 @@
     "commits30d": 10,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-15T02:00:39.680Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 打造的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-14T02:03:21.329Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 构建 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-13T02:18:03.161Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-12T02:16:08.025Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-11T02:13:18.378Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-10T02:25:23.156Z",
     "featured": false,
     "archived": false
   },
@@ -88841,38 +88105,6 @@
     "archived": false
   },
   {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-09T02:24:39.993Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "acedatacloud/nanobananamcp",
     "name": "NanoBananaMCP",
     "description": "MCP server for Nano Banana AI image generation and editing via Ace Data Cloud.",
@@ -88907,38 +88139,6 @@
     "archived": false
   },
   {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 构建的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-08T02:13:50.955Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "acedatacloud/nanobananamcp",
     "name": "NanoBananaMCP",
     "description": "MCP server for Nano Banana AI image generation and editing via Ace Data Cloud.",
@@ -88969,70 +88169,6 @@
     "commits30d": 9,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-07T02:38:00.348Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "MCP 服务器适配 Fal.ai，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-07T02:38:00.958Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 52,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-06T02:42:11.492Z",
     "featured": false,
     "archived": false
   },
@@ -89156,70 +88292,6 @@
     "commits30d": 9,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:50.251Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 51,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-05T02:39:48.373Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "luminarylane/fal-mcp-server",
-    "name": "fal-mcp-server",
-    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
-    "descriptionZh": "为 Fal.ai 构建 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
-    "url": "https://github.com/luminarylane/fal-mcp-server",
-    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
-    "stars": 51,
-    "forks": 16,
-    "topics": [
-      "ai-tools",
-      "claude",
-      "fal-ai",
-      "image-generation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install fal-mcp-server",
-    "lastCommit": "2026-05-04T07:32:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-04T02:23:04.230Z",
     "featured": false,
     "archived": false
   },
@@ -96409,35 +95481,6 @@
     "commits30d": 6,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:50.705Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "kestra-io/mcp-server-python",
-    "name": "mcp-server-python",
-    "description": "Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents",
-    "descriptionZh": "Python MCP 服务器，用于 Kestra 的 AI 代理中作为工具使用。",
-    "url": "https://github.com/kestra-io/mcp-server-python",
-    "homepage": "https://kestra.io/blogs/introducing-ai-agents",
-    "stars": 29,
-    "forks": 6,
-    "topics": [
-      "ai-agents",
-      "mcp-server",
-      "orchestration",
-      "python"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "uv pip install -r requirements.txt",
-    "lastCommit": "2026-05-04T09:58:54Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:36.253Z",
     "featured": false,
     "archived": false
   },
@@ -107940,31 +106983,6 @@
     "archived": false
   },
   {
-    "id": "erajasekar/ai-diagram-maker-mcp",
-    "name": "ai-diagram-maker-mcp",
-    "description": "ai-diagram-maker-mcp",
-    "descriptionZh": "AI图表生成器MCP，通过自然语言描述自动创建专业图表，支持流程图、思维导图等多种类型。",
-    "url": "https://github.com/erajasekar/ai-diagram-maker-mcp",
-    "homepage": null,
-    "stars": 7,
-    "forks": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx ai-diagram-maker-mcp@latest --transport http",
-    "lastCommit": "2026-05-04T04:45:33Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:15.893Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "labs64/netlicensing-mcp",
     "name": "NetLicensing-MCP",
     "description": "The official NetLicensing MCP Server is a natural language interface that enables agentic applications to manage the full software licensing lifecycle in Labs64 NetLicensing 👉🏼 without writing a single API call.",
@@ -109915,32 +108933,6 @@
     "archived": false
   },
   {
-    "id": "hampsterx/claude-mcp-bridge",
-    "name": "claude-mcp-bridge",
-    "description": "MCP server bridging Claude CLI to Gemini CLI, Codex, Cursor - queries, and search with hardened subprocess management",
-    "descriptionZh": "MCP服务器桥接Claude CLI与Gemini CLI、Codex、Cursor，支持查询和搜索，并强化子进程管理。",
-    "url": "https://github.com/hampsterx/claude-mcp-bridge",
-    "homepage": null,
-    "stars": 5,
-    "forks": 2,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx claude-mcp-bridge",
-    "lastCommit": "2026-05-04T03:43:57Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:51.471Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "automatelab-tech/content-distribution-mcp",
     "name": "content-distribution-mcp",
     "description": "Multi-channel content distribution MCP server with idempotent state. Auto-publish to DEV.to, Hashnode, GitHub Discussions, Reddit, Bluesky; browser-fallback for Medium, LinkedIn, X/Twitter.",
@@ -110221,41 +109213,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:28.503Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "arcadia-finance/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP server for Arcadia Finance. Manage concentrated liquidity positions with built-in leverage, automated rebalancing, and yield optimization on Base, Optimism, and Unichain.",
-    "descriptionZh": "Arcadia Finance 的 MCP 服务器，在 Base、Optimism 和 Unichain 上管理集中流动性头寸，内置杠杆、自动再平衡与收益优化。",
-    "url": "https://github.com/arcadia-finance/mcp-server",
-    "homepage": "https://www.npmjs.com/package/@arcadia-finance/mcp-server",
-    "stars": 5,
-    "forks": 1,
-    "topics": [
-      "arcadia",
-      "base",
-      "defi",
-      "lending",
-      "liquidity",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "optimism",
-      "unichain"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install undefined",
-    "lastCommit": "2026-05-04T14:52:54Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:03.104Z",
     "featured": false,
     "archived": false
   },
@@ -113868,30 +112825,6 @@
     "archived": false
   },
   {
-    "id": "openpulsechain/public",
-    "name": "public",
-    "description": "Open-source PulseChain analytics platform — token prices, safety scoring, smart money tracking, holder leagues, bridge stats. REST API + MCP server for AI agents.",
-    "descriptionZh": "开源PulseChain分析平台：代币价格、安全评分、聪明钱追踪、持有者排行、跨链桥数据。提供REST API和MCP服务器，支持AI代理接入。",
-    "url": "https://github.com/openpulsechain/public",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "data",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/openpulsechain/openpulsechain.git",
-    "lastCommit": "2026-05-04T16:34:45Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:00.952Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "0xdegenmo/lighter-mcp",
     "name": "lighter-mcp",
     "description": "lighter-mcp",
@@ -116494,30 +115427,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:04.656Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "lisamaraventano-spine/mcp-server",
-    "name": "mcp-server",
-    "description": "MCP server for Underground Cultural District — 23 tools, 218+ digital goods for AI agents. Free dev tools + paid catalog + Stripe checkout. npm: @underground-cultural-district/mcp-server",
-    "descriptionZh": "地下文化区MCP服务器——23个工具、218+数字商品供AI代理使用。免费开发工具+付费目录+Stripe结账。npm: @underground-cultural-district/mcp-server",
-    "url": "https://github.com/lisamaraventano-spine/mcp-server",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install @underground-cultural-district/mcp-server",
-    "lastCommit": "2026-05-05T02:53:08Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:16:09.552Z",
     "featured": false,
     "archived": false
   },
@@ -130344,6 +129253,134 @@
     "archived": false
   },
   {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 51,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-03T02:26:18.881Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 51,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-02T02:50:49.091Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 提供 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 51,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-01T02:58:38.166Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 打造的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 51,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:14.827Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "zacharypodbela/django-rest-framework-mcp",
     "name": "django-rest-framework-mcp",
     "description": "Quickly build MCP servers that expose your Django Rest Framework APIs as tools for LLMs and agentic applications to work with",
@@ -130436,6 +129473,742 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:07.696Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 17,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-28T02:07:16.393Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 17,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-27T02:23:41.995Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 17,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-26T02:17:57.773Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-25T02:14:35.417Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-24T02:13:25.661Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 构建的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-23T02:18:52.551Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为Fal.ai设计的MCP服务器，支持通过Claude生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-22T02:10:47.529Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-21T02:11:42.848Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-20T02:33:18.135Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-19T02:12:11.091Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-18T01:59:36.576Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-17T02:14:22.263Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "MCP 服务器对接 Fal.ai，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-16T02:08:17.955Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-15T02:00:02.425Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 打造的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-14T02:03:21.329Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 构建 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-13T02:18:03.161Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-12T02:16:08.025Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-11T02:13:18.378Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-10T02:25:23.156Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-09T02:24:39.993Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 构建的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-08T02:13:50.955Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "MCP 服务器适配 Fal.ai，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-07T02:38:00.958Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 52,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-06T02:42:11.492Z",
     "featured": false,
     "archived": false
   },
@@ -131138,6 +130911,70 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-08T02:14:20.390Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 设计的 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 51,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-05T02:39:48.373Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "luminarylane/fal-mcp-server",
+    "name": "fal-mcp-server",
+    "description": "MCP server for Fal.ai - Generate images, videos, music and audio with Claude",
+    "descriptionZh": "为 Fal.ai 构建 MCP 服务器，支持通过 Claude 生成图像、视频、音乐和音频。",
+    "url": "https://github.com/luminarylane/fal-mcp-server",
+    "homepage": "https://luminarylane.github.io/fal-mcp-server/",
+    "stars": 51,
+    "forks": 16,
+    "topics": [
+      "ai-tools",
+      "claude",
+      "fal-ai",
+      "image-generation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install fal-mcp-server",
+    "lastCommit": "2026-05-04T07:32:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-04T02:23:04.230Z",
     "featured": false,
     "archived": false
   },
@@ -135118,6 +134955,35 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:39.998Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "kestra-io/mcp-server-python",
+    "name": "mcp-server-python",
+    "description": "Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents",
+    "descriptionZh": "Python MCP 服务器，用于 Kestra 的 AI 代理中作为工具使用。",
+    "url": "https://github.com/kestra-io/mcp-server-python",
+    "homepage": "https://kestra.io/blogs/introducing-ai-agents",
+    "stars": 29,
+    "forks": 6,
+    "topics": [
+      "ai-agents",
+      "mcp-server",
+      "orchestration",
+      "python"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "uv pip install -r requirements.txt",
+    "lastCommit": "2026-05-04T09:58:54Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:36.253Z",
     "featured": false,
     "archived": false
   },
@@ -143613,6 +143479,31 @@
     "archived": false
   },
   {
+    "id": "erajasekar/ai-diagram-maker-mcp",
+    "name": "ai-diagram-maker-mcp",
+    "description": "ai-diagram-maker-mcp",
+    "descriptionZh": "AI图表生成器MCP，通过自然语言描述自动创建专业图表，支持流程图、思维导图等多种类型。",
+    "url": "https://github.com/erajasekar/ai-diagram-maker-mcp",
+    "homepage": null,
+    "stars": 7,
+    "forks": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx ai-diagram-maker-mcp@latest --transport http",
+    "lastCommit": "2026-05-04T04:45:33Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:15.893Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "shopsavvy/shopsavvy-mcp-server",
     "name": "shopsavvy-mcp-server",
     "description": "Model Context Protocol (MCP) server for ShopSavvy Data API - provides product lookup, pricing, and historical data tools for AI assistants.",
@@ -145126,6 +145017,67 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.679Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "hampsterx/claude-mcp-bridge",
+    "name": "claude-mcp-bridge",
+    "description": "MCP server bridging Claude CLI to Gemini CLI, Codex, Cursor - queries, and search with hardened subprocess management",
+    "descriptionZh": "MCP服务器桥接Claude CLI与Gemini CLI、Codex、Cursor，支持查询和搜索，并强化子进程管理。",
+    "url": "https://github.com/hampsterx/claude-mcp-bridge",
+    "homepage": null,
+    "stars": 5,
+    "forks": 2,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx claude-mcp-bridge",
+    "lastCommit": "2026-05-04T03:43:57Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:51.471Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "arcadia-finance/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP server for Arcadia Finance. Manage concentrated liquidity positions with built-in leverage, automated rebalancing, and yield optimization on Base, Optimism, and Unichain.",
+    "descriptionZh": "Arcadia Finance 的 MCP 服务器，在 Base、Optimism 和 Unichain 上管理集中流动性头寸，内置杠杆、自动再平衡与收益优化。",
+    "url": "https://github.com/arcadia-finance/mcp-server",
+    "homepage": "https://www.npmjs.com/package/@arcadia-finance/mcp-server",
+    "stars": 5,
+    "forks": 1,
+    "topics": [
+      "arcadia",
+      "base",
+      "defi",
+      "lending",
+      "liquidity",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "optimism",
+      "unichain"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install undefined",
+    "lastCommit": "2026-05-04T14:52:54Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:03.104Z",
     "featured": false,
     "archived": false
   },
@@ -148705,6 +148657,30 @@
     "archived": false
   },
   {
+    "id": "openpulsechain/public",
+    "name": "public",
+    "description": "Open-source PulseChain analytics platform — token prices, safety scoring, smart money tracking, holder leagues, bridge stats. REST API + MCP server for AI agents.",
+    "descriptionZh": "开源PulseChain分析平台：代币价格、安全评分、聪明钱追踪、持有者排行、跨链桥数据。提供REST API和MCP服务器，支持AI代理接入。",
+    "url": "https://github.com/openpulsechain/public",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "data",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/openpulsechain/openpulsechain.git",
+    "lastCommit": "2026-05-04T16:34:45Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:00.952Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "stfade/moth",
     "name": "moth",
     "description": "A debugging workflow plugin for AI coding agents. Turns terminal failures into source-backed fixes via MCP and structured skills.",
@@ -151824,6 +151800,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "lisamaraventano-spine/mcp-server",
+    "name": "mcp-server",
+    "description": "MCP server for Underground Cultural District — 23 tools, 218+ digital goods for AI agents. Free dev tools + paid catalog + Stripe checkout. npm: @underground-cultural-district/mcp-server",
+    "descriptionZh": "地下文化区MCP服务器——23个工具、218+数字商品供AI代理使用。免费开发工具+付费目录+Stripe结账。npm: @underground-cultural-district/mcp-server",
+    "url": "https://github.com/lisamaraventano-spine/mcp-server",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install @underground-cultural-district/mcp-server",
+    "lastCommit": "2026-05-05T02:53:08Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:16:09.552Z",
     "featured": false,
     "archived": false
   },
