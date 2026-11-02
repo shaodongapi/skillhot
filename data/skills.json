@@ -17284,30 +17284,6 @@
     "archived": false
   },
   {
-    "id": "inkle/ink",
-    "name": "ink",
-    "description": "inkle's open source scripting language for writing interactive narrative.",
-    "descriptionZh": "inkle的开源脚本语言，用于编写交互式叙事。",
-    "url": "https://github.com/inkle/ink",
-    "homepage": "http://www.inklestudios.com/ink",
-    "stars": 4875,
-    "forks": 538,
-    "topics": [],
-    "language": "C#",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-05T11:24:42Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-23T02:19:28.444Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "callstack/agent-device",
     "name": "agent-device",
     "description": "CLI to control iOS and Android devices for AI agents",
@@ -17681,6 +17657,30 @@
     "commits30d": 153,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-05T02:39:56.962Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "inkle/ink",
+    "name": "ink",
+    "description": "inkle's open source scripting language for writing interactive narrative.",
+    "descriptionZh": "inkle的开源脚本语言，用于编写交互式叙事。",
+    "url": "https://github.com/inkle/ink",
+    "homepage": "http://www.inklestudios.com/ink",
+    "stars": 4875,
+    "forks": 538,
+    "topics": [],
+    "language": "C#",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-05T11:24:42Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-23T02:19:28.444Z",
     "featured": false,
     "archived": false
   },
@@ -80165,30 +80165,6 @@
     "archived": false
   },
   {
-    "id": "bankless/onchain-mcp",
-    "name": "onchain-mcp",
-    "description": "Bringing the bankless onchain API to MCP",
-    "descriptionZh": "将无银行链上 API 引入 MCP。",
-    "url": "https://github.com/Bankless/onchain-mcp",
-    "homepage": null,
-    "stars": 80,
-    "forks": 28,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install @bankless/onchain-mcp",
-    "lastCommit": "2026-05-05T11:48:39Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:05.548Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mcp-telegram/mcp-telegram",
     "name": "mcp-telegram",
     "description": "Connect Telegram to Claude AI — messages, media, reactions, polls, scheduled messages & more. Hosted version: mcp-telegram.com (QR login, 30 sec setup). Built on GramJS/MTProto.",
@@ -85605,45 +85581,6 @@
     "commits30d": 16,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:45.582Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "overtlids/mcp-searxng-enhanced",
-    "name": "mcp-searxng-enhanced",
-    "description": "Enhanced MCP server for SearXNG: category-aware web-search, web-scraping, and date/time retrieval.",
-    "descriptionZh": "增强 SearXNG 的 MCP 服务器：支持分类感知的网页搜索、网页抓取及日期时间检索。",
-    "url": "https://github.com/OvertliDS/mcp-searxng-enhanced",
-    "homepage": null,
-    "stars": 54,
-    "forks": 15,
-    "topics": [
-      "citations",
-      "datetime",
-      "docker",
-      "docker-image",
-      "mcp",
-      "mcp-server",
-      "open-source",
-      "research-tool",
-      "searxng",
-      "searxng-mcp",
-      "webscraper",
-      "websearch",
-      "websearch-agent",
-      "python"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": "pip install -r requirements.txt",
-    "lastCommit": "2026-05-05T22:05:49Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:18.143Z",
     "featured": false,
     "archived": false
   },
@@ -92858,44 +92795,6 @@
     "commits30d": 4,
     "starGrowth30d": 1,
     "firstSeen": "2026-07-02T02:51:31.097Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "iurykrieger/claude-bedrock",
-    "name": "claude-bedrock",
-    "description": "Second Brain automation for Obsidian vaults — entity management, ingestion, compression, and sync via Claude Code skills",
-    "descriptionZh": "Obsidian 第二大脑自动化：通过 Claude Code 技能实现实体管理、信息摄入、压缩与同步。",
-    "url": "https://github.com/iurykrieger/claude-bedrock",
-    "homepage": "https://claude-bedrock.vercel.app",
-    "stars": 86,
-    "forks": 8,
-    "topics": [
-      "ai",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-code-skill",
-      "framework",
-      "obsidian",
-      "obsidian-plugin",
-      "productivity",
-      "second-brain",
-      "knowledge-graph",
-      "knowledge-management",
-      "note-taking",
-      "zettelkasten"
-    ],
-    "language": "HTML",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-05T13:32:09Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-03T02:25:59.217Z",
     "featured": false,
     "archived": false
   },
@@ -109007,39 +108906,6 @@
     "archived": false
   },
   {
-    "id": "denismaggior8/enigma-python-mcp",
-    "name": "enigma-python-mcp",
-    "description": "An MCP (Model Context Protocol) server that brings the capabilities of the enigmapython library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators",
-    "descriptionZh": "基于 MCP 协议，将 enigmapython 库能力接入大语言模型，使其能使用历史准确的恩尼格玛密码机模拟器加解密消息。",
-    "url": "https://github.com/denismaggior8/enigma-python-mcp",
-    "homepage": null,
-    "stars": 5,
-    "forks": 0,
-    "topics": [
-      "cryptography",
-      "historical-ciphers",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "worldwar2",
-      "wwii",
-      "enigmapython"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "opencode"
-    ],
-    "useCases": [],
-    "installCmd": "pip install enigmapython-mcp",
-    "lastCommit": "2026-05-05T12:40:58Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:14.141Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "surajkgoyal/amnesic",
     "name": "amnesic",
     "description": "Persistent semantic memory for SQL databases (Postgres, MySQL, MSSQL, SQLite) — the MCP server with the most ironic name. One-line install for Claude Code, Cursor, and any MCP-compatible client.",
@@ -112315,41 +112181,6 @@
     "archived": true
   },
   {
-    "id": "kuvopllc/purroxy2",
-    "name": "purroxy2",
-    "description": "purroxy2",
-    "descriptionZh": "基于 Go 的轻量级 HTTP 代理，支持正向与反向代理、负载均衡、TLS 终止、ACL 及动态配置重载。",
-    "url": "https://github.com/KuvopLLC/purroxy2",
-    "homepage": "https://purroxy.com/",
-    "stars": 2,
-    "forks": 1,
-    "topics": [
-      "ai",
-      "anthropic",
-      "automation",
-      "browser-automation",
-      "claude",
-      "desktop-app",
-      "electron",
-      "mcp",
-      "mcp-server",
-      "playwright"
-    ],
-    "language": "TypeScript",
-    "category": "devops",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-05-05T12:37:46Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:29.415Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "user0856/snaprender-integrations",
     "name": "snaprender-integrations",
     "description": "Official integrations for SnapRender Screenshot API — MCP server, SDKs, OpenClaw, ChatGPT Actions, Postman",
@@ -114862,30 +114693,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:14:27.042Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "arnstarn/mcp-server-spotinst",
-    "name": "mcp-server-spotinst",
-    "description": "MCP server for Spot.io (Spotinst) API - Ocean clusters, VNGs, Elastigroups, costs, right-sizing across AWS and Azure",
-    "descriptionZh": "MCP 服务器对接 Spot.io API，管理 AWS 和 Azure 上的 Ocean 集群、VNG、Elastigroup、成本及资源优化。",
-    "url": "https://github.com/arnstarn/mcp-server-spotinst",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install mcp-server-spotinst",
-    "lastCommit": "2026-05-05T14:23:05Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:31.995Z",
     "featured": false,
     "archived": false
   },
@@ -123662,46 +123469,6 @@
     "archived": false
   },
   {
-    "id": "platfone-com/mcp",
-    "name": "mcp",
-    "description": "MCP server for virtual phone number verification - SMS activations for AI agents via Claude, Cursor, VS Code Copilot and more...",
-    "descriptionZh": "MCP 服务器，用于虚拟手机号验证，支持 Claude、Cursor、VS Code Copilot 等 AI 代理的短信激活。",
-    "url": "https://github.com/platfone-com/mcp",
-    "homepage": "https://platfone.com/docs/mcp/",
-    "stars": 3,
-    "forks": 0,
-    "topics": [
-      "ai-agent",
-      "claude",
-      "cursor",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "otp",
-      "phone-verification",
-      "receive-sms",
-      "sms",
-      "sms-activate",
-      "sms-verification",
-      "temp-number",
-      "typescript",
-      "virtual-number"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-05T16:00:16Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:10.149Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "neo1228/spring-boot-starter-swagger-mcp",
     "name": "spring-boot-starter-swagger-mcp",
     "description": "Turn SpringDoc OpenAPI into production-ready MCP tools for Spring Boot: discovery, validation, workflows, and guardrails.",
@@ -128047,6 +127814,30 @@
     "archived": false
   },
   {
+    "id": "bankless/onchain-mcp",
+    "name": "onchain-mcp",
+    "description": "Bringing the bankless onchain API to MCP",
+    "descriptionZh": "将无银行链上 API 引入 MCP。",
+    "url": "https://github.com/Bankless/onchain-mcp",
+    "homepage": null,
+    "stars": 80,
+    "forks": 28,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install @bankless/onchain-mcp",
+    "lastCommit": "2026-05-05T11:48:39Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:05.548Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "hannesrudolph/imessage-query-fastmcp-mcp-server",
     "name": "imessage-query-fastmcp-mcp-server",
     "description": "An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP). This server is built with the FastMCP framework and the imessagedb library, enabling LLMs to query and analyze iMessage conversations with proper phone number validation and attachment handling.",
@@ -129008,6 +128799,45 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:14:59.885Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "overtlids/mcp-searxng-enhanced",
+    "name": "mcp-searxng-enhanced",
+    "description": "Enhanced MCP server for SearXNG: category-aware web-search, web-scraping, and date/time retrieval.",
+    "descriptionZh": "增强 SearXNG 的 MCP 服务器：支持分类感知的网页搜索、网页抓取及日期时间检索。",
+    "url": "https://github.com/OvertliDS/mcp-searxng-enhanced",
+    "homepage": null,
+    "stars": 54,
+    "forks": 15,
+    "topics": [
+      "citations",
+      "datetime",
+      "docker",
+      "docker-image",
+      "mcp",
+      "mcp-server",
+      "open-source",
+      "research-tool",
+      "searxng",
+      "searxng-mcp",
+      "webscraper",
+      "websearch",
+      "websearch-agent",
+      "python"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": "pip install -r requirements.txt",
+    "lastCommit": "2026-05-05T22:05:49Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:18.143Z",
     "featured": false,
     "archived": false
   },
@@ -132783,6 +132613,44 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:31.490Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "iurykrieger/claude-bedrock",
+    "name": "claude-bedrock",
+    "description": "Second Brain automation for Obsidian vaults — entity management, ingestion, compression, and sync via Claude Code skills",
+    "descriptionZh": "Obsidian 第二大脑自动化：通过 Claude Code 技能实现实体管理、信息摄入、压缩与同步。",
+    "url": "https://github.com/iurykrieger/claude-bedrock",
+    "homepage": "https://claude-bedrock.vercel.app",
+    "stars": 86,
+    "forks": 8,
+    "topics": [
+      "ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "framework",
+      "obsidian",
+      "obsidian-plugin",
+      "productivity",
+      "second-brain",
+      "knowledge-graph",
+      "knowledge-management",
+      "note-taking",
+      "zettelkasten"
+    ],
+    "language": "HTML",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-05T13:32:09Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-03T02:25:59.217Z",
     "featured": false,
     "archived": false
   },
@@ -145021,6 +144889,39 @@
     "archived": false
   },
   {
+    "id": "denismaggior8/enigma-python-mcp",
+    "name": "enigma-python-mcp",
+    "description": "An MCP (Model Context Protocol) server that brings the capabilities of the enigmapython library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators",
+    "descriptionZh": "基于 MCP 协议，将 enigmapython 库能力接入大语言模型，使其能使用历史准确的恩尼格玛密码机模拟器加解密消息。",
+    "url": "https://github.com/denismaggior8/enigma-python-mcp",
+    "homepage": null,
+    "stars": 5,
+    "forks": 0,
+    "topics": [
+      "cryptography",
+      "historical-ciphers",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "worldwar2",
+      "wwii",
+      "enigmapython"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "opencode"
+    ],
+    "useCases": [],
+    "installCmd": "pip install enigmapython-mcp",
+    "lastCommit": "2026-05-05T12:40:58Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:14.141Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "hampsterx/claude-mcp-bridge",
     "name": "claude-mcp-bridge",
     "description": "MCP server bridging Claude CLI to Gemini CLI, Codex, Cursor - queries, and search with hardened subprocess management",
@@ -148657,6 +148558,41 @@
     "archived": false
   },
   {
+    "id": "kuvopllc/purroxy2",
+    "name": "purroxy2",
+    "description": "purroxy2",
+    "descriptionZh": "基于 Go 的轻量级 HTTP 代理，支持正向与反向代理、负载均衡、TLS 终止、ACL 及动态配置重载。",
+    "url": "https://github.com/KuvopLLC/purroxy2",
+    "homepage": "https://purroxy.com/",
+    "stars": 2,
+    "forks": 1,
+    "topics": [
+      "ai",
+      "anthropic",
+      "automation",
+      "browser-automation",
+      "claude",
+      "desktop-app",
+      "electron",
+      "mcp",
+      "mcp-server",
+      "playwright"
+    ],
+    "language": "TypeScript",
+    "category": "devops",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-05-05T12:37:46Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:29.415Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "openpulsechain/public",
     "name": "public",
     "description": "Open-source PulseChain analytics platform — token prices, safety scoring, smart money tracking, holder leagues, bridge stats. REST API + MCP server for AI agents.",
@@ -151800,6 +151736,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "arnstarn/mcp-server-spotinst",
+    "name": "mcp-server-spotinst",
+    "description": "MCP server for Spot.io (Spotinst) API - Ocean clusters, VNGs, Elastigroups, costs, right-sizing across AWS and Azure",
+    "descriptionZh": "MCP 服务器对接 Spot.io API，管理 AWS 和 Azure 上的 Ocean 集群、VNG、Elastigroup、成本及资源优化。",
+    "url": "https://github.com/arnstarn/mcp-server-spotinst",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install mcp-server-spotinst",
+    "lastCommit": "2026-05-05T14:23:05Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:31.995Z",
     "featured": false,
     "archived": false
   },
@@ -161428,6 +161388,46 @@
     "firstSeen": "2026-06-30T13:17:51.947Z",
     "featured": false,
     "archived": true
+  },
+  {
+    "id": "platfone-com/mcp",
+    "name": "mcp",
+    "description": "MCP server for virtual phone number verification - SMS activations for AI agents via Claude, Cursor, VS Code Copilot and more...",
+    "descriptionZh": "MCP 服务器，用于虚拟手机号验证，支持 Claude、Cursor、VS Code Copilot 等 AI 代理的短信激活。",
+    "url": "https://github.com/platfone-com/mcp",
+    "homepage": "https://platfone.com/docs/mcp/",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "ai-agent",
+      "claude",
+      "cursor",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "otp",
+      "phone-verification",
+      "receive-sms",
+      "sms",
+      "sms-activate",
+      "sms-verification",
+      "temp-number",
+      "typescript",
+      "virtual-number"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-05T16:00:16Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:10.149Z",
+    "featured": false,
+    "archived": false
   },
   {
     "id": "elevy99927/devops-mcp-webui",
