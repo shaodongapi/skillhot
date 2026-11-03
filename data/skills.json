@@ -18171,37 +18171,6 @@
     "archived": false
   },
   {
-    "id": "antvis/mcp-server-chart",
-    "name": "mcp-server-chart",
-    "description": "🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.",
-    "descriptionZh": "基于 AntV 的 25+ 可视化图表 MCP 技能，用于图表生成与数据分析。",
-    "url": "https://github.com/antvis/mcp-server-chart",
-    "homepage": "https://github.com/antvis/mcp-server-chart",
-    "stars": 4263,
-    "forks": 405,
-    "topics": [
-      "antv",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "visualization",
-      "skills"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx skills add antvis/chart-visualization-skills",
-    "lastCommit": "2026-05-06T07:58:59Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:14.812Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "txn2/kubefwd",
     "name": "kubefwd",
     "description": "Bulk port forwarding Kubernetes services for local development.",
@@ -18317,6 +18286,37 @@
     "commits30d": 51,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-10T02:25:29.530Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "antvis/mcp-server-chart",
+    "name": "mcp-server-chart",
+    "description": "🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.",
+    "descriptionZh": "基于 AntV 的 25+ 可视化图表 MCP 技能，用于图表生成与数据分析。",
+    "url": "https://github.com/antvis/mcp-server-chart",
+    "homepage": "https://github.com/antvis/mcp-server-chart",
+    "stars": 4263,
+    "forks": 405,
+    "topics": [
+      "antv",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "visualization",
+      "skills"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx skills add antvis/chart-visualization-skills",
+    "lastCommit": "2026-05-06T07:58:59Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:14.812Z",
     "featured": false,
     "archived": false
   },
@@ -42586,47 +42586,6 @@
     "archived": false
   },
   {
-    "id": "canner/wren-engine",
-    "name": "wren-engine",
-    "description": "This repository has been merged into Canner/WrenAI under the core/ directory",
-    "descriptionZh": "已合并至 Canner/WrenAI 的 core/ 目录下。",
-    "url": "https://github.com/Canner/wren-engine",
-    "homepage": "https://github.com/Canner/WrenAI",
-    "stars": 665,
-    "forks": 198,
-    "topics": [
-      "business-intelligence",
-      "data",
-      "data-analysis",
-      "data-analytics",
-      "data-lake",
-      "data-warehouse",
-      "sql",
-      "semantic",
-      "semantic-layer",
-      "llm",
-      "hacktoberfest",
-      "agent",
-      "agentic-ai",
-      "ai",
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "Java",
-    "category": "data",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-06T17:28:37Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:18.694Z",
-    "featured": false,
-    "archived": true
-  },
-  {
     "id": "dbt-labs/dbt-mcp",
     "name": "dbt-mcp",
     "description": "A MCP (Model Context Protocol) server for interacting with dbt.",
@@ -48356,6 +48315,47 @@
     "firstSeen": "2026-06-30T13:14:21.157Z",
     "featured": false,
     "archived": false
+  },
+  {
+    "id": "canner/wren-engine",
+    "name": "wren-engine",
+    "description": "This repository has been merged into Canner/WrenAI under the core/ directory",
+    "descriptionZh": "已合并至 Canner/WrenAI 的 core/ 目录下。",
+    "url": "https://github.com/Canner/wren-engine",
+    "homepage": "https://github.com/Canner/WrenAI",
+    "stars": 665,
+    "forks": 198,
+    "topics": [
+      "business-intelligence",
+      "data",
+      "data-analysis",
+      "data-analytics",
+      "data-lake",
+      "data-warehouse",
+      "sql",
+      "semantic",
+      "semantic-layer",
+      "llm",
+      "hacktoberfest",
+      "agent",
+      "agentic-ai",
+      "ai",
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "Java",
+    "category": "data",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-06T17:28:37Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:18.694Z",
+    "featured": false,
+    "archived": true
   },
   {
     "id": "mozilla/firefox-devtools-mcp",
@@ -94113,30 +94113,6 @@
     "archived": false
   },
   {
-    "id": "ckanthony/gin-mcp",
-    "name": "gin-mcp",
-    "description": "Enable MCP features for any Gin API with a line of code",
-    "descriptionZh": "一行代码为任意 Gin API 启用 MCP 功能。",
-    "url": "https://github.com/ckanthony/gin-mcp",
-    "homepage": null,
-    "stars": 83,
-    "forks": 23,
-    "topics": [],
-    "language": "Go",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-06T18:52:51Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:52.784Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "selvage-lab/selvage",
     "name": "selvage",
     "description": "selvage",
@@ -115329,38 +115305,6 @@
     "archived": false
   },
   {
-    "id": "tao-izm/devpulse-mcp",
-    "name": "devpulse-mcp",
-    "description": "Zero-config MCP server that gives AI coding assistants a real-time diagnostic snapshot of your dev environment",
-    "descriptionZh": "零配置MCP服务器，为AI编程助手提供开发环境的实时诊断快照。",
-    "url": "https://github.com/tao-izm/devpulse-mcp",
-    "homepage": "https://www.npmjs.com/package/devpulse-mcp",
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "ai",
-      "claude",
-      "developer-tools",
-      "mcp",
-      "nodejs"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "claude mcp add devpulse -- npx -y devpulse-mcp",
-    "lastCommit": "2026-05-07T03:05:27Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:16:28.084Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "vighriday/veris",
     "name": "Veris",
     "description": "Behavioral Verification Infrastructure — MCP-native intelligence layer for autonomous software correctness. 17 MCP tools, semantic workflow grouping, drift detection, counterfactual mode, adversarial probes, confidence half-life. Local-first, MIT, OSS.",
@@ -133694,6 +133638,30 @@
     "archived": false
   },
   {
+    "id": "ckanthony/gin-mcp",
+    "name": "gin-mcp",
+    "description": "Enable MCP features for any Gin API with a line of code",
+    "descriptionZh": "一行代码为任意 Gin API 启用 MCP 功能。",
+    "url": "https://github.com/ckanthony/gin-mcp",
+    "homepage": null,
+    "stars": 83,
+    "forks": 23,
+    "topics": [],
+    "language": "Go",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-06T18:52:51Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:52.784Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "bigsy/maven-mcp-server",
     "name": "maven-mcp-server",
     "description": "An MCP (Model Context Protocol) server that provides tools for checking Maven dependency versions.",
@@ -151736,6 +151704,38 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "tao-izm/devpulse-mcp",
+    "name": "devpulse-mcp",
+    "description": "Zero-config MCP server that gives AI coding assistants a real-time diagnostic snapshot of your dev environment",
+    "descriptionZh": "零配置MCP服务器，为AI编程助手提供开发环境的实时诊断快照。",
+    "url": "https://github.com/tao-izm/devpulse-mcp",
+    "homepage": "https://www.npmjs.com/package/devpulse-mcp",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "ai",
+      "claude",
+      "developer-tools",
+      "mcp",
+      "nodejs"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "claude mcp add devpulse -- npx -y devpulse-mcp",
+    "lastCommit": "2026-05-07T03:05:27Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:16:28.084Z",
     "featured": false,
     "archived": false
   },
