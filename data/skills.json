@@ -30960,33 +30960,6 @@
     "archived": false
   },
   {
-    "id": "modelcontextprotocol/swift-sdk",
-    "name": "swift-sdk",
-    "description": "The official Swift SDK for Model Context Protocol servers and clients.",
-    "descriptionZh": "Model Context Protocol 服务器与客户端的官方 Swift SDK。",
-    "url": "https://github.com/modelcontextprotocol/swift-sdk",
-    "homepage": null,
-    "stars": 1451,
-    "forks": 211,
-    "topics": [
-      "mcp",
-      "swift"
-    ],
-    "language": "Swift",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-07T08:37:25Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:37.264Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "dealfluence/adeu",
     "name": "adeu",
     "description": "docx ↔ LLM translator. Projects .docx to Markdown for editing. Projects edits back to OOXML as tracked changes. Python and Node.js implementations.",
@@ -33076,6 +33049,33 @@
     "commits30d": 240,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-21T02:11:50.216Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "modelcontextprotocol/swift-sdk",
+    "name": "swift-sdk",
+    "description": "The official Swift SDK for Model Context Protocol servers and clients.",
+    "descriptionZh": "Model Context Protocol 服务器与客户端的官方 Swift SDK。",
+    "url": "https://github.com/modelcontextprotocol/swift-sdk",
+    "homepage": null,
+    "stars": 1451,
+    "forks": 211,
+    "topics": [
+      "mcp",
+      "swift"
+    ],
+    "language": "Swift",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-07T08:37:25Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:37.264Z",
     "featured": false,
     "archived": false
   },
@@ -57952,44 +57952,6 @@
     "commits30d": 45,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-08T02:14:04.408Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "rixinhahaha/snip",
-    "name": "snip",
-    "description": "The visual communication layer between humans and AI agents. Capture, annotate, render diagrams, and organize with AI — powered by Electron and Ollama. macOS & Linux.   ",
-    "descriptionZh": "人类与AI代理之间的视觉通信层。基于Electron和Ollama，支持捕获、标注、渲染图表及AI组织管理。支持macOS和Linux。",
-    "url": "https://github.com/rixinhahaha/snip",
-    "homepage": "https://snipit.dev",
-    "stars": 243,
-    "forks": 23,
-    "topics": [
-      "ai",
-      "annotations",
-      "electron",
-      "linux",
-      "macos",
-      "menu-bar",
-      "mermaid",
-      "ollama",
-      "screenshot",
-      "semantic-search"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "brew install --cask rixinhahaha/snip/snip",
-    "lastCommit": "2026-05-07T05:31:08Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-03T02:26:04.758Z",
     "featured": false,
     "archived": false
   },
@@ -89634,6 +89596,44 @@
     "archived": false
   },
   {
+    "id": "rixinhahaha/snip",
+    "name": "snip",
+    "description": "The visual communication layer between humans and AI agents. Capture, annotate, render diagrams, and organize with AI — powered by Electron and Ollama. macOS & Linux.   ",
+    "descriptionZh": "人类与AI代理之间的视觉通信层。基于Electron和Ollama，支持捕获、标注、渲染图表及AI组织管理。支持macOS和Linux。",
+    "url": "https://github.com/rixinhahaha/snip",
+    "homepage": "https://snipit.dev",
+    "stars": 243,
+    "forks": 23,
+    "topics": [
+      "ai",
+      "annotations",
+      "electron",
+      "linux",
+      "macos",
+      "menu-bar",
+      "mermaid",
+      "ollama",
+      "screenshot",
+      "semantic-search"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "brew install --cask rixinhahaha/snip/snip",
+    "lastCommit": "2026-05-07T05:31:08Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-03T02:26:04.758Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "crindo2/gph-mcp-server",
     "name": "gph-mcp-server",
     "description": "GPH Intelligence MCP Server — Healthcare Service Provider Finder. Access 100,000+ verified providers via MCP.",
@@ -95869,35 +95869,6 @@
     "commits30d": 5,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:46.583Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "quantconnect/mcp-server",
-    "name": "mcp-server",
-    "description": "Official Python MCP server for local interactions with the QuantConnect API",
-    "descriptionZh": "QuantConnect API 的官方 Python MCP 服务器，支持本地交互。",
-    "url": "https://github.com/QuantConnect/mcp-server",
-    "homepage": "https://www.quantconnect.com/mcp",
-    "stars": 78,
-    "forks": 32,
-    "topics": [
-      "algorithmic-trading",
-      "finance",
-      "mcp",
-      "quantitative-finance"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-07T16:17:32Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:22.716Z",
     "featured": false,
     "archived": false
   },
@@ -135647,6 +135618,35 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-04T02:23:11.020Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "quantconnect/mcp-server",
+    "name": "mcp-server",
+    "description": "Official Python MCP server for local interactions with the QuantConnect API",
+    "descriptionZh": "QuantConnect API 的官方 Python MCP 服务器，支持本地交互。",
+    "url": "https://github.com/QuantConnect/mcp-server",
+    "homepage": "https://www.quantconnect.com/mcp",
+    "stars": 78,
+    "forks": 32,
+    "topics": [
+      "algorithmic-trading",
+      "finance",
+      "mcp",
+      "quantitative-finance"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-07T16:17:32Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:22.716Z",
     "featured": false,
     "archived": false
   },
