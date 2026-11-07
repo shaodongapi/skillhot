@@ -53316,31 +53316,6 @@
     "archived": false
   },
   {
-    "id": "admica/filescopemcp",
-    "name": "FileScopeMCP",
-    "description": "Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages such as Python, C, C++, Rust, Zig, Lua.",
-    "descriptionZh": "分析代码库，基于依赖关系识别重要文件，生成图表和重要性评分，帮助AI理解代码结构。自动解析Python、C、C++、Rust、Zig、Lua等主流语言。",
-    "url": "https://github.com/admica/FileScopeMCP",
-    "homepage": null,
-    "stars": 299,
-    "forks": 33,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/admica/FileScopeMCP.git",
-    "lastCommit": "2026-05-10T23:41:16Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:45.910Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "fradser/mcp-server-apple-events",
     "name": "mcp-server-apple-events",
     "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
@@ -69991,31 +69966,6 @@
     "archived": false
   },
   {
-    "id": "veriteknik/pluggedin-mcp-proxy",
-    "name": "pluggedin-mcp-proxy",
-    "description": "Plugged.in MCP Server manages all your other MCPs in one MCP.",
-    "descriptionZh": "Plugged.in MCP 服务器用一个 MCP 统一管理你所有的其他 MCP。",
-    "url": "https://github.com/VeriTeknik/pluggedin-mcp-proxy",
-    "homepage": null,
-    "stars": 132,
-    "forks": 28,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cline",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx -y @pluggedin/pluggedin-mcp-proxy@latest --pluggedin-api-key YOUR_API_KEY",
-    "lastCommit": "2026-05-10T20:39:02Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-29T14:29:15.458Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "wso2/fhir-mcp-server",
     "name": "fhir-mcp-server",
     "description": "FHIR MCP Server – helping you expose any FHIR Server or API as a MCP Server.",
@@ -76067,6 +76017,31 @@
     "commits30d": 12,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:09.953Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "admica/filescopemcp",
+    "name": "FileScopeMCP",
+    "description": "Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages such as Python, C, C++, Rust, Zig, Lua.",
+    "descriptionZh": "分析代码库，基于依赖关系识别重要文件，生成图表和重要性评分，帮助AI理解代码结构。自动解析Python、C、C++、Rust、Zig、Lua等主流语言。",
+    "url": "https://github.com/admica/FileScopeMCP",
+    "homepage": null,
+    "stars": 299,
+    "forks": 33,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/admica/FileScopeMCP.git",
+    "lastCommit": "2026-05-10T23:41:16Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:45.910Z",
     "featured": false,
     "archived": false
   },
@@ -90509,36 +90484,6 @@
     "archived": false
   },
   {
-    "id": "ohnlp/omop_mcp",
-    "name": "omop_mcp",
-    "description": "Model Context Protocol (MCP) server for mapping clinical terminology to Observational Medical Outcomes Partnership (OMOP) concepts using Large Language Models",
-    "descriptionZh": "基于大语言模型，将临床术语映射到OMOP概念的MCP服务器。",
-    "url": "https://github.com/OHNLP/omop_mcp",
-    "homepage": null,
-    "stars": 39,
-    "forks": 8,
-    "topics": [
-      "ai-agents",
-      "healthcare",
-      "mcp-server",
-      "omop-cdm",
-      "ohdsi"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/OHNLP/omop_mcp.git",
-    "lastCommit": "2026-05-11T00:10:32Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:19.553Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "tkmd/reftrixmcp",
     "name": "ReftrixMCP",
     "description": "MCP server with 40 tools for web design analysis — layout extraction, motion detection, quality scoring, accessibility audit, Core Web Vitals, design comparison, and semantic search via Playwright, pgvector, ONNX Runtime, and Ollama.",
@@ -103342,35 +103287,6 @@
     "archived": false
   },
   {
-    "id": "madhan-g-p/devdocs-mcp",
-    "name": "DevDocs-MCP",
-    "description": "Documentation Authority for AI Agents based upon Devdocs",
-    "descriptionZh": "基于 Devdocs 的 AI 代理文档权威来源。",
-    "url": "https://github.com/madhan-g-p/DevDocs-MCP",
-    "homepage": "https://registry.modelcontextprotocol.io/?q=io.github.madhan-g-p%2Fdevdocs-mcp",
-    "stars": 12,
-    "forks": 4,
-    "topics": [
-      "ai-agents",
-      "devdocs",
-      "mcp-server"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": "git clone https://github.com/madhan-g-p/DevDocs-MCP.git",
-    "lastCommit": "2026-05-10T07:42:42Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:11.080Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mumez/pharo-smalltalk-interop-mcp-server",
     "name": "pharo-smalltalk-interop-mcp-server",
     "description": "A local MCP server to communicate local Pharo Smalltalk image",
@@ -106455,40 +106371,6 @@
     "commits30d": 1,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:53.530Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "urldna/mcp",
-    "name": "mcp",
-    "description": "urlDNA MCP server",
-    "descriptionZh": "urlDNA MCP 服务器，用于解析和分析 URL，提取域名、路径、参数等信息。",
-    "url": "https://github.com/urldna/mcp",
-    "homepage": "https://urldna.io",
-    "stars": 7,
-    "forks": 2,
-    "topics": [
-      "agent",
-      "ai",
-      "genai",
-      "mcp",
-      "mcp-server",
-      "urlscanner",
-      "urldna",
-      "phishing-detection",
-      "phishing-check"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install uv",
-    "lastCommit": "2026-05-10T16:15:11Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:00.419Z",
     "featured": false,
     "archived": false
   },
@@ -115021,40 +114903,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:51.106Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "vitrine3d/mcp",
-    "name": "mcp",
-    "description": "vitrine MCP server — manage 3D product viewers, scenes, and embeds from AI agents",
-    "descriptionZh": "vitrine MCP 服务器 — 让 AI 代理管理 3D 产品展示、场景与嵌入内容。",
-    "url": "https://github.com/vitrine3d/mcp",
-    "homepage": "https://docs.vitrine3d.com/docs/mcp",
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "3d",
-      "e-commerce",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "viewer",
-      "vitrine"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx @vitrine3d/mcp --http          # default port 3000",
-    "lastCommit": "2026-05-10T16:55:20Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:16:52.114Z",
     "featured": false,
     "archived": false
   },
@@ -125060,6 +124908,31 @@
     "archived": false
   },
   {
+    "id": "veriteknik/pluggedin-mcp-proxy",
+    "name": "pluggedin-mcp-proxy",
+    "description": "Plugged.in MCP Server manages all your other MCPs in one MCP.",
+    "descriptionZh": "Plugged.in MCP 服务器用一个 MCP 统一管理你所有的其他 MCP。",
+    "url": "https://github.com/VeriTeknik/pluggedin-mcp-proxy",
+    "homepage": null,
+    "stars": 132,
+    "forks": 28,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cline",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx -y @pluggedin/pluggedin-mcp-proxy@latest --pluggedin-api-key YOUR_API_KEY",
+    "lastCommit": "2026-05-10T20:39:02Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-29T14:29:15.458Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "alexei-led/cloud-mcp-server",
     "name": "cloud-mcp-server",
     "description": "A lightweight service that enables AI assistants to execute AWS CLI commands (in safe containerized environment) through the Model Context Protocol (MCP). Bridges Claude, Cursor, and other MCP-aware AI tools with AWS CLI for enhanced cloud infrastructure management.",
@@ -131932,6 +131805,36 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:28.055Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "ohnlp/omop_mcp",
+    "name": "omop_mcp",
+    "description": "Model Context Protocol (MCP) server for mapping clinical terminology to Observational Medical Outcomes Partnership (OMOP) concepts using Large Language Models",
+    "descriptionZh": "基于大语言模型，将临床术语映射到OMOP概念的MCP服务器。",
+    "url": "https://github.com/OHNLP/omop_mcp",
+    "homepage": null,
+    "stars": 39,
+    "forks": 8,
+    "topics": [
+      "ai-agents",
+      "healthcare",
+      "mcp-server",
+      "omop-cdm",
+      "ohdsi"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/OHNLP/omop_mcp.git",
+    "lastCommit": "2026-05-11T00:10:32Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:19.553Z",
     "featured": false,
     "archived": false
   },
@@ -140364,6 +140267,35 @@
     "archived": false
   },
   {
+    "id": "madhan-g-p/devdocs-mcp",
+    "name": "DevDocs-MCP",
+    "description": "Documentation Authority for AI Agents based upon Devdocs",
+    "descriptionZh": "基于 Devdocs 的 AI 代理文档权威来源。",
+    "url": "https://github.com/madhan-g-p/DevDocs-MCP",
+    "homepage": "https://registry.modelcontextprotocol.io/?q=io.github.madhan-g-p%2Fdevdocs-mcp",
+    "stars": 12,
+    "forks": 4,
+    "topics": [
+      "ai-agents",
+      "devdocs",
+      "mcp-server"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": "git clone https://github.com/madhan-g-p/DevDocs-MCP.git",
+    "lastCommit": "2026-05-10T07:42:42Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:11.080Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "osojdjd/deeplook",
     "name": "deeplook",
     "description": "Company intelligence for AI agents — any company, one call",
@@ -143269,6 +143201,40 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:31.585Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "urldna/mcp",
+    "name": "mcp",
+    "description": "urlDNA MCP server",
+    "descriptionZh": "urlDNA MCP 服务器，用于解析和分析 URL，提取域名、路径、参数等信息。",
+    "url": "https://github.com/urldna/mcp",
+    "homepage": "https://urldna.io",
+    "stars": 7,
+    "forks": 2,
+    "topics": [
+      "agent",
+      "ai",
+      "genai",
+      "mcp",
+      "mcp-server",
+      "urlscanner",
+      "urldna",
+      "phishing-detection",
+      "phishing-check"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install uv",
+    "lastCommit": "2026-05-10T16:15:11Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:00.419Z",
     "featured": false,
     "archived": false
   },
@@ -151704,6 +151670,40 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "vitrine3d/mcp",
+    "name": "mcp",
+    "description": "vitrine MCP server — manage 3D product viewers, scenes, and embeds from AI agents",
+    "descriptionZh": "vitrine MCP 服务器 — 让 AI 代理管理 3D 产品展示、场景与嵌入内容。",
+    "url": "https://github.com/vitrine3d/mcp",
+    "homepage": "https://docs.vitrine3d.com/docs/mcp",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "3d",
+      "e-commerce",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "viewer",
+      "vitrine"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx @vitrine3d/mcp --http          # default port 3000",
+    "lastCommit": "2026-05-10T16:55:20Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:16:52.114Z",
     "featured": false,
     "archived": false
   },
