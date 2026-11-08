@@ -64441,30 +64441,6 @@
     "archived": false
   },
   {
-    "id": "kapeli/dash-mcp-server",
-    "name": "dash-mcp-server",
-    "description": "MCP server for Dash, the macOS API documentation browser",
-    "descriptionZh": "为 Dash（macOS API 文档浏览器）提供的 MCP 服务器。",
-    "url": "https://github.com/Kapeli/dash-mcp-server",
-    "homepage": null,
-    "stars": 171,
-    "forks": 33,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "brew install uv",
-    "lastCommit": "2026-05-11T18:42:49Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:07.592Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "blackwell-systems/agent-lsp",
     "name": "agent-lsp",
     "description": "MCP server that orchestrates language servers into agent-native workflows. 65 tools, 30 CI-verified languages.",
@@ -100961,46 +100937,6 @@
     "archived": false
   },
   {
-    "id": "liveblocks/liveblocks-mcp-server",
-    "name": "liveblocks-mcp-server",
-    "description": "MCP server for Liveblocks.",
-    "descriptionZh": "MCP 服务器，用于连接 Liveblocks 平台。",
-    "url": "https://github.com/liveblocks/liveblocks-mcp-server",
-    "homepage": "https://liveblocks.io/docs/tools/mcp-server",
-    "stars": 17,
-    "forks": 10,
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-copilot",
-      "collaboration",
-      "commenting-system",
-      "comments",
-      "crdt",
-      "liveblocks",
-      "mcp",
-      "mcp-server",
-      "real-time",
-      "toolkit",
-      "websockets",
-      "yjs"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm i -g @openai/codex",
-    "lastCommit": "2026-05-11T11:10:57Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:36.566Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "pkolawa/krs-poland-mcp-server",
     "name": "krs-poland-mcp-server",
     "description": "The MCP server for KRS Poland public API.",
@@ -109149,42 +109085,6 @@
     "archived": false
   },
   {
-    "id": "hasanjahidul/terminal-history-mcp",
-    "name": "terminal-history-mcp",
-    "description": "Search your shell history (zsh/bash/fish) from Claude/MCP. Local SQLite FTS5. Secret-redacted.",
-    "descriptionZh": "从Claude/MCP搜索shell历史记录（zsh/bash/fish），基于本地SQLite FTS5，自动隐藏敏感信息。",
-    "url": "https://github.com/HasanJahidul/terminal-history-mcp",
-    "homepage": null,
-    "stars": 4,
-    "forks": 0,
-    "topics": [
-      "claude",
-      "cli",
-      "fts5",
-      "mcp",
-      "model-context-protocol",
-      "shell-history",
-      "sqlite",
-      "terminal",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g terminal-history-mcp",
-    "lastCommit": "2026-05-11T07:12:45Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:57.950Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "furey/mongodb-lens",
     "name": "mongodb-lens",
     "description": "🍃🔎 MongoDB Lens: Full Featured MCP Server for MongoDB Databases",
@@ -110115,39 +110015,6 @@
     "commits30d": 1,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-14T02:03:26.831Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "hasanjahidul/localhost-mcp",
-    "name": "localhost-mcp",
-    "description": "MCP server: inspect, manage, kill local dev servers. Stop guessing what's on :3000.",
-    "descriptionZh": "MCP 服务器：查看、管理、终止本地开发服务。别再猜 :3000 上跑的是什么。",
-    "url": "https://github.com/HasanJahidul/localhost-mcp",
-    "homepage": null,
-    "stars": 3,
-    "forks": 0,
-    "topics": [
-      "claude",
-      "dev-server",
-      "localhost",
-      "lsof",
-      "mcp",
-      "model-context-protocol",
-      "ports",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g localhost-mcp",
-    "lastCommit": "2026-05-11T07:12:34Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:58.210Z",
     "featured": false,
     "archived": false
   },
@@ -118650,6 +118517,30 @@
     "archived": false
   },
   {
+    "id": "kapeli/dash-mcp-server",
+    "name": "dash-mcp-server",
+    "description": "MCP server for Dash, the macOS API documentation browser",
+    "descriptionZh": "为 Dash（macOS API 文档浏览器）提供的 MCP 服务器。",
+    "url": "https://github.com/Kapeli/dash-mcp-server",
+    "homepage": null,
+    "stars": 171,
+    "forks": 33,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "brew install uv",
+    "lastCommit": "2026-05-11T18:42:49Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:07.592Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "iunera/druid-mcp-server",
     "name": "druid-mcp-server",
     "description": "A comprehensive Model Context Protocol (MCP) server for Apache Druid that provides extensive tools, resources, and AI-assisted prompts for managing and analyzing Druid clusters. Built with Spring Boot and Spring AI, this server enables seamless integration between AI assistants and Apache Druid through standardized MCP protocol.",
@@ -119535,30 +119426,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-04T02:23:32.764Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "blakerouse/ssh-mcp",
-    "name": "ssh-mcp",
-    "description": "SSH MCP server that runs locally making it easy to manage hosts and perform commands across a group of hosts",
-    "descriptionZh": "本地运行的SSH MCP服务器，可轻松管理主机并在多台主机上执行命令。",
-    "url": "https://github.com/blakerouse/ssh-mcp",
-    "homepage": null,
-    "stars": 17,
-    "forks": 4,
-    "topics": [],
-    "language": "Go",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-11T08:17:34Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:49.187Z",
     "featured": false,
     "archived": false
   },
@@ -138225,6 +138092,46 @@
     "archived": false
   },
   {
+    "id": "liveblocks/liveblocks-mcp-server",
+    "name": "liveblocks-mcp-server",
+    "description": "MCP server for Liveblocks.",
+    "descriptionZh": "MCP 服务器，用于连接 Liveblocks 平台。",
+    "url": "https://github.com/liveblocks/liveblocks-mcp-server",
+    "homepage": "https://liveblocks.io/docs/tools/mcp-server",
+    "stars": 17,
+    "forks": 10,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-copilot",
+      "collaboration",
+      "commenting-system",
+      "comments",
+      "crdt",
+      "liveblocks",
+      "mcp",
+      "mcp-server",
+      "real-time",
+      "toolkit",
+      "websockets",
+      "yjs"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm i -g @openai/codex",
+    "lastCommit": "2026-05-11T11:10:57Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:36.566Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "imolatte/claude-cli-telegram",
     "name": "claude-cli-telegram",
     "description": "Turn your Mac/Linux into a remote Claude Code terminal via Telegram. Spawns real CLI — sessions, streaming, approvals, voice, git panel, 30+ commands.",
@@ -145501,6 +145408,42 @@
     "archived": false
   },
   {
+    "id": "hasanjahidul/terminal-history-mcp",
+    "name": "terminal-history-mcp",
+    "description": "Search your shell history (zsh/bash/fish) from Claude/MCP. Local SQLite FTS5. Secret-redacted.",
+    "descriptionZh": "从Claude/MCP搜索shell历史记录（zsh/bash/fish），基于本地SQLite FTS5，自动隐藏敏感信息。",
+    "url": "https://github.com/HasanJahidul/terminal-history-mcp",
+    "homepage": null,
+    "stars": 4,
+    "forks": 0,
+    "topics": [
+      "claude",
+      "cli",
+      "fts5",
+      "mcp",
+      "model-context-protocol",
+      "shell-history",
+      "sqlite",
+      "terminal",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g terminal-history-mcp",
+    "lastCommit": "2026-05-11T07:12:45Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:57.950Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "cocaxcode/api-testing-mcp",
     "name": "api-testing-mcp",
     "description": "The most complete MCP server for API testing. 27 tools: requests, assertions, flows, OpenAPI, mock data, load testing, collections, environments, cURL export, response diffing. Zero config, zero dependencies.",
@@ -146801,6 +146744,39 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.620Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "hasanjahidul/localhost-mcp",
+    "name": "localhost-mcp",
+    "description": "MCP server: inspect, manage, kill local dev servers. Stop guessing what's on :3000.",
+    "descriptionZh": "MCP 服务器：查看、管理、终止本地开发服务。别再猜 :3000 上跑的是什么。",
+    "url": "https://github.com/HasanJahidul/localhost-mcp",
+    "homepage": null,
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "claude",
+      "dev-server",
+      "localhost",
+      "lsof",
+      "mcp",
+      "model-context-protocol",
+      "ports",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g localhost-mcp",
+    "lastCommit": "2026-05-11T07:12:34Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:58.210Z",
     "featured": false,
     "archived": false
   },
@@ -158592,6 +158568,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:21.368Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "blakerouse/ssh-mcp",
+    "name": "ssh-mcp",
+    "description": "SSH MCP server that runs locally making it easy to manage hosts and perform commands across a group of hosts",
+    "descriptionZh": "本地运行的SSH MCP服务器，可轻松管理主机并在多台主机上执行命令。",
+    "url": "https://github.com/blakerouse/ssh-mcp",
+    "homepage": null,
+    "stars": 17,
+    "forks": 4,
+    "topics": [],
+    "language": "Go",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-11T08:17:34Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:49.187Z",
     "featured": false,
     "archived": false
   },
