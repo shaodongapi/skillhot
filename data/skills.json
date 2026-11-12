@@ -18239,30 +18239,6 @@
     "archived": false
   },
   {
-    "id": "markuspfundstein/mcp-obsidian",
-    "name": "mcp-obsidian",
-    "description": "MCP server that interacts with Obsidian via the Obsidian rest API community plugin",
-    "descriptionZh": "通过 Obsidian REST API 社区插件与 Obsidian 交互的 MCP 服务器。",
-    "url": "https://github.com/MarkusPfundstein/mcp-obsidian",
-    "homepage": null,
-    "stars": 4195,
-    "forks": 487,
-    "topics": [],
-    "language": "Python",
-    "category": "office",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx @modelcontextprotocol/inspector uv --directory /path/to/mcp-obsidian run mcp-obsidian",
-    "lastCommit": "2026-05-15T10:25:32Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:20.257Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "codegraphcontext/codegraphcontext",
     "name": "CodeGraphContext",
     "description": "An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.",
@@ -18443,6 +18419,30 @@
     "commits30d": 3,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-25T02:14:46.182Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "markuspfundstein/mcp-obsidian",
+    "name": "mcp-obsidian",
+    "description": "MCP server that interacts with Obsidian via the Obsidian rest API community plugin",
+    "descriptionZh": "通过 Obsidian REST API 社区插件与 Obsidian 交互的 MCP 服务器。",
+    "url": "https://github.com/MarkusPfundstein/mcp-obsidian",
+    "homepage": null,
+    "stars": 4195,
+    "forks": 487,
+    "topics": [],
+    "language": "Python",
+    "category": "office",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx @modelcontextprotocol/inspector uv --directory /path/to/mcp-obsidian run mcp-obsidian",
+    "lastCommit": "2026-05-15T10:25:32Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:20.257Z",
     "featured": false,
     "archived": false
   },
@@ -42557,35 +42557,6 @@
     "archived": false
   },
   {
-    "id": "hustcc/mcp-mermaid",
-    "name": "mcp-mermaid",
-    "description": "❤️ Generate mermaid diagram and chart with AI MCP dynamically.",
-    "descriptionZh": "使用AI MCP动态生成Mermaid图表和流程图。",
-    "url": "https://github.com/hustcc/mcp-mermaid",
-    "homepage": "https://github.com/hustcc/mcp-mermaid",
-    "stars": 615,
-    "forks": 55,
-    "topics": [
-      "mcp",
-      "mcp-server",
-      "mermaid",
-      "mermaidjs"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g mcp-mermaid",
-    "lastCommit": "2026-05-15T12:16:57Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:15.229Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "dbt-labs/dbt-mcp",
     "name": "dbt-mcp",
     "description": "A MCP (Model Context Protocol) server for interacting with dbt.",
@@ -48317,6 +48288,35 @@
     "archived": false
   },
   {
+    "id": "hustcc/mcp-mermaid",
+    "name": "mcp-mermaid",
+    "description": "❤️ Generate mermaid diagram and chart with AI MCP dynamically.",
+    "descriptionZh": "使用AI MCP动态生成Mermaid图表和流程图。",
+    "url": "https://github.com/hustcc/mcp-mermaid",
+    "homepage": "https://github.com/hustcc/mcp-mermaid",
+    "stars": 615,
+    "forks": 55,
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "mermaid",
+      "mermaidjs"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g mcp-mermaid",
+    "lastCommit": "2026-05-15T12:16:57Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:15.229Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "canner/wren-engine",
     "name": "wren-engine",
     "description": "This repository has been merged into Canner/WrenAI under the core/ directory",
@@ -53334,30 +53334,6 @@
     "commits30d": 56,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-13T02:18:01.829Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "snowflake-labs/mcp",
-    "name": "mcp",
-    "description": "MCP Server for Snowflake including Cortex AI, object management, SQL orchestration, semantic view consumption, and more",
-    "descriptionZh": "MCP Server for Snowflake，支持Cortex AI、对象管理、SQL编排、语义视图消费等功能。",
-    "url": "https://github.com/Snowflake-Labs/mcp",
-    "homepage": null,
-    "stars": 292,
-    "forks": 104,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx @modelcontextprotocol/inspector uvx snowflake-labs-mcp --service-config-file <path_to_file>/tools_config.yaml --connection-name \"default\"",
-    "lastCommit": "2026-05-15T16:30:51Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:30.819Z",
     "featured": false,
     "archived": false
   },
@@ -77987,6 +77963,30 @@
     "archived": false
   },
   {
+    "id": "snowflake-labs/mcp",
+    "name": "mcp",
+    "description": "MCP Server for Snowflake including Cortex AI, object management, SQL orchestration, semantic view consumption, and more",
+    "descriptionZh": "MCP Server for Snowflake，支持Cortex AI、对象管理、SQL编排、语义视图消费等功能。",
+    "url": "https://github.com/Snowflake-Labs/mcp",
+    "homepage": null,
+    "stars": 292,
+    "forks": 104,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx @modelcontextprotocol/inspector uvx snowflake-labs-mcp --service-config-file <path_to_file>/tools_config.yaml --connection-name \"default\"",
+    "lastCommit": "2026-05-15T16:30:51Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:30.819Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "hechtcarmel/jetbrains-debugger-mcp-plugin",
     "name": "jetbrains-debugger-mcp-plugin",
     "description": "jetbrains-debugger-mcp-plugin",
@@ -100707,41 +100707,6 @@
     "archived": false
   },
   {
-    "id": "colapsis/transfa",
-    "name": "transfa",
-    "description": "WeTransfer for agents. Dead-simple file sharing CLI for AI agents and developers.",
-    "descriptionZh": "WeTransfer 的智能体版。为 AI 智能体和开发者设计的极简文件共享命令行工具。",
-    "url": "https://github.com/colapsis/transfa",
-    "homepage": "https://transfa.sh",
-    "stars": 17,
-    "forks": 0,
-    "topics": [
-      "cli",
-      "file-sharing",
-      "mcp",
-      "nodejs",
-      "cicd",
-      "devops",
-      "file-transfer",
-      "rest-api",
-      "self-hostable",
-      "sha256"
-    ],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g transfa",
-    "lastCommit": "2026-05-15T20:54:09Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:57.026Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "brightlikethelight/networkx-mcp-server",
     "name": "networkx-mcp-server",
     "description": "🕸️ First NetworkX MCP server for graph analysis in AI conversations | Community & Enterprise editions | Graph algorithms • Network analysis • MCP integration",
@@ -103030,46 +102995,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:16:15.135Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "emblemcompany/agent-skills",
-    "name": "Agent-skills",
-    "description": "Official skill collection for EmblemAI agents — 200+ crypto tools across 7 blockchains",
-    "descriptionZh": "EmblemAI 代理官方技能合集，涵盖 7 条区块链的 200 多种加密工具。",
-    "url": "https://github.com/EmblemCompany/Agent-skills",
-    "homepage": "https://emblemvault.ai",
-    "stars": 12,
-    "forks": 2,
-    "topics": [
-      "agent-skills",
-      "ai-agent",
-      "blockchain",
-      "cross-chain",
-      "crypto",
-      "defi",
-      "emblem",
-      "emblemai",
-      "ethereum",
-      "nft",
-      "solana",
-      "wallet",
-      "web3"
-    ],
-    "language": "Shell",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx skills add EmblemCompany/Agent-skills --skill emblem-ai",
-    "lastCommit": "2026-05-15T08:53:47Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:12.706Z",
     "featured": false,
     "archived": false
   },
@@ -111356,40 +111281,6 @@
     "archived": false
   },
   {
-    "id": "notasandy/mcp-code-sanitizer",
-    "name": "mcp-code-sanitizer",
-    "description": "Strict AI code reviewer MCP server powered by Groq",
-    "descriptionZh": "基于Groq的严格AI代码审查MCP服务器。",
-    "url": "https://github.com/notasandy/mcp-code-sanitizer",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [
-      "ai-code-review",
-      "claude-code",
-      "code-review",
-      "cursor",
-      "groq",
-      "llm",
-      "mcp-server",
-      "security"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "pip install -r requirements.txt",
-    "lastCommit": "2026-05-15T21:28:02Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:25.108Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "ls-siem-llp/qa-probe",
     "name": "qa-probe",
     "description": "Local QA agent — maps frontend routes to backend APIs, probes every endpoint live, scores pages 0–100, and explains why data is missing. Built for LightShield SIEM. Works with any FastAPI / Express / Next.js app.",
@@ -114805,31 +114696,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:08.666Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "declan142/calcnook-mcp-server",
-    "name": "calcnook-mcp-server",
-    "description": "MCP server for calcnook — exposes 24 financial calculations to Claude Code, Cursor, Goose, and any MCP-compatible AI agent. Sharia-compliant, 7 countries. uvx calcnook-mcp.",
-    "descriptionZh": "MCP 服务器对接 calcnook，向 Claude Code、Cursor、Goose 等 AI 代理开放 24 种金融计算，符合伊斯兰教法，覆盖 7 个国家。",
-    "url": "https://github.com/Declan142/calcnook-mcp-server",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "pip install calcnook-mcp",
-    "lastCommit": "2026-05-15T05:45:55Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:11.111Z",
     "featured": false,
     "archived": false
   },
@@ -138029,6 +137895,41 @@
     "archived": false
   },
   {
+    "id": "colapsis/transfa",
+    "name": "transfa",
+    "description": "WeTransfer for agents. Dead-simple file sharing CLI for AI agents and developers.",
+    "descriptionZh": "WeTransfer 的智能体版。为 AI 智能体和开发者设计的极简文件共享命令行工具。",
+    "url": "https://github.com/colapsis/transfa",
+    "homepage": "https://transfa.sh",
+    "stars": 17,
+    "forks": 0,
+    "topics": [
+      "cli",
+      "file-sharing",
+      "mcp",
+      "nodejs",
+      "cicd",
+      "devops",
+      "file-transfer",
+      "rest-api",
+      "self-hostable",
+      "sha256"
+    ],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g transfa",
+    "lastCommit": "2026-05-15T20:54:09Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:57.026Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "liveblocks/liveblocks-mcp-server",
     "name": "liveblocks-mcp-server",
     "description": "MCP server for Liveblocks.",
@@ -140107,6 +140008,46 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:55.867Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "emblemcompany/agent-skills",
+    "name": "Agent-skills",
+    "description": "Official skill collection for EmblemAI agents — 200+ crypto tools across 7 blockchains",
+    "descriptionZh": "EmblemAI 代理官方技能合集，涵盖 7 条区块链的 200 多种加密工具。",
+    "url": "https://github.com/EmblemCompany/Agent-skills",
+    "homepage": "https://emblemvault.ai",
+    "stars": 12,
+    "forks": 2,
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "blockchain",
+      "cross-chain",
+      "crypto",
+      "defi",
+      "emblem",
+      "emblemai",
+      "ethereum",
+      "nft",
+      "solana",
+      "wallet",
+      "web3"
+    ],
+    "language": "Shell",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx skills add EmblemCompany/Agent-skills --skill emblem-ai",
+    "lastCommit": "2026-05-15T08:53:47Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:12.706Z",
     "featured": false,
     "archived": false
   },
@@ -148401,6 +148342,40 @@
     "archived": false
   },
   {
+    "id": "notasandy/mcp-code-sanitizer",
+    "name": "mcp-code-sanitizer",
+    "description": "Strict AI code reviewer MCP server powered by Groq",
+    "descriptionZh": "基于Groq的严格AI代码审查MCP服务器。",
+    "url": "https://github.com/notasandy/mcp-code-sanitizer",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "ai-code-review",
+      "claude-code",
+      "code-review",
+      "cursor",
+      "groq",
+      "llm",
+      "mcp-server",
+      "security"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "pip install -r requirements.txt",
+    "lastCommit": "2026-05-15T21:28:02Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:25.108Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "haiku-trading/haiku-mcp-server",
     "name": "haiku-mcp-server",
     "description": "MCP server for DeFi execution — lets AI agents swap, provide liquidity, lend, bridge, and run yield strategies across 22 chains",
@@ -151621,6 +151596,31 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "declan142/calcnook-mcp-server",
+    "name": "calcnook-mcp-server",
+    "description": "MCP server for calcnook — exposes 24 financial calculations to Claude Code, Cursor, Goose, and any MCP-compatible AI agent. Sharia-compliant, 7 countries. uvx calcnook-mcp.",
+    "descriptionZh": "MCP 服务器对接 calcnook，向 Claude Code、Cursor、Goose 等 AI 代理开放 24 种金融计算，符合伊斯兰教法，覆盖 7 个国家。",
+    "url": "https://github.com/Declan142/calcnook-mcp-server",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "pip install calcnook-mcp",
+    "lastCommit": "2026-05-15T05:45:55Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:11.111Z",
     "featured": false,
     "archived": false
   },
