@@ -110837,30 +110837,6 @@
     "archived": false
   },
   {
-    "id": "metadrama/obscura-mcp",
-    "name": "obscura-mcp",
-    "description": "MCP server adapter for Obscura headless browser — CDP automation without Chrome dependency",
-    "descriptionZh": "Obscura 无头浏览器 MCP 服务适配器，无需 Chrome 依赖即可实现 CDP 自动化。",
-    "url": "https://github.com/Metadrama/obscura-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "coding",
-    "platforms": [
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g obscura-mcp",
-    "lastCommit": "2026-05-17T11:58:18Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:27.923Z",
-    "featured": false,
-    "archived": true
-  },
-  {
     "id": "user0856/snaprender-integrations",
     "name": "snaprender-integrations",
     "description": "Official integrations for SnapRender Screenshot API — MCP server, SDKs, OpenClaw, ChatGPT Actions, Postman",
@@ -123000,30 +122976,6 @@
     "firstSeen": "2026-07-13T02:18:19.554Z",
     "featured": false,
     "archived": false
-  },
-  {
-    "id": "felippeyann/agentfi",
-    "name": "agentfi",
-    "description": "agentfi",
-    "descriptionZh": "AgentFi：基于AI Agent的去中心化金融协议，支持自主交易、收益聚合与跨链操作。",
-    "url": "https://github.com/felippeyann/agentfi",
-    "homepage": "https://agentfi-admin.vercel.app",
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "HTML",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-17T17:49:02Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:14.529Z",
-    "featured": false,
-    "archived": true
   },
   {
     "id": "asicojp/registep-mcp",
@@ -148232,6 +148184,30 @@
     "archived": false
   },
   {
+    "id": "metadrama/obscura-mcp",
+    "name": "obscura-mcp",
+    "description": "MCP server adapter for Obscura headless browser — CDP automation without Chrome dependency",
+    "descriptionZh": "Obscura 无头浏览器 MCP 服务适配器，无需 Chrome 依赖即可实现 CDP 自动化。",
+    "url": "https://github.com/Metadrama/obscura-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "coding",
+    "platforms": [
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g obscura-mcp",
+    "lastCommit": "2026-05-17T11:58:18Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:27.923Z",
+    "featured": false,
+    "archived": true
+  },
+  {
     "id": "horustechltd/horus-flow-mcp",
     "name": "horus-flow-mcp",
     "description": "Official MCP server for Horus Flow Intelligence: Institutional-grade market microstructure and orderflow physics for AI trading agents.",
@@ -162526,6 +162502,30 @@
     "firstSeen": "2026-06-30T13:17:52.418Z",
     "featured": false,
     "archived": false
+  },
+  {
+    "id": "felippeyann/agentfi",
+    "name": "agentfi",
+    "description": "agentfi",
+    "descriptionZh": "AgentFi：基于AI Agent的去中心化金融协议，支持自主交易、收益聚合与跨链操作。",
+    "url": "https://github.com/felippeyann/agentfi",
+    "homepage": "https://agentfi-admin.vercel.app",
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "HTML",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-17T17:49:02Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:14.529Z",
+    "featured": false,
+    "archived": true
   },
   {
     "id": "thelongevityvault/decoder-3am-mcp",
