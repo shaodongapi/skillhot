@@ -50814,40 +50814,6 @@
     "archived": false
   },
   {
-    "id": "sunriseapps/imagesorcery-mcp",
-    "name": "imagesorcery-mcp",
-    "description": "An MCP server providing tools for image processing operations",
-    "descriptionZh": "为图像处理操作提供工具的 MCP 服务器。",
-    "url": "https://github.com/sunriseapps/imagesorcery-mcp",
-    "homepage": "https://imagesorcery.net",
-    "stars": 328,
-    "forks": 50,
-    "topics": [
-      "computer-vision",
-      "image-processing",
-      "ocr",
-      "opencv",
-      "image-editing",
-      "image-manipulation",
-      "mcp",
-      "mcp-server"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "cline",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "brew install pipx",
-    "lastCommit": "2026-05-19T08:19:25Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:13.433Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "cesarandreslopez/sidekick-agent-hub",
     "name": "sidekick-agent-hub",
     "description": "See what your AI coding agent is doing. Multi-provider assistant & session monitor for VS Code and the terminal — inline completions, code transforms, and a full TUI dashboard tracking tokens, cost, and context across Claude Code, OpenCode, and Codex. Switch between multiple Claude Code and Codex accounts.",
@@ -60017,30 +59983,6 @@
     "firstSeen": "2026-06-30T13:18:04.006Z",
     "featured": false,
     "archived": false
-  },
-  {
-    "id": "apify/mcp-server-rag-web-browser",
-    "name": "mcp-server-rag-web-browser",
-    "description": "A MCP Server for the RAG Web Browser Actor",
-    "descriptionZh": "基于RAG网页浏览器角色的MCP服务器，支持智能检索与网页交互。",
-    "url": "https://github.com/apify/mcp-server-rag-web-browser",
-    "homepage": "https://apify.com/apify/rag-web-browser",
-    "stars": 208,
-    "forks": 30,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-05-19T20:20:12Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:40.873Z",
-    "featured": false,
-    "archived": true
   },
   {
     "id": "theserverlessdev/wsc",
@@ -70372,6 +70314,40 @@
     "commits30d": 26,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-23T02:19:03.474Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "sunriseapps/imagesorcery-mcp",
+    "name": "imagesorcery-mcp",
+    "description": "An MCP server providing tools for image processing operations",
+    "descriptionZh": "为图像处理操作提供工具的 MCP 服务器。",
+    "url": "https://github.com/sunriseapps/imagesorcery-mcp",
+    "homepage": "https://imagesorcery.net",
+    "stars": 328,
+    "forks": 50,
+    "topics": [
+      "computer-vision",
+      "image-processing",
+      "ocr",
+      "opencv",
+      "image-editing",
+      "image-manipulation",
+      "mcp",
+      "mcp-server"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "cline",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "brew install pipx",
+    "lastCommit": "2026-05-19T08:19:25Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:13.433Z",
     "featured": false,
     "archived": false
   },
@@ -94084,38 +94060,6 @@
     "archived": false
   },
   {
-    "id": "klever-io/mcp-klever-vm",
-    "name": "mcp-klever-vm",
-    "description": "MCP server for Klever blockchain smart contract development",
-    "descriptionZh": "为Klever区块链智能合约开发提供MCP服务器支持。",
-    "url": "https://github.com/klever-io/mcp-klever-vm",
-    "homepage": null,
-    "stars": 31,
-    "forks": 5,
-    "topics": [
-      "blockchain",
-      "klever",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "smart-contracts"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx -y @klever/mcp-server",
-    "lastCommit": "2026-05-19T13:34:32Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:32.687Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "sergkam/flycrys",
     "name": "FlyCrys",
     "description": "Native Linux GUI for Claude Code agents. Rust + GTK4. Fast, light, no Electron.",
@@ -103983,45 +103927,6 @@
     "archived": false
   },
   {
-    "id": "drolosoft/go-docs-mcp",
-    "name": "go-docs-mcp",
-    "description": "📄🐹⚡ Go MCP server for multi-format document access — PDF, TXT, MD, DOCX, CSV, images. Install and Go.",
-    "descriptionZh": "📄🐹⚡ 多格式文档访问的 Go MCP 服务器 — 支持 PDF、TXT、MD、DOCX、CSV、图片。安装即用。",
-    "url": "https://github.com/drolosoft/go-docs-mcp",
-    "homepage": "https://drolosoft.com/go-docs-mcp.html",
-    "stars": 9,
-    "forks": 2,
-    "topics": [
-      "claude",
-      "cli",
-      "documents",
-      "docx",
-      "go",
-      "markdown",
-      "mcp",
-      "mcp-server",
-      "ocr",
-      "pdf",
-      "self-hosted",
-      "tesseract",
-      "linux",
-      "macos"
-    ],
-    "language": "Go",
-    "category": "office",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "brew install poppler",
-    "lastCommit": "2026-05-19T06:11:45Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:54.659Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "visotrust/viso-mcp-server",
     "name": "viso-mcp-server",
     "description": "viso-mcp-server",
@@ -104422,6 +104327,30 @@
     "firstSeen": "2026-06-30T13:16:49.335Z",
     "featured": false,
     "archived": false
+  },
+  {
+    "id": "apify/mcp-server-rag-web-browser",
+    "name": "mcp-server-rag-web-browser",
+    "description": "A MCP Server for the RAG Web Browser Actor",
+    "descriptionZh": "基于RAG网页浏览器角色的MCP服务器，支持智能检索与网页交互。",
+    "url": "https://github.com/apify/mcp-server-rag-web-browser",
+    "homepage": "https://apify.com/apify/rag-web-browser",
+    "stars": 208,
+    "forks": 30,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-05-19T20:20:12Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:40.873Z",
+    "featured": false,
+    "archived": true
   },
   {
     "id": "zbdpay/zbd-payments-typescript-sdk",
@@ -111354,31 +111283,6 @@
     "archived": false
   },
   {
-    "id": "peliqan-io/mcp-server-peliqan",
-    "name": "mcp-server-peliqan",
-    "description": "mcp-server-peliqan",
-    "descriptionZh": "基于 Peliqan API 的 MCP 服务器，支持通过自然语言查询数据库、执行 SQL、管理数据目录及调用 Peliqan 数据 API。",
-    "url": "https://github.com/Peliqan-io/mcp-server-peliqan",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "cline",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "pip install mcp-server-peliqan",
-    "lastCommit": "2026-05-19T11:25:23Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:21.660Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "sh-patterson/fec-mcp-server",
     "name": "fec-mcp-server",
     "description": "MCP server for querying FEC campaign finance data - search candidates, track donations, analyze spending, and monitor Super PAC activity",
@@ -113602,42 +113506,6 @@
     "archived": false
   },
   {
-    "id": "vighriday/veris",
-    "name": "Veris",
-    "description": "Behavioral Verification Infrastructure — MCP-native intelligence layer for autonomous software correctness. 17 MCP tools, semantic workflow grouping, drift detection, counterfactual mode, adversarial probes, confidence half-life. Local-first, MIT, OSS.",
-    "descriptionZh": "行为验证基础设施：MCP原生智能层，保障自主软件正确性。含17个MCP工具、语义工作流分组、漂移检测、反事实模式、对抗探测与置信半衰期。本地优先，MIT开源。",
-    "url": "https://github.com/vighriday/Veris",
-    "homepage": "https://www.npmjs.com/package/veris-core",
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "code-analysis",
-      "cursor",
-      "mcp",
-      "oss",
-      "ts-morph",
-      "typescript",
-      "verification",
-      "behavioral-graph"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx veris-core .                                 # analyze current repo",
-    "lastCommit": "2026-05-19T06:17:18Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:16:31.417Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "parasxos/cpp26-adapter",
     "name": "cpp26-adapter",
     "description": "Claude Code plugin that turns Claude into a C++26 specialist. Standard-first suggestions; compiler-honest verification.",
@@ -113715,35 +113583,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:38.958Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "yang1bai/claw-tsaver",
-    "name": "claw-tsaver",
-    "description": "A token-saving MCP proxy for OpenClaw users. Cuts tool call payloads by 90%+ via lazy expansion.",
-    "descriptionZh": "面向OpenClaw用户的省令牌MCP代理，通过惰性扩展减少90%以上工具调用负载。",
-    "url": "https://github.com/Yang1Bai/claw-tsaver",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "mcp",
-      "openai",
-      "python",
-      "token-optimization"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g claw-tsaver",
-    "lastCommit": "2026-05-20T00:30:15Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:16:40.620Z",
     "featured": false,
     "archived": false
   },
@@ -114105,31 +113944,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:16:59.349Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "fabio662/yieldagentx402-sdks",
-    "name": "yieldagentx402-sdks",
-    "description": "Public SDKs for YieldAgentX402 — MCP server, receipt verifier, CrewAI tools. Custody-free, policy-gated agent execution across 18 chains.",
-    "descriptionZh": "YieldAgentX402 公共 SDK：MCP 服务器、收据验证器、CrewAI 工具。支持 18 条链上免托管、策略控制的代理执行。",
-    "url": "https://github.com/Fabio662/yieldagentx402-sdks",
-    "homepage": "https://yieldagentx402.app/mcp-server",
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "curl -X POST https://api.yieldagentx402.app/mcp \\",
-    "lastCommit": "2026-05-19T16:00:40Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:00.746Z",
     "featured": false,
     "archived": false
   },
@@ -132709,6 +132523,38 @@
     "archived": false
   },
   {
+    "id": "klever-io/mcp-klever-vm",
+    "name": "mcp-klever-vm",
+    "description": "MCP server for Klever blockchain smart contract development",
+    "descriptionZh": "为Klever区块链智能合约开发提供MCP服务器支持。",
+    "url": "https://github.com/klever-io/mcp-klever-vm",
+    "homepage": null,
+    "stars": 31,
+    "forks": 5,
+    "topics": [
+      "blockchain",
+      "klever",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "smart-contracts"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx -y @klever/mcp-server",
+    "lastCommit": "2026-05-19T13:34:32Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:32.687Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "mikechao/metmuseum-mcp",
     "name": "metmuseum-mcp",
     "description": "Met Museum MCP integration to discover the art collection at The Metropolitan Museum of Art in New York",
@@ -140885,6 +140731,45 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-07-02T02:51:03.914Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "drolosoft/go-docs-mcp",
+    "name": "go-docs-mcp",
+    "description": "📄🐹⚡ Go MCP server for multi-format document access — PDF, TXT, MD, DOCX, CSV, images. Install and Go.",
+    "descriptionZh": "📄🐹⚡ 多格式文档访问的 Go MCP 服务器 — 支持 PDF、TXT、MD、DOCX、CSV、图片。安装即用。",
+    "url": "https://github.com/drolosoft/go-docs-mcp",
+    "homepage": "https://drolosoft.com/go-docs-mcp.html",
+    "stars": 9,
+    "forks": 2,
+    "topics": [
+      "claude",
+      "cli",
+      "documents",
+      "docx",
+      "go",
+      "markdown",
+      "mcp",
+      "mcp-server",
+      "ocr",
+      "pdf",
+      "self-hosted",
+      "tesseract",
+      "linux",
+      "macos"
+    ],
+    "language": "Go",
+    "category": "office",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "brew install poppler",
+    "lastCommit": "2026-05-19T06:11:45Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:54.659Z",
     "featured": false,
     "archived": false
   },
@@ -150228,6 +150113,31 @@
     "archived": false
   },
   {
+    "id": "peliqan-io/mcp-server-peliqan",
+    "name": "mcp-server-peliqan",
+    "description": "mcp-server-peliqan",
+    "descriptionZh": "基于 Peliqan API 的 MCP 服务器，支持通过自然语言查询数据库、执行 SQL、管理数据目录及调用 Peliqan 数据 API。",
+    "url": "https://github.com/Peliqan-io/mcp-server-peliqan",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "cline",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "pip install mcp-server-peliqan",
+    "lastCommit": "2026-05-19T11:25:23Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:21.660Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "doggychip/agentforge",
     "name": "agentforge",
     "description": "AgentForge — subscription marketplace for AI agents, tools & content. Built for developers and AI agents alike.",
@@ -151502,6 +151412,96 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "vighriday/veris",
+    "name": "Veris",
+    "description": "Behavioral Verification Infrastructure — MCP-native intelligence layer for autonomous software correctness. 17 MCP tools, semantic workflow grouping, drift detection, counterfactual mode, adversarial probes, confidence half-life. Local-first, MIT, OSS.",
+    "descriptionZh": "行为验证基础设施：MCP原生智能层，保障自主软件正确性。含17个MCP工具、语义工作流分组、漂移检测、反事实模式、对抗探测与置信半衰期。本地优先，MIT开源。",
+    "url": "https://github.com/vighriday/Veris",
+    "homepage": "https://www.npmjs.com/package/veris-core",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "code-analysis",
+      "cursor",
+      "mcp",
+      "oss",
+      "ts-morph",
+      "typescript",
+      "verification",
+      "behavioral-graph"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx veris-core .                                 # analyze current repo",
+    "lastCommit": "2026-05-19T06:17:18Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:16:31.417Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "yang1bai/claw-tsaver",
+    "name": "claw-tsaver",
+    "description": "A token-saving MCP proxy for OpenClaw users. Cuts tool call payloads by 90%+ via lazy expansion.",
+    "descriptionZh": "面向OpenClaw用户的省令牌MCP代理，通过惰性扩展减少90%以上工具调用负载。",
+    "url": "https://github.com/Yang1Bai/claw-tsaver",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "mcp",
+      "openai",
+      "python",
+      "token-optimization"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g claw-tsaver",
+    "lastCommit": "2026-05-20T00:30:15Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:16:40.620Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "fabio662/yieldagentx402-sdks",
+    "name": "yieldagentx402-sdks",
+    "description": "Public SDKs for YieldAgentX402 — MCP server, receipt verifier, CrewAI tools. Custody-free, policy-gated agent execution across 18 chains.",
+    "descriptionZh": "YieldAgentX402 公共 SDK：MCP 服务器、收据验证器、CrewAI 工具。支持 18 条链上免托管、策略控制的代理执行。",
+    "url": "https://github.com/Fabio662/yieldagentx402-sdks",
+    "homepage": "https://yieldagentx402.app/mcp-server",
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "curl -X POST https://api.yieldagentx402.app/mcp \\",
+    "lastCommit": "2026-05-19T16:00:40Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:00.746Z",
     "featured": false,
     "archived": false
   },
