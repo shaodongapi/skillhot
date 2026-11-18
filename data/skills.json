@@ -92970,32 +92970,6 @@
     "archived": false
   },
   {
-    "id": "retio-ai/retio-pagemap",
-    "name": "Retio-pagemap",
-    "description": "Retio-pagemap",
-    "descriptionZh": "Retio-pagemap 是一个用于 Linux 内核的 eBPF 工具，可实时监控和记录进程的页面映射信息，帮助分析内存使用与性能问题。",
-    "url": "https://github.com/Retio-ai/Retio-pagemap",
-    "homepage": null,
-    "stars": 34,
-    "forks": 5,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "pip install retio-pagemap",
-    "lastCommit": "2026-05-21T08:23:20Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:29.834Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "adhikasp/mcp-twikit",
     "name": "mcp-twikit",
     "description": "A Model Context Protocol (MCP) server for interacting with Twitter.",
@@ -102037,30 +102011,6 @@
     "archived": false
   },
   {
-    "id": "raychao-oao/pty-mcp",
-    "name": "pty-mcp",
-    "description": "MCP server for interactive terminal sessions — local shells, SSH, serial ports, and   persistent remote sessions",
-    "descriptionZh": "MCP 服务器，支持交互式终端会话——本地 Shell、SSH、串口及持久化远程会话。",
-    "url": "https://github.com/raychao-oao/pty-mcp",
-    "homepage": null,
-    "stars": 14,
-    "forks": 1,
-    "topics": [],
-    "language": "Go",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "claude plugin install pty-mcp@pty-mcp",
-    "lastCommit": "2026-05-22T02:04:21Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:57.345Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "emailens/mcp",
     "name": "mcp",
     "description": "MCP server for email compatibility analysis - preview, audit, fix, diff, and check deliverability across 15 email clients.",
@@ -108762,41 +108712,6 @@
     "archived": false
   },
   {
-    "id": "aidemd-mcp/server",
-    "name": "server",
-    "description": "MCP server that teaches any AI agent the AIDE spec methodology — progressive   disclosure specs alongside code",
-    "descriptionZh": "为AI代理提供AIDE规范方法论的MCP服务器——渐进式展示代码规范。",
-    "url": "https://github.com/aidemd-mcp/server",
-    "homepage": null,
-    "stars": 3,
-    "forks": 0,
-    "topics": [
-      "ai-coding",
-      "claude-code",
-      "cursor",
-      "developer-tools",
-      "mcp-server",
-      "windsurf",
-      "aide-methodology",
-      "aidemd"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx @aidemd-mcp/server@latest init",
-    "lastCommit": "2026-05-22T01:27:44Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:47.145Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mgm-falcon/quelllm-mcp",
     "name": "quelllm-mcp",
     "description": "MCP server for quelllm.fr — 250+ open-weights LLM catalog. Tools: list/compare/estimate VRAM/estimate cost API vs self-hosted.",
@@ -110437,41 +110352,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:49.730Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "sh-patterson/fec-mcp-server",
-    "name": "fec-mcp-server",
-    "description": "MCP server for querying FEC campaign finance data - search candidates, track donations, analyze spending, and monitor Super PAC activity",
-    "descriptionZh": "为查询FEC竞选财务数据设计的MCP服务器，支持搜索候选人、追踪捐款、分析支出及监控超级政治行动委员会活动。",
-    "url": "https://github.com/sh-patterson/fec-mcp-server",
-    "homepage": null,
-    "stars": 3,
-    "forks": 1,
-    "topics": [
-      "mcp",
-      "model-context-protocol",
-      "fec",
-      "campaign-finance",
-      "political-data",
-      "ai-tools",
-      "claude",
-      "open-data",
-      "government-data",
-      "election-data"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g fec-mcp-server",
-    "lastCommit": "2026-05-21T19:20:26Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:14.947Z",
     "featured": false,
     "archived": false
   },
@@ -131422,6 +131302,32 @@
     "archived": false
   },
   {
+    "id": "retio-ai/retio-pagemap",
+    "name": "Retio-pagemap",
+    "description": "Retio-pagemap",
+    "descriptionZh": "Retio-pagemap 是一个用于 Linux 内核的 eBPF 工具，可实时监控和记录进程的页面映射信息，帮助分析内存使用与性能问题。",
+    "url": "https://github.com/Retio-ai/Retio-pagemap",
+    "homepage": null,
+    "stars": 34,
+    "forks": 5,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "pip install retio-pagemap",
+    "lastCommit": "2026-05-21T08:23:20Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:29.834Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "mcpware/pagecast",
     "name": "pagecast",
     "description": "Record any browser page as GIF or video via MCP — powered by Playwright + ffmpeg",
@@ -137930,6 +137836,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:27.442Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "raychao-oao/pty-mcp",
+    "name": "pty-mcp",
+    "description": "MCP server for interactive terminal sessions — local shells, SSH, serial ports, and   persistent remote sessions",
+    "descriptionZh": "MCP 服务器，支持交互式终端会话——本地 Shell、SSH、串口及持久化远程会话。",
+    "url": "https://github.com/raychao-oao/pty-mcp",
+    "homepage": null,
+    "stars": 14,
+    "forks": 1,
+    "topics": [],
+    "language": "Go",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "claude plugin install pty-mcp@pty-mcp",
+    "lastCommit": "2026-05-22T02:04:21Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:57.345Z",
     "featured": false,
     "archived": false
   },
@@ -146231,6 +146161,41 @@
     "archived": false
   },
   {
+    "id": "aidemd-mcp/server",
+    "name": "server",
+    "description": "MCP server that teaches any AI agent the AIDE spec methodology — progressive   disclosure specs alongside code",
+    "descriptionZh": "为AI代理提供AIDE规范方法论的MCP服务器——渐进式展示代码规范。",
+    "url": "https://github.com/aidemd-mcp/server",
+    "homepage": null,
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "ai-coding",
+      "claude-code",
+      "cursor",
+      "developer-tools",
+      "mcp-server",
+      "windsurf",
+      "aide-methodology",
+      "aidemd"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx @aidemd-mcp/server@latest init",
+    "lastCommit": "2026-05-22T01:27:44Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:47.145Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "salwks/mcp-techtrend",
     "name": "mcp-techTrend",
     "description": "mcp-techTrend",
@@ -150109,6 +150074,41 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:31.468Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "sh-patterson/fec-mcp-server",
+    "name": "fec-mcp-server",
+    "description": "MCP server for querying FEC campaign finance data - search candidates, track donations, analyze spending, and monitor Super PAC activity",
+    "descriptionZh": "为查询FEC竞选财务数据设计的MCP服务器，支持搜索候选人、追踪捐款、分析支出及监控超级政治行动委员会活动。",
+    "url": "https://github.com/sh-patterson/fec-mcp-server",
+    "homepage": null,
+    "stars": 3,
+    "forks": 1,
+    "topics": [
+      "mcp",
+      "model-context-protocol",
+      "fec",
+      "campaign-finance",
+      "political-data",
+      "ai-tools",
+      "claude",
+      "open-data",
+      "government-data",
+      "election-data"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g fec-mcp-server",
+    "lastCommit": "2026-05-21T19:20:26Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:14.947Z",
     "featured": false,
     "archived": false
   },
