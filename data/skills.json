@@ -56830,30 +56830,6 @@
     "archived": false
   },
   {
-    "id": "cr7258/elasticsearch-mcp-server",
-    "name": "elasticsearch-mcp-server",
-    "description": "A Model Context Protocol (MCP) server implementation that provides Elasticsearch and OpenSearch interaction.",
-    "descriptionZh": "基于模型上下文协议（MCP）的服务器实现，提供 Elasticsearch 和 OpenSearch 交互功能。",
-    "url": "https://github.com/cr7258/elasticsearch-mcp-server",
-    "homepage": null,
-    "stars": 301,
-    "forks": 61,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-22T14:44:30Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:20.119Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "doricstack/mcp-broker",
     "name": "mcp-broker",
     "description": "Local MCP broker that exposes one compact MCP entry for MCP clients while routing to many configured upstream servers.",
@@ -67901,37 +67877,6 @@
     "commits30d": 31,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:14:16.929Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "ergut/mcp-bigquery-server",
-    "name": "mcp-bigquery-server",
-    "description": "A Model Context Protocol (MCP) server that provides secure, read-only access to BigQuery datasets. Enables Large Language Models (LLMs) to safely query and analyze data through a standardized interface.",
-    "descriptionZh": "基于MCP协议的安全只读BigQuery数据服务器，为大型语言模型提供标准化接口，实现安全的数据查询与分析。",
-    "url": "https://github.com/ergut/mcp-bigquery-server",
-    "homepage": null,
-    "stars": 145,
-    "forks": 34,
-    "topics": [
-      "bigquery",
-      "google-cloud",
-      "mcp",
-      "mcp-servers",
-      "model-context-protocol",
-      "sql"
-    ],
-    "language": "TypeScript",
-    "category": "data",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx @ergut/mcp-bigquery-server --project-id your-project-id --location europe-west1 --key-file /path/to/key.json --config-file /path/to/config.json --maximum-bytes-billed 2000000000",
-    "lastCommit": "2026-05-22T09:39:51Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:21.177Z",
     "featured": false,
     "archived": false
   },
@@ -83936,48 +83881,6 @@
     "archived": false
   },
   {
-    "id": "efforthye/fast-filesystem-mcp",
-    "name": "fast-filesystem-mcp",
-    "description": "A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.",
-    "descriptionZh": "高性能 MCP 服务器，为 Claude 等 AI 助手提供安全的文件系统访问。",
-    "url": "https://github.com/efforthye/fast-filesystem-mcp",
-    "homepage": "https://fast-filesystem-mcp.vercel.app",
-    "stars": 59,
-    "forks": 20,
-    "topics": [
-      "ai-tools",
-      "anthropic",
-      "claude",
-      "claude-desktop",
-      "fast",
-      "file-operations",
-      "filesystem",
-      "mcp",
-      "mcp-server",
-      "nodejs",
-      "typescript",
-      "ai-assistant",
-      "automation",
-      "backup",
-      "developer-tools",
-      "large-files",
-      "streaming"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install -g fast-filesystem-mcp",
-    "lastCommit": "2026-05-23T03:34:06Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:54.433Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "simontarara62/capitalcom-mcp-server",
     "name": "capitalcom-mcp-server",
     "description": "Unofficial MCP server for the Capital.com Open API — safe, guarded LLM trading (two-phase, allowlists, demo-first) with FastMCP. 42 tools for market data, accounts & trading. Not affiliated with Capital.com.",
@@ -86649,6 +86552,30 @@
     "firstSeen": "2026-07-06T02:42:20.317Z",
     "featured": false,
     "archived": true
+  },
+  {
+    "id": "cr7258/elasticsearch-mcp-server",
+    "name": "elasticsearch-mcp-server",
+    "description": "A Model Context Protocol (MCP) server implementation that provides Elasticsearch and OpenSearch interaction.",
+    "descriptionZh": "基于模型上下文协议（MCP）的服务器实现，提供 Elasticsearch 和 OpenSearch 交互功能。",
+    "url": "https://github.com/cr7258/elasticsearch-mcp-server",
+    "homepage": null,
+    "stars": 301,
+    "forks": 61,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-22T14:44:30Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:20.119Z",
+    "featured": false,
+    "archived": false
   },
   {
     "id": "ahonn/mcp-server-gsc",
@@ -121648,6 +121575,37 @@
     "archived": false
   },
   {
+    "id": "ergut/mcp-bigquery-server",
+    "name": "mcp-bigquery-server",
+    "description": "A Model Context Protocol (MCP) server that provides secure, read-only access to BigQuery datasets. Enables Large Language Models (LLMs) to safely query and analyze data through a standardized interface.",
+    "descriptionZh": "基于MCP协议的安全只读BigQuery数据服务器，为大型语言模型提供标准化接口，实现安全的数据查询与分析。",
+    "url": "https://github.com/ergut/mcp-bigquery-server",
+    "homepage": null,
+    "stars": 145,
+    "forks": 34,
+    "topics": [
+      "bigquery",
+      "google-cloud",
+      "mcp",
+      "mcp-servers",
+      "model-context-protocol",
+      "sql"
+    ],
+    "language": "TypeScript",
+    "category": "data",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx @ergut/mcp-bigquery-server --project-id your-project-id --location europe-west1 --key-file /path/to/key.json --config-file /path/to/config.json --maximum-bytes-billed 2000000000",
+    "lastCommit": "2026-05-22T09:39:51Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:21.177Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "ckanthony/openapi-mcp",
     "name": "openapi-mcp",
     "description": "Dockerized MCP Server to allow your AI agent to access any API with existing api docs",
@@ -126041,6 +125999,48 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:07.393Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "efforthye/fast-filesystem-mcp",
+    "name": "fast-filesystem-mcp",
+    "description": "A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.",
+    "descriptionZh": "高性能 MCP 服务器，为 Claude 等 AI 助手提供安全的文件系统访问。",
+    "url": "https://github.com/efforthye/fast-filesystem-mcp",
+    "homepage": "https://fast-filesystem-mcp.vercel.app",
+    "stars": 59,
+    "forks": 20,
+    "topics": [
+      "ai-tools",
+      "anthropic",
+      "claude",
+      "claude-desktop",
+      "fast",
+      "file-operations",
+      "filesystem",
+      "mcp",
+      "mcp-server",
+      "nodejs",
+      "typescript",
+      "ai-assistant",
+      "automation",
+      "backup",
+      "developer-tools",
+      "large-files",
+      "streaming"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install -g fast-filesystem-mcp",
+    "lastCommit": "2026-05-23T03:34:06Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:54.433Z",
     "featured": false,
     "archived": false
   },
