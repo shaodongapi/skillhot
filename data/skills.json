@@ -109925,30 +109925,6 @@
     "archived": false
   },
   {
-    "id": "callhub/callhub-mcp",
-    "name": "callhub-mcp",
-    "description": "callhub-mcp",
-    "descriptionZh": "CallHub MCP 服务器，集成呼叫中心 API，支持通话记录查询、实时呼叫控制、语音邮件与短信发送。",
-    "url": "https://github.com/callhub/callhub-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install -r requirements.txt",
-    "lastCommit": "2026-05-23T15:58:58Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:37.465Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "windsor-ai/windsor_mcp",
     "name": "windsor_mcp",
     "description": "windsor_mcp",
@@ -148030,6 +148006,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:46.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "callhub/callhub-mcp",
+    "name": "callhub-mcp",
+    "description": "callhub-mcp",
+    "descriptionZh": "CallHub MCP 服务器，集成呼叫中心 API，支持通话记录查询、实时呼叫控制、语音邮件与短信发送。",
+    "url": "https://github.com/callhub/callhub-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install -r requirements.txt",
+    "lastCommit": "2026-05-23T15:58:58Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:37.465Z",
     "featured": false,
     "archived": false
   },
