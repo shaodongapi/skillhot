@@ -72901,31 +72901,6 @@
     "archived": false
   },
   {
-    "id": "janreges/ai-distiller",
-    "name": "ai-distiller",
-    "description": "AI Distiller is ultra‑fast, open‑source tool for intelligently extracting only the essential public APIs, types, and structure from large codebases. Compresses 90–98% of code into AI‑friendly context, integrates via CLI or MCP, supports 12+ languages, and AI prompt workflows for cleaner, cost‑effective AI development.",
-    "descriptionZh": "AI Distiller 是一款超快开源工具，能从大型代码库中智能提取核心公共API、类型与结构，压缩90-98%代码为AI友好上下文，支持CLI/MCP集成、12+语言及AI提示工作流，实现更清洁、低成本的AI开发。",
-    "url": "https://github.com/janreges/ai-distiller",
-    "homepage": null,
-    "stars": 165,
-    "forks": 21,
-    "topics": [],
-    "language": "C",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-25T01:12:33Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:05.351Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "pydantic/logfire-mcp",
     "name": "logfire-mcp",
     "description": "The Logfire MCP Server is here! :tada:",
@@ -88210,40 +88185,6 @@
     "archived": false
   },
   {
-    "id": "rafsilva85/credit-optimizer-v5",
-    "name": "credit-optimizer-v5",
-    "description": "Save 47% on Manus AI credits automatically. Zero downsides. Pays for itself in ~27 prompts. Free MCP Server (PyPI) + $12 Manus Skill bundle with Fast Navigation (115x speed boost).",
-    "descriptionZh": "自动节省47%的Manus AI积分，零副作用，约27次提示即回本。免费MCP服务器（PyPI）+价值12美元的Manus技能包，含115倍速快速导航。",
-    "url": "https://github.com/rafsilva85/credit-optimizer-v5",
-    "homepage": "https://creditopt.ai",
-    "stars": 45,
-    "forks": 11,
-    "topics": [
-      "ai-agents",
-      "cost-optimization",
-      "mcp-server",
-      "manus-ai",
-      "manus-skill",
-      "mcp",
-      "ai-tools",
-      "credit-optimizer",
-      "python"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install mcp-credit-optimizer",
-    "lastCommit": "2026-05-25T00:08:44Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:54.651Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "unstructured-io/uns-mcp",
     "name": "UNS-MCP",
     "description": "UNS-MCP",
@@ -92280,38 +92221,6 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-07-03T02:26:01.573Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "cifero74/mcp-apple-music",
-    "name": "mcp-apple-music",
-    "description": "Full Apple Music integration for Claude via MCP — search catalog, manage library & playlists",
-    "descriptionZh": "通过 MCP 为 Claude 提供完整的 Apple Music 集成，支持搜索曲库、管理资料库和播放列表。",
-    "url": "https://github.com/Cifero74/mcp-apple-music",
-    "homepage": "https://github.com/Cifero74/mcp-apple-music",
-    "stars": 35,
-    "forks": 7,
-    "topics": [
-      "anthropic",
-      "apple-music",
-      "claude",
-      "fastmcp",
-      "mcp",
-      "musickit",
-      "python"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install -e .",
-    "lastCommit": "2026-05-24T06:46:14Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:10.597Z",
     "featured": false,
     "archived": false
   },
@@ -108746,40 +108655,6 @@
     "archived": false
   },
   {
-    "id": "juhongpark/mcp-server-pronunciation",
-    "name": "mcp-server-pronunciation",
-    "description": "Local MCP voice coach with English pronunciation, grammar, and fluency feedback.",
-    "descriptionZh": "本地MCP语音教练，提供英语发音、语法和流利度反馈。",
-    "url": "https://github.com/JuhongPark/mcp-server-pronunciation",
-    "homepage": null,
-    "stars": 3,
-    "forks": 1,
-    "topics": [
-      "english-learning",
-      "language-learning",
-      "mcp",
-      "model-context-protocol",
-      "pronunciation",
-      "speech",
-      "voice",
-      "whisper"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "pip install mcp-server-pronunciation",
-    "lastCommit": "2026-05-24T05:17:37Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:16:49.895Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "regan-milne/obsideo-mcp",
     "name": "obsideo-mcp",
     "description": "MCP server for Obsideo: encrypted S3-compatible storage with cryptographic possession proofs. 12 GB free, self-serve signup, runs on your machine.",
@@ -123908,6 +123783,31 @@
     "archived": false
   },
   {
+    "id": "janreges/ai-distiller",
+    "name": "ai-distiller",
+    "description": "AI Distiller is ultra‑fast, open‑source tool for intelligently extracting only the essential public APIs, types, and structure from large codebases. Compresses 90–98% of code into AI‑friendly context, integrates via CLI or MCP, supports 12+ languages, and AI prompt workflows for cleaner, cost‑effective AI development.",
+    "descriptionZh": "AI Distiller 是一款超快开源工具，能从大型代码库中智能提取核心公共API、类型与结构，压缩90-98%代码为AI友好上下文，支持CLI/MCP集成、12+语言及AI提示工作流，实现更清洁、低成本的AI开发。",
+    "url": "https://github.com/janreges/ai-distiller",
+    "homepage": null,
+    "stars": 165,
+    "forks": 21,
+    "topics": [],
+    "language": "C",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-25T01:12:33Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:05.351Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "huggingagi/mcp-baostock-server",
     "name": "mcp-baostock-server",
     "description": "mcp-baostock-server",
@@ -128758,6 +128658,40 @@
     "archived": false
   },
   {
+    "id": "rafsilva85/credit-optimizer-v5",
+    "name": "credit-optimizer-v5",
+    "description": "Save 47% on Manus AI credits automatically. Zero downsides. Pays for itself in ~27 prompts. Free MCP Server (PyPI) + $12 Manus Skill bundle with Fast Navigation (115x speed boost).",
+    "descriptionZh": "自动节省47%的Manus AI积分，零副作用，约27次提示即回本。免费MCP服务器（PyPI）+价值12美元的Manus技能包，含115倍速快速导航。",
+    "url": "https://github.com/rafsilva85/credit-optimizer-v5",
+    "homepage": "https://creditopt.ai",
+    "stars": 45,
+    "forks": 11,
+    "topics": [
+      "ai-agents",
+      "cost-optimization",
+      "mcp-server",
+      "manus-ai",
+      "manus-skill",
+      "mcp",
+      "ai-tools",
+      "credit-optimizer",
+      "python"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install mcp-credit-optimizer",
+    "lastCommit": "2026-05-25T00:08:44Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:54.651Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "ac3xx/mcp-servers-kagi",
     "name": "mcp-servers-kagi",
     "description": "A Model Context Protocol server implementation for Kagi's API",
@@ -131174,6 +131108,38 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:20.889Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "cifero74/mcp-apple-music",
+    "name": "mcp-apple-music",
+    "description": "Full Apple Music integration for Claude via MCP — search catalog, manage library & playlists",
+    "descriptionZh": "通过 MCP 为 Claude 提供完整的 Apple Music 集成，支持搜索曲库、管理资料库和播放列表。",
+    "url": "https://github.com/Cifero74/mcp-apple-music",
+    "homepage": "https://github.com/Cifero74/mcp-apple-music",
+    "stars": 35,
+    "forks": 7,
+    "topics": [
+      "anthropic",
+      "apple-music",
+      "claude",
+      "fastmcp",
+      "mcp",
+      "musickit",
+      "python"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install -e .",
+    "lastCommit": "2026-05-24T06:46:14Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:10.597Z",
     "featured": false,
     "archived": false
   },
@@ -146133,6 +146099,40 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:29.620Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "juhongpark/mcp-server-pronunciation",
+    "name": "mcp-server-pronunciation",
+    "description": "Local MCP voice coach with English pronunciation, grammar, and fluency feedback.",
+    "descriptionZh": "本地MCP语音教练，提供英语发音、语法和流利度反馈。",
+    "url": "https://github.com/JuhongPark/mcp-server-pronunciation",
+    "homepage": null,
+    "stars": 3,
+    "forks": 1,
+    "topics": [
+      "english-learning",
+      "language-learning",
+      "mcp",
+      "model-context-protocol",
+      "pronunciation",
+      "speech",
+      "voice",
+      "whisper"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "pip install mcp-server-pronunciation",
+    "lastCommit": "2026-05-24T05:17:37Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:16:49.895Z",
     "featured": false,
     "archived": false
   },
