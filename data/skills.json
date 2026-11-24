@@ -8231,6 +8231,40 @@
     "archived": false
   },
   {
+    "id": "awslabs/mcp",
+    "name": "mcp",
+    "description": "Open source MCP Servers for AWS",
+    "descriptionZh": "AWS 开源 MCP 服务器，帮助 AI 应用安全访问 AWS 服务，支持资源操作、工具调用和权限控制。",
+    "url": "https://github.com/awslabs/mcp",
+    "homepage": "https://awslabs.github.io/mcp/",
+    "stars": 9509,
+    "forks": 1664,
+    "topics": [
+      "aws",
+      "mcp",
+      "mcp-client",
+      "mcp-clients",
+      "mcp-host",
+      "mcp-server",
+      "mcp-servers",
+      "mcp-tools",
+      "modelcontextprotocol"
+    ],
+    "language": "Python",
+    "category": "data",
+    "platforms": [
+      "cline"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-07-27T19:25:36Z",
+    "commits30d": 71,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:33.184Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "agricidaniel/claude-obsidian",
     "name": "claude-obsidian",
     "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
@@ -8272,40 +8306,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-20T02:33:10.823Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "awslabs/mcp",
-    "name": "mcp",
-    "description": "Open source MCP Servers for AWS",
-    "descriptionZh": "AWS 开源 MCP 服务器，帮助 AI 应用安全访问 AWS 服务，支持资源操作、工具调用和权限控制。",
-    "url": "https://github.com/awslabs/mcp",
-    "homepage": "https://awslabs.github.io/mcp/",
-    "stars": 9509,
-    "forks": 1664,
-    "topics": [
-      "aws",
-      "mcp",
-      "mcp-client",
-      "mcp-clients",
-      "mcp-host",
-      "mcp-server",
-      "mcp-servers",
-      "mcp-tools",
-      "modelcontextprotocol"
-    ],
-    "language": "Python",
-    "category": "data",
-    "platforms": [
-      "cline"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-07-27T19:25:36Z",
-    "commits30d": 71,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:33.184Z",
     "featured": false,
     "archived": false
   },
@@ -66811,39 +66811,6 @@
     "archived": false
   },
   {
-    "id": "fradser/mcp-server-apple-events",
-    "name": "mcp-server-apple-events",
-    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
-    "descriptionZh": "基于 MCP 协议的服务器，通过 EventKit 原生集成 macOS 提醒事项与日历。",
-    "url": "https://github.com/FradSer/mcp-server-apple-events",
-    "homepage": null,
-    "stars": 153,
-    "forks": 42,
-    "topics": [
-      "calendar",
-      "eventkit",
-      "macos",
-      "mcp-server",
-      "model-context-protocol",
-      "reminders",
-      "swift",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx mcp-server-apple-events",
-    "lastCommit": "2026-05-27T13:23:28Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-06T02:42:12.124Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "couchbase/mcp-server-couchbase",
     "name": "mcp-server-couchbase",
     "description": "MCP Server to interact with data in Couchbase Clusters",
@@ -67041,105 +67008,6 @@
     "commits30d": 24,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-04T02:23:13.294Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "fradser/mcp-server-apple-events",
-    "name": "mcp-server-apple-events",
-    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
-    "descriptionZh": "基于 MCP 协议，通过 EventKit 实现 macOS 原生集成，支持 Apple 提醒事项与日历管理。",
-    "url": "https://github.com/FradSer/mcp-server-apple-events",
-    "homepage": null,
-    "stars": 150,
-    "forks": 41,
-    "topics": [
-      "calendar",
-      "eventkit",
-      "macos",
-      "mcp-server",
-      "model-context-protocol",
-      "reminders",
-      "swift",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx mcp-server-apple-events",
-    "lastCommit": "2026-05-27T13:23:28Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-03T02:26:20.074Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "fradser/mcp-server-apple-events",
-    "name": "mcp-server-apple-events",
-    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
-    "descriptionZh": "基于 MCP 协议，通过 EventKit 原生集成 macOS 提醒事项与日历的服务器。",
-    "url": "https://github.com/FradSer/mcp-server-apple-events",
-    "homepage": null,
-    "stars": 150,
-    "forks": 41,
-    "topics": [
-      "calendar",
-      "eventkit",
-      "macos",
-      "mcp-server",
-      "model-context-protocol",
-      "reminders",
-      "swift",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx mcp-server-apple-events",
-    "lastCommit": "2026-05-27T13:23:28Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-02T02:50:50.776Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "fradser/mcp-server-apple-events",
-    "name": "mcp-server-apple-events",
-    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
-    "descriptionZh": "基于 MCP 协议的服务器，通过 EventKit 原生集成 macOS 提醒事项与日历。",
-    "url": "https://github.com/FradSer/mcp-server-apple-events",
-    "homepage": null,
-    "stars": 150,
-    "forks": 41,
-    "topics": [
-      "calendar",
-      "eventkit",
-      "macos",
-      "mcp-server",
-      "model-context-protocol",
-      "reminders",
-      "swift",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx mcp-server-apple-events",
-    "lastCommit": "2026-05-27T13:23:28Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:14:24.656Z",
     "featured": false,
     "archived": false
   },
@@ -67357,39 +67225,6 @@
     "archived": false
   },
   {
-    "id": "fradser/mcp-server-apple-events",
-    "name": "mcp-server-apple-events",
-    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
-    "descriptionZh": "基于 MCP 协议的服务器，通过 EventKit 原生集成 macOS 提醒事项与日历。",
-    "url": "https://github.com/FradSer/mcp-server-apple-events",
-    "homepage": null,
-    "stars": 149,
-    "forks": 41,
-    "topics": [
-      "calendar",
-      "eventkit",
-      "macos",
-      "mcp-server",
-      "model-context-protocol",
-      "reminders",
-      "swift",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx mcp-server-apple-events",
-    "lastCommit": "2026-05-27T13:23:28Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-07-01T02:58:38.971Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "codeswhat/portkey-admin-mcp",
     "name": "portkey-admin-mcp",
     "description": "Full Portkey Admin API MCP server",
@@ -67506,72 +67341,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-24T02:14:07.429Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "fradser/mcp-server-apple-events",
-    "name": "mcp-server-apple-events",
-    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
-    "descriptionZh": "基于 EventKit 的 MCP 服务器，为 macOS 提供 Apple 提醒事项与日历的原生集成。",
-    "url": "https://github.com/FradSer/mcp-server-apple-events",
-    "homepage": null,
-    "stars": 150,
-    "forks": 42,
-    "topics": [
-      "calendar",
-      "eventkit",
-      "macos",
-      "mcp-server",
-      "model-context-protocol",
-      "reminders",
-      "swift",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx mcp-server-apple-events",
-    "lastCommit": "2026-05-27T13:23:28Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-05T02:39:49.820Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "fradser/mcp-server-apple-events",
-    "name": "mcp-server-apple-events",
-    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
-    "descriptionZh": "基于 MCP 协议的服务器，通过 EventKit 原生集成 macOS 提醒事项与日历。",
-    "url": "https://github.com/FradSer/mcp-server-apple-events",
-    "homepage": null,
-    "stars": 150,
-    "forks": 42,
-    "topics": [
-      "calendar",
-      "eventkit",
-      "macos",
-      "mcp-server",
-      "model-context-protocol",
-      "reminders",
-      "swift",
-      "typescript"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx mcp-server-apple-events",
-    "lastCommit": "2026-05-27T13:23:28Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-07-04T02:23:05.238Z",
     "featured": false,
     "archived": false
   },
@@ -105155,30 +104924,6 @@
     "archived": false
   },
   {
-    "id": "narekmalk/safedb-mcp",
-    "name": "safedb-mcp",
-    "description": "Secure MCP server for safe, read-only DB access by AI agents, with SQL guardrails, table allowlists, PII masking, and audit logs",
-    "descriptionZh": "安全MCP服务器，为AI代理提供只读数据库访问，包含SQL护栏、表白名单、PII掩码和审计日志。",
-    "url": "https://github.com/narekmalk/safedb-mcp",
-    "homepage": null,
-    "stars": 7,
-    "forks": 1,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx @safedb/safedb-mcp init --output safedb.yaml",
-    "lastCommit": "2026-05-27T10:23:58Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:29.551Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "3knightcz/codebeamer-mcp",
     "name": "codebeamer-mcp",
     "description": "codebeamer-mcp",
@@ -107347,41 +107092,6 @@
     "commits30d": 1,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:31.737Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "aegis-dq/aegis-dq",
-    "name": "aegis-dq",
-    "description": "Open, audit-grade agentic data quality framework with portable industry packs",
-    "descriptionZh": "开源可审计的智能数据质量框架，支持便携式行业包。",
-    "url": "https://github.com/aegis-dq/aegis-dq",
-    "homepage": null,
-    "stars": 4,
-    "forks": 2,
-    "topics": [
-      "agentic-ai",
-      "airflow",
-      "data-engineering",
-      "data-quality",
-      "dbt",
-      "duckdb",
-      "langgraph",
-      "llm",
-      "mlops",
-      "python"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install aegis-dq",
-    "lastCommit": "2026-05-27T20:34:08Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:35.242Z",
     "featured": false,
     "archived": false
   },
@@ -111628,32 +111338,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:14:58.159Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "getpoststack/mcp",
-    "name": "mcp",
-    "description": "MCP server for the PostStack Email API — 84 tools, 5 prompts, 5 resources for AI agents.",
-    "descriptionZh": "PostStack 邮件 API 的 MCP 服务器，为 AI 智能体提供 84 个工具、5 个提示和 5 个资源。",
-    "url": "https://github.com/getpoststack/mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx @poststack.dev/mcp --print-config claude-desktop",
-    "lastCommit": "2026-05-27T18:47:13Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:15:02.680Z",
     "featured": false,
     "archived": false
   },
@@ -120093,6 +119777,39 @@
     "archived": false
   },
   {
+    "id": "fradser/mcp-server-apple-events",
+    "name": "mcp-server-apple-events",
+    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
+    "descriptionZh": "基于 MCP 协议的服务器，通过 EventKit 原生集成 macOS 提醒事项与日历。",
+    "url": "https://github.com/FradSer/mcp-server-apple-events",
+    "homepage": null,
+    "stars": 153,
+    "forks": 42,
+    "topics": [
+      "calendar",
+      "eventkit",
+      "macos",
+      "mcp-server",
+      "model-context-protocol",
+      "reminders",
+      "swift",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx mcp-server-apple-events",
+    "lastCommit": "2026-05-27T13:23:28Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-06T02:42:12.124Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "posthog/mcp",
     "name": "mcp",
     "description": "Official PostHog MCP Server 🦔",
@@ -120123,6 +119840,105 @@
     "firstSeen": "2026-06-30T13:16:19.514Z",
     "featured": false,
     "archived": true
+  },
+  {
+    "id": "fradser/mcp-server-apple-events",
+    "name": "mcp-server-apple-events",
+    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
+    "descriptionZh": "基于 MCP 协议，通过 EventKit 实现 macOS 原生集成，支持 Apple 提醒事项与日历管理。",
+    "url": "https://github.com/FradSer/mcp-server-apple-events",
+    "homepage": null,
+    "stars": 150,
+    "forks": 41,
+    "topics": [
+      "calendar",
+      "eventkit",
+      "macos",
+      "mcp-server",
+      "model-context-protocol",
+      "reminders",
+      "swift",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx mcp-server-apple-events",
+    "lastCommit": "2026-05-27T13:23:28Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-03T02:26:20.074Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "fradser/mcp-server-apple-events",
+    "name": "mcp-server-apple-events",
+    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
+    "descriptionZh": "基于 MCP 协议，通过 EventKit 原生集成 macOS 提醒事项与日历的服务器。",
+    "url": "https://github.com/FradSer/mcp-server-apple-events",
+    "homepage": null,
+    "stars": 150,
+    "forks": 41,
+    "topics": [
+      "calendar",
+      "eventkit",
+      "macos",
+      "mcp-server",
+      "model-context-protocol",
+      "reminders",
+      "swift",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx mcp-server-apple-events",
+    "lastCommit": "2026-05-27T13:23:28Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-02T02:50:50.776Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "fradser/mcp-server-apple-events",
+    "name": "mcp-server-apple-events",
+    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
+    "descriptionZh": "基于 MCP 协议的服务器，通过 EventKit 原生集成 macOS 提醒事项与日历。",
+    "url": "https://github.com/FradSer/mcp-server-apple-events",
+    "homepage": null,
+    "stars": 150,
+    "forks": 41,
+    "topics": [
+      "calendar",
+      "eventkit",
+      "macos",
+      "mcp-server",
+      "model-context-protocol",
+      "reminders",
+      "swift",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx mcp-server-apple-events",
+    "lastCommit": "2026-05-27T13:23:28Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:14:24.656Z",
+    "featured": false,
+    "archived": false
   },
   {
     "id": "jabbawocky/proposalcraft",
@@ -120258,6 +120074,39 @@
     "firstSeen": "2026-06-30T13:15:30.434Z",
     "featured": false,
     "archived": true
+  },
+  {
+    "id": "fradser/mcp-server-apple-events",
+    "name": "mcp-server-apple-events",
+    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
+    "descriptionZh": "基于 MCP 协议的服务器，通过 EventKit 原生集成 macOS 提醒事项与日历。",
+    "url": "https://github.com/FradSer/mcp-server-apple-events",
+    "homepage": null,
+    "stars": 149,
+    "forks": 41,
+    "topics": [
+      "calendar",
+      "eventkit",
+      "macos",
+      "mcp-server",
+      "model-context-protocol",
+      "reminders",
+      "swift",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx mcp-server-apple-events",
+    "lastCommit": "2026-05-27T13:23:28Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-07-01T02:58:38.971Z",
+    "featured": false,
+    "archived": false
   },
   {
     "id": "asicojp/registep-mcp",
@@ -120999,6 +120848,72 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-12T02:16:22.565Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "fradser/mcp-server-apple-events",
+    "name": "mcp-server-apple-events",
+    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
+    "descriptionZh": "基于 EventKit 的 MCP 服务器，为 macOS 提供 Apple 提醒事项与日历的原生集成。",
+    "url": "https://github.com/FradSer/mcp-server-apple-events",
+    "homepage": null,
+    "stars": 150,
+    "forks": 42,
+    "topics": [
+      "calendar",
+      "eventkit",
+      "macos",
+      "mcp-server",
+      "model-context-protocol",
+      "reminders",
+      "swift",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx mcp-server-apple-events",
+    "lastCommit": "2026-05-27T13:23:28Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-05T02:39:49.820Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "fradser/mcp-server-apple-events",
+    "name": "mcp-server-apple-events",
+    "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
+    "descriptionZh": "基于 MCP 协议的服务器，通过 EventKit 原生集成 macOS 提醒事项与日历。",
+    "url": "https://github.com/FradSer/mcp-server-apple-events",
+    "homepage": null,
+    "stars": 150,
+    "forks": 42,
+    "topics": [
+      "calendar",
+      "eventkit",
+      "macos",
+      "mcp-server",
+      "model-context-protocol",
+      "reminders",
+      "swift",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx mcp-server-apple-events",
+    "lastCommit": "2026-05-27T13:23:28Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-07-04T02:23:05.238Z",
     "featured": false,
     "archived": false
   },
@@ -141458,6 +141373,30 @@
     "archived": false
   },
   {
+    "id": "narekmalk/safedb-mcp",
+    "name": "safedb-mcp",
+    "description": "Secure MCP server for safe, read-only DB access by AI agents, with SQL guardrails, table allowlists, PII masking, and audit logs",
+    "descriptionZh": "安全MCP服务器，为AI代理提供只读数据库访问，包含SQL护栏、表白名单、PII掩码和审计日志。",
+    "url": "https://github.com/narekmalk/safedb-mcp",
+    "homepage": null,
+    "stars": 7,
+    "forks": 1,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx @safedb/safedb-mcp init --output safedb.yaml",
+    "lastCommit": "2026-05-27T10:23:58Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:29.551Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "urldna/mcp",
     "name": "mcp",
     "description": "urlDNA MCP server",
@@ -144490,6 +144429,41 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:30.300Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "aegis-dq/aegis-dq",
+    "name": "aegis-dq",
+    "description": "Open, audit-grade agentic data quality framework with portable industry packs",
+    "descriptionZh": "开源可审计的智能数据质量框架，支持便携式行业包。",
+    "url": "https://github.com/aegis-dq/aegis-dq",
+    "homepage": null,
+    "stars": 4,
+    "forks": 2,
+    "topics": [
+      "agentic-ai",
+      "airflow",
+      "data-engineering",
+      "data-quality",
+      "dbt",
+      "duckdb",
+      "langgraph",
+      "llm",
+      "mlops",
+      "python"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install aegis-dq",
+    "lastCommit": "2026-05-27T20:34:08Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:35.242Z",
     "featured": false,
     "archived": false
   },
@@ -151298,6 +151272,32 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "getpoststack/mcp",
+    "name": "mcp",
+    "description": "MCP server for the PostStack Email API — 84 tools, 5 prompts, 5 resources for AI agents.",
+    "descriptionZh": "PostStack 邮件 API 的 MCP 服务器，为 AI 智能体提供 84 个工具、5 个提示和 5 个资源。",
+    "url": "https://github.com/getpoststack/mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx @poststack.dev/mcp --print-config claude-desktop",
+    "lastCommit": "2026-05-27T18:47:13Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:15:02.680Z",
     "featured": false,
     "archived": false
   },
