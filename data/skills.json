@@ -50539,36 +50539,6 @@
     "archived": false
   },
   {
-    "id": "chaindead/telegram-mcp",
-    "name": "telegram-mcp",
-    "description": "Telegram MCP for managing dialogs, messages, drafts, read statuses, and more.",
-    "descriptionZh": "Telegram MCP，用于管理对话、消息、草稿、已读状态等。",
-    "url": "https://github.com/chaindead/telegram-mcp",
-    "homepage": null,
-    "stars": 338,
-    "forks": 54,
-    "topics": [
-      "mcp",
-      "mcp-server",
-      "telegram",
-      "mtproto",
-      "telegram-api"
-    ],
-    "language": "Go",
-    "category": "ai-ml",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "brew install chaindead/tap/telegram-mcp",
-    "lastCommit": "2026-05-28T17:44:53Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:00.153Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mag123c/toktrack",
     "name": "toktrack",
     "description": "Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code)",
@@ -68598,6 +68568,36 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-15T02:00:57.611Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "chaindead/telegram-mcp",
+    "name": "telegram-mcp",
+    "description": "Telegram MCP for managing dialogs, messages, drafts, read statuses, and more.",
+    "descriptionZh": "Telegram MCP，用于管理对话、消息、草稿、已读状态等。",
+    "url": "https://github.com/chaindead/telegram-mcp",
+    "homepage": null,
+    "stars": 338,
+    "forks": 54,
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "telegram",
+      "mtproto",
+      "telegram-api"
+    ],
+    "language": "Go",
+    "category": "ai-ml",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "brew install chaindead/tap/telegram-mcp",
+    "lastCommit": "2026-05-28T17:44:53Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:00.153Z",
     "featured": false,
     "archived": false
   },
@@ -109296,31 +109296,6 @@
     "archived": false
   },
   {
-    "id": "0xdegenmo/lighter-mcp",
-    "name": "lighter-mcp",
-    "description": "lighter-mcp",
-    "descriptionZh": "轻量级MCP服务器，支持文件系统、命令行、Git、浏览器自动化等工具，可扩展工具集，兼容多种AI客户端。",
-    "url": "https://github.com/0xDegenMo/lighter-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "pip install 0xdegenmo-lighter-mcp",
-    "lastCommit": "2026-05-28T20:16:41Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:00.804Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "cct15/war-dashboard-data",
     "name": "war-dashboard-data",
     "description": "Futuristic Risk Intelligence — Geopolitical conflict risk data for AI agents (MCP/API)",
@@ -111833,30 +111808,6 @@
     "archived": false
   },
   {
-    "id": "playidea-lab/pcq",
-    "name": "pcq",
-    "description": "pcq",
-    "descriptionZh": "基于PC的量子计算模拟器，支持量子电路模拟与基础量子算法运行。",
-    "url": "https://github.com/playidea-lab/pcq",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "uv add pcq",
-    "lastCommit": "2026-05-29T00:10:12Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:16:45.532Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "agentlux/agentlux-mcp",
     "name": "agentlux-mcp",
     "description": "Embedded MCP toolkit for AgentLux marketplace, identity, creator, services, and social flows",
@@ -112333,48 +112284,6 @@
     "archived": false
   },
   {
-    "id": "fdcommercial/property-finance-mcp",
-    "name": "property-finance-mcp",
-    "description": "MCP server exposing FD Commercial's free UK property finance calculators: bridging cost, development appraisal, BTL stress test, UK stamp duty.",
-    "descriptionZh": "MCP 服务器，提供 FD Commercial 的英国房产金融免费计算器：过桥贷款成本、开发评估、买房出租压力测试、英国印花税。",
-    "url": "https://github.com/fdcommercial/property-finance-mcp",
-    "homepage": "https://www.fdcommercial.co.uk/property-finance-tools/",
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "ai-tools",
-      "anthropic",
-      "bridging",
-      "buy-to-let",
-      "claude",
-      "development-finance",
-      "fintech",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "mortgage-broker",
-      "property-finance",
-      "sdlt-calculator",
-      "stamp-duty",
-      "typescript",
-      "bridging-loan"
-    ],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-05-28T16:15:46Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:14.182Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "helm-protocol/openttt-mcp",
     "name": "openttt-mcp",
     "description": "OpenTTT MCP Server — Proof-of-Time temporal attestation for AI agents",
@@ -112833,43 +112742,6 @@
     "commits30d": 1,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-06T02:42:26.792Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "frontier-compute/zcash-mcp",
-    "name": "zcash-mcp",
-    "description": "ZAP1 attestation and proof-verification MCP for Zcash agents. Attestation layer, not a wallet.",
-    "descriptionZh": "ZAP1 认证与证明验证 MCP，为 Zcash 代理提供认证层，非钱包功能。",
-    "url": "https://github.com/Frontier-Compute/zcash-mcp",
-    "homepage": "https://pay.frontiercompute.io",
-    "stars": 0,
-    "forks": 1,
-    "topics": [
-      "ai-agent",
-      "claude",
-      "mcp",
-      "privacy",
-      "shielded",
-      "typescript",
-      "zap1",
-      "zcash",
-      "blockchain",
-      "cursor",
-      "mcp-server",
-      "model-context-protocol"
-    ],
-    "language": "TypeScript",
-    "category": "coding",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx @frontiercompute/zcash-mcp",
-    "lastCommit": "2026-05-29T04:35:14Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:32.453Z",
     "featured": false,
     "archived": false
   },
@@ -147789,6 +147661,31 @@
     "archived": false
   },
   {
+    "id": "0xdegenmo/lighter-mcp",
+    "name": "lighter-mcp",
+    "description": "lighter-mcp",
+    "descriptionZh": "轻量级MCP服务器，支持文件系统、命令行、Git、浏览器自动化等工具，可扩展工具集，兼容多种AI客户端。",
+    "url": "https://github.com/0xDegenMo/lighter-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "pip install 0xdegenmo-lighter-mcp",
+    "lastCommit": "2026-05-28T20:16:41Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:00.804Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "kosminus/querywise-mcp",
     "name": "querywise-mcp",
     "description": "An MCP server (and a CLI) that lets an LLM query your databases in natural language through a business semantic layer — glossary, metric definitions, data dictionary, knowledge base, and example queries — grounded against your real schema.",
@@ -151272,6 +151169,72 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "playidea-lab/pcq",
+    "name": "pcq",
+    "description": "pcq",
+    "descriptionZh": "基于PC的量子计算模拟器，支持量子电路模拟与基础量子算法运行。",
+    "url": "https://github.com/playidea-lab/pcq",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "uv add pcq",
+    "lastCommit": "2026-05-29T00:10:12Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:16:45.532Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "fdcommercial/property-finance-mcp",
+    "name": "property-finance-mcp",
+    "description": "MCP server exposing FD Commercial's free UK property finance calculators: bridging cost, development appraisal, BTL stress test, UK stamp duty.",
+    "descriptionZh": "MCP 服务器，提供 FD Commercial 的英国房产金融免费计算器：过桥贷款成本、开发评估、买房出租压力测试、英国印花税。",
+    "url": "https://github.com/fdcommercial/property-finance-mcp",
+    "homepage": "https://www.fdcommercial.co.uk/property-finance-tools/",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "ai-tools",
+      "anthropic",
+      "bridging",
+      "buy-to-let",
+      "claude",
+      "development-finance",
+      "fintech",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "mortgage-broker",
+      "property-finance",
+      "sdlt-calculator",
+      "stamp-duty",
+      "typescript",
+      "bridging-loan"
+    ],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-05-28T16:15:46Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:14.182Z",
     "featured": false,
     "archived": false
   },
@@ -154818,6 +154781,43 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-07-07T02:38:10.536Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "frontier-compute/zcash-mcp",
+    "name": "zcash-mcp",
+    "description": "ZAP1 attestation and proof-verification MCP for Zcash agents. Attestation layer, not a wallet.",
+    "descriptionZh": "ZAP1 认证与证明验证 MCP，为 Zcash 代理提供认证层，非钱包功能。",
+    "url": "https://github.com/Frontier-Compute/zcash-mcp",
+    "homepage": "https://pay.frontiercompute.io",
+    "stars": 0,
+    "forks": 1,
+    "topics": [
+      "ai-agent",
+      "claude",
+      "mcp",
+      "privacy",
+      "shielded",
+      "typescript",
+      "zap1",
+      "zcash",
+      "blockchain",
+      "cursor",
+      "mcp-server",
+      "model-context-protocol"
+    ],
+    "language": "TypeScript",
+    "category": "coding",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx @frontiercompute/zcash-mcp",
+    "lastCommit": "2026-05-29T04:35:14Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:32.453Z",
     "featured": false,
     "archived": false
   },
