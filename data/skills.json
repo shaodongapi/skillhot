@@ -107836,32 +107836,6 @@
     "archived": false
   },
   {
-    "id": "iprashantraj/mcp-discord-bridge",
-    "name": "mcp-discord-bridge",
-    "description": "AI assistant control a Discord server - reading messages, creating/deleting channels, sending messages ,All via the MCP protocol",
-    "descriptionZh": "AI助手通过MCP协议控制Discord服务器，可读取消息、创建/删除频道、发送消息。",
-    "url": "https://github.com/iprashantraj/mcp-discord-bridge",
-    "homepage": null,
-    "stars": 3,
-    "forks": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": "npx -y mcp-discord-bridge",
-    "lastCommit": "2026-05-29T19:27:05Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:15:03.991Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "davidmosiah/delx-mcp-server",
     "name": "delx-mcp-server",
     "description": "Native MCP stdio bridge for Delx Protocol",
@@ -112145,30 +112119,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:17:06.919Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "chrisbusbin-pixel/propfirmdealfinder-mcp-server",
-    "name": "propfirmdealfinder-mcp-server",
-    "description": "MCP server for Prop Firm Deal Finder - lets AI assistants query live prop firm discount codes, compare firms, and find the cheapest challenges across 20+ proprietary trading firms.",
-    "descriptionZh": "为 Prop Firm Deal Finder 提供 MCP 服务器，支持 AI 助手查询实时折扣码、对比公司，在 20 多家自营交易公司中寻找最便宜挑战。",
-    "url": "https://github.com/chrisbusbin-pixel/propfirmdealfinder-mcp-server",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npx propfirmdealfinder-mcp-server",
-    "lastCommit": "2026-05-29T08:41:45Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:17:08.666Z",
     "featured": false,
     "archived": false
   },
@@ -119616,39 +119566,6 @@
     "archived": false
   },
   {
-    "id": "aletaindex/aletaindex-fin-narratives",
-    "name": "aletaindex-fin-narratives",
-    "description": "Financial narrative intelligence for AI agents — real-time narrative tracking, sentiment, and insights for US equities via MCP or REST API.",
-    "descriptionZh": "面向AI代理的金融叙事智能——通过MCP或REST API提供美国股票的实时叙事追踪、情绪分析与洞察。",
-    "url": "https://github.com/AletaIndex/aletaindex-fin-narratives",
-    "homepage": "https://aletaindex-narrative.com",
-    "stars": 2,
-    "forks": 0,
-    "topics": [
-      "ai-agents",
-      "financial-intelligence",
-      "mcp",
-      "narrative-intelligence",
-      "stock-sentiment-analysis",
-      "topic-modeling"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-29T12:47:09Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:17:01.748Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "fradser/mcp-server-apple-events",
     "name": "mcp-server-apple-events",
     "description": "MCP server providing native macOS integration with Apple Reminders and Calendar via EventKit",
@@ -120157,43 +120074,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:14:37.085Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "avansaber/tailtest-cline",
-    "name": "tailtest-cline",
-    "description": "tailtest for Cline: MCP server + .clinerules pack + Memory Bank integration. Reaches 8+ editors via Cline. Adversarial test mode shipped from day one.",
-    "descriptionZh": "tailtest for Cline：MCP服务器 + .clinerules包 + Memory Bank集成，通过Cline覆盖8+编辑器，首发即内置对抗测试模式。",
-    "url": "https://github.com/avansaber/tailtest-cline",
-    "homepage": "https://tailtest.com",
-    "stars": 1,
-    "forks": 0,
-    "topics": [
-      "ai",
-      "ai-coding",
-      "automated-testing",
-      "cline",
-      "code-quality",
-      "mcp",
-      "mcp-server",
-      "python",
-      "testing"
-    ],
-    "language": "Python",
-    "category": "coding",
-    "platforms": [
-      "claude-code",
-      "cline",
-      "cursor",
-      "windsurf"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-29T19:38:47Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:48.743Z",
     "featured": false,
     "archived": false
   },
@@ -145730,6 +145610,32 @@
     "archived": false
   },
   {
+    "id": "iprashantraj/mcp-discord-bridge",
+    "name": "mcp-discord-bridge",
+    "description": "AI assistant control a Discord server - reading messages, creating/deleting channels, sending messages ,All via the MCP protocol",
+    "descriptionZh": "AI助手通过MCP协议控制Discord服务器，可读取消息、创建/删除频道、发送消息。",
+    "url": "https://github.com/iprashantraj/mcp-discord-bridge",
+    "homepage": null,
+    "stars": 3,
+    "forks": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": "npx -y mcp-discord-bridge",
+    "lastCommit": "2026-05-29T19:27:05Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:15:03.991Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "hypeprinter007-stack/signalfuse-mcp",
     "name": "signalfuse-mcp",
     "description": "MCP server for SignalFuse trading intelligence API",
@@ -151169,6 +151075,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "chrisbusbin-pixel/propfirmdealfinder-mcp-server",
+    "name": "propfirmdealfinder-mcp-server",
+    "description": "MCP server for Prop Firm Deal Finder - lets AI assistants query live prop firm discount codes, compare firms, and find the cheapest challenges across 20+ proprietary trading firms.",
+    "descriptionZh": "为 Prop Firm Deal Finder 提供 MCP 服务器，支持 AI 助手查询实时折扣码、对比公司，在 20 多家自营交易公司中寻找最便宜挑战。",
+    "url": "https://github.com/chrisbusbin-pixel/propfirmdealfinder-mcp-server",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npx propfirmdealfinder-mcp-server",
+    "lastCommit": "2026-05-29T08:41:45Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:17:08.666Z",
     "featured": false,
     "archived": false
   },
@@ -161553,6 +161483,39 @@
     "archived": true
   },
   {
+    "id": "aletaindex/aletaindex-fin-narratives",
+    "name": "aletaindex-fin-narratives",
+    "description": "Financial narrative intelligence for AI agents — real-time narrative tracking, sentiment, and insights for US equities via MCP or REST API.",
+    "descriptionZh": "面向AI代理的金融叙事智能——通过MCP或REST API提供美国股票的实时叙事追踪、情绪分析与洞察。",
+    "url": "https://github.com/AletaIndex/aletaindex-fin-narratives",
+    "homepage": "https://aletaindex-narrative.com",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "ai-agents",
+      "financial-intelligence",
+      "mcp",
+      "narrative-intelligence",
+      "stock-sentiment-analysis",
+      "topic-modeling"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-29T12:47:09Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:17:01.748Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "the402ai/mcp-server",
     "name": "mcp-server",
     "description": "MCP server for the402.ai — AI agent service marketplace. Browse services, purchase via x402 micropayments, manage threads, list services as a provider.",
@@ -162500,6 +162463,43 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:52.418Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "avansaber/tailtest-cline",
+    "name": "tailtest-cline",
+    "description": "tailtest for Cline: MCP server + .clinerules pack + Memory Bank integration. Reaches 8+ editors via Cline. Adversarial test mode shipped from day one.",
+    "descriptionZh": "tailtest for Cline：MCP服务器 + .clinerules包 + Memory Bank集成，通过Cline覆盖8+编辑器，首发即内置对抗测试模式。",
+    "url": "https://github.com/avansaber/tailtest-cline",
+    "homepage": "https://tailtest.com",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "ai",
+      "ai-coding",
+      "automated-testing",
+      "cline",
+      "code-quality",
+      "mcp",
+      "mcp-server",
+      "python",
+      "testing"
+    ],
+    "language": "Python",
+    "category": "coding",
+    "platforms": [
+      "claude-code",
+      "cline",
+      "cursor",
+      "windsurf"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-29T19:38:47Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:48.743Z",
     "featured": false,
     "archived": false
   },
