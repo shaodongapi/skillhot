@@ -88157,42 +88157,6 @@
     "archived": false
   },
   {
-    "id": "pragmar/mcp-server-webcrawl",
-    "name": "mcp-server-webcrawl",
-    "description": "MCP server tailored to connecting web crawler data and archives",
-    "descriptionZh": "连接网络爬虫数据与档案的MCP服务器，专为数据采集与归档场景定制。",
-    "url": "https://github.com/pragmar/mcp-server-webcrawl",
-    "homepage": "https://pragmar.com/mcp-server-webcrawl/",
-    "stars": 44,
-    "forks": 16,
-    "topics": [
-      "mcp",
-      "mcp-server",
-      "mcp-servers",
-      "knowledgebase",
-      "warc",
-      "wget",
-      "archivebox",
-      "httrack",
-      "katana",
-      "siteone",
-      "interrobot"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "pip install mcp-server-webcrawl",
-    "lastCommit": "2026-05-31T01:21:59Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-30T13:18:41.055Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "decodo/mcp-server",
     "name": "mcp-server",
     "description": "The Decodo MCP server which enables MCP clients to interface with services.",
@@ -108791,30 +108755,6 @@
     "archived": false
   },
   {
-    "id": "ikoskela/wisepanel-mcp",
-    "name": "wisepanel-mcp",
-    "description": "MCP server for Wisepanel multi-agent deliberation platform",
-    "descriptionZh": "Wisepanel 多智能体协作平台的 MCP 服务器，支持智能体间的结构化讨论与决策。",
-    "url": "https://github.com/ikoskela/wisepanel-mcp",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": "npm install",
-    "lastCommit": "2026-05-30T14:56:20Z",
-    "commits30d": 0,
-    "starGrowth30d": 1,
-    "firstSeen": "2026-06-29T14:29:25.840Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "ertad-family/liquid",
     "name": "liquid",
     "description": "AI discovers APIs. Code syncs data. No adapters to write.",
@@ -111204,30 +111144,6 @@
     "archived": false
   },
   {
-    "id": "shdomi8599/vibie-mcp",
-    "name": "vibie-mcp",
-    "description": "vibie-mcp",
-    "descriptionZh": "Vibie 的 MCP 服务器，支持通过自然语言查询和管理 Notion、GitHub、Gmail 等工具，实现 AI 驱动的自动化工作流。",
-    "url": "https://github.com/shdomi8599/vibie-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "category": "ui-design",
-    "platforms": [
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "npx vibie-mcp setup",
-    "lastCommit": "2026-05-30T10:21:42Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:40.255Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "eliottreich/taskbounty-mcp-server",
     "name": "taskbounty-mcp-server",
     "description": "MCP server for TaskBounty. Post AI-fixable bug bounties or pick them up. Funded in USD via Stripe, paid in USDC, ETH, or BTC.",
@@ -111458,31 +111374,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:15:39.968Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "leekangbum/networklytics-mcp",
-    "name": "networklytics-mcp",
-    "description": "networklytics-mcp",
-    "descriptionZh": "网络分析MCP服务器，提供网络流量监控、数据包分析及可视化功能，支持实时捕获与历史查询。",
-    "url": "https://github.com/Leekangbum/networklytics-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code",
-      "cursor"
-    ],
-    "useCases": [],
-    "installCmd": "pip install networklytics-mcp",
-    "lastCommit": "2026-05-30T09:36:52Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:15:40.204Z",
     "featured": false,
     "archived": false
   },
@@ -119775,41 +119666,6 @@
     "archived": false
   },
   {
-    "id": "pubspro/pubmed-search",
-    "name": "pubmed-search",
-    "description": "MCP server for PubMed search and literature summarization",
-    "descriptionZh": "PubMed 搜索与文献摘要的 MCP 服务器。",
-    "url": "https://github.com/pubspro/pubmed-search",
-    "homepage": null,
-    "stars": 2,
-    "forks": 0,
-    "topics": [
-      "ai-agent",
-      "biomedical",
-      "claude",
-      "healthcare",
-      "literature-search",
-      "mcp",
-      "medical-writing",
-      "model-context-protocol",
-      "nlm",
-      "pubmed"
-    ],
-    "language": "Python",
-    "category": "ai-ml",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-30T12:18:58Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:20.065Z",
-    "featured": false,
-    "archived": false
-  },
-  {
     "id": "mambalabsdev/mcp-icp-fit-scorer",
     "name": "mcp-icp-fit-scorer",
     "description": "MCP server for ICP Fit Scorer. Scores a company against your ideal customer profile with weighted signals via Apify. Returns a 0 to 100 score, a tier, and a per-signal breakdown. Clay-ready output.",
@@ -120050,30 +119906,6 @@
     "commits30d": 0,
     "starGrowth30d": 0,
     "firstSeen": "2026-06-30T13:14:33.680Z",
-    "featured": false,
-    "archived": false
-  },
-  {
-    "id": "mctlhq/mctl-mcp",
-    "name": "mctl-mcp",
-    "description": "mctl-mcp",
-    "descriptionZh": "mctl-mcp：一个用于管理多个MCP服务器的命令行工具，支持动态添加、移除和配置服务器，提供统一接口与AI助手交互。",
-    "url": "https://github.com/mctlhq/mctl-mcp",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "category": "data",
-    "platforms": [
-      "claude-code"
-    ],
-    "useCases": [],
-    "installCmd": null,
-    "lastCommit": "2026-05-30T17:27:07Z",
-    "commits30d": 0,
-    "starGrowth30d": 0,
-    "firstSeen": "2026-06-30T13:14:37.085Z",
     "featured": false,
     "archived": false
   },
@@ -128089,6 +127921,42 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:18:44.627Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "pragmar/mcp-server-webcrawl",
+    "name": "mcp-server-webcrawl",
+    "description": "MCP server tailored to connecting web crawler data and archives",
+    "descriptionZh": "连接网络爬虫数据与档案的MCP服务器，专为数据采集与归档场景定制。",
+    "url": "https://github.com/pragmar/mcp-server-webcrawl",
+    "homepage": "https://pragmar.com/mcp-server-webcrawl/",
+    "stars": 44,
+    "forks": 16,
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "mcp-servers",
+      "knowledgebase",
+      "warc",
+      "wget",
+      "archivebox",
+      "httrack",
+      "katana",
+      "siteone",
+      "interrobot"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "pip install mcp-server-webcrawl",
+    "lastCommit": "2026-05-31T01:21:59Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-30T13:18:41.055Z",
     "featured": false,
     "archived": false
   },
@@ -147567,6 +147435,30 @@
     "archived": false
   },
   {
+    "id": "ikoskela/wisepanel-mcp",
+    "name": "wisepanel-mcp",
+    "description": "MCP server for Wisepanel multi-agent deliberation platform",
+    "descriptionZh": "Wisepanel 多智能体协作平台的 MCP 服务器，支持智能体间的结构化讨论与决策。",
+    "url": "https://github.com/ikoskela/wisepanel-mcp",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": "npm install",
+    "lastCommit": "2026-05-30T14:56:20Z",
+    "commits30d": 0,
+    "starGrowth30d": 1,
+    "firstSeen": "2026-06-29T14:29:25.840Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "0xdegenmo/lighter-mcp",
     "name": "lighter-mcp",
     "description": "lighter-mcp",
@@ -151075,6 +150967,55 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:15:25.344Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "shdomi8599/vibie-mcp",
+    "name": "vibie-mcp",
+    "description": "vibie-mcp",
+    "descriptionZh": "Vibie 的 MCP 服务器，支持通过自然语言查询和管理 Notion、GitHub、Gmail 等工具，实现 AI 驱动的自动化工作流。",
+    "url": "https://github.com/shdomi8599/vibie-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "category": "ui-design",
+    "platforms": [
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "npx vibie-mcp setup",
+    "lastCommit": "2026-05-30T10:21:42Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:40.255Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "leekangbum/networklytics-mcp",
+    "name": "networklytics-mcp",
+    "description": "networklytics-mcp",
+    "descriptionZh": "网络分析MCP服务器，提供网络流量监控、数据包分析及可视化功能，支持实时捕获与历史查询。",
+    "url": "https://github.com/Leekangbum/networklytics-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code",
+      "cursor"
+    ],
+    "useCases": [],
+    "installCmd": "pip install networklytics-mcp",
+    "lastCommit": "2026-05-30T09:36:52Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:15:40.204Z",
     "featured": false,
     "archived": false
   },
@@ -162415,6 +162356,41 @@
     "archived": true
   },
   {
+    "id": "pubspro/pubmed-search",
+    "name": "pubmed-search",
+    "description": "MCP server for PubMed search and literature summarization",
+    "descriptionZh": "PubMed 搜索与文献摘要的 MCP 服务器。",
+    "url": "https://github.com/pubspro/pubmed-search",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "ai-agent",
+      "biomedical",
+      "claude",
+      "healthcare",
+      "literature-search",
+      "mcp",
+      "medical-writing",
+      "model-context-protocol",
+      "nlm",
+      "pubmed"
+    ],
+    "language": "Python",
+    "category": "ai-ml",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-30T12:18:58Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:20.065Z",
+    "featured": false,
+    "archived": false
+  },
+  {
     "id": "randa-mu/drand-mcp-server",
     "name": "drand-mcp-server",
     "description": "A model context protocol server for drand",
@@ -162463,6 +162439,30 @@
     "commits30d": 0,
     "starGrowth30d": 1,
     "firstSeen": "2026-06-30T13:17:52.418Z",
+    "featured": false,
+    "archived": false
+  },
+  {
+    "id": "mctlhq/mctl-mcp",
+    "name": "mctl-mcp",
+    "description": "mctl-mcp",
+    "descriptionZh": "mctl-mcp：一个用于管理多个MCP服务器的命令行工具，支持动态添加、移除和配置服务器，提供统一接口与AI助手交互。",
+    "url": "https://github.com/mctlhq/mctl-mcp",
+    "homepage": null,
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "JavaScript",
+    "category": "data",
+    "platforms": [
+      "claude-code"
+    ],
+    "useCases": [],
+    "installCmd": null,
+    "lastCommit": "2026-05-30T17:27:07Z",
+    "commits30d": 0,
+    "starGrowth30d": 0,
+    "firstSeen": "2026-06-30T13:14:37.085Z",
     "featured": false,
     "archived": false
   },
